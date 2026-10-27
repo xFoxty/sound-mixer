@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.soundmixer.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"AbstractSoundInstanceMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

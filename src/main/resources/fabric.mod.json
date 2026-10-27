@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "sound_mixer",
+	"version": "${version}",
+	"name": "Sound Mixer",
+	"description": "Per-sound volume control with search, filters and one-click reset. Supports Mod Menu.",
+	"authors": [
+		"Sound Mixer"
+	],
+	"license": "MIT",
+	"icon": "assets/sound_mixer/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.soundmixer.client.SoundMixerClient"
+		],
+		"modmenu": [
+			"com.soundmixer.compat.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		{
+			"config": "sound_mixer.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": ">=0.156.0"
+	},
+	"suggests": {
+		"modmenu": ">=20.0.0"
+	}
+}

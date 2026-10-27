@@ -1,0 +1,7874 @@
+{
+ "minecraft:ambient.basalt_deltas.additions": {
+  "en": "Basalt Deltas: Ambience Additions",
+  "zh": "玄武岩三角洲：环境附加音"
+ },
+ "minecraft:ambient.basalt_deltas.loop": {
+  "en": "Basalt Deltas: Loop",
+  "zh": "玄武岩三角洲：循环"
+ },
+ "minecraft:ambient.basalt_deltas.mood": {
+  "en": "Basalt Deltas: Mood",
+  "zh": "玄武岩三角洲：氛围"
+ },
+ "minecraft:ambient.cave": {
+  "en": "Cave: Ambience",
+  "zh": "洞穴：环境音"
+ },
+ "minecraft:ambient.crimson_forest.additions": {
+  "en": "Crimson Forest: Ambience Additions",
+  "zh": "绯红森林：环境附加音"
+ },
+ "minecraft:ambient.crimson_forest.loop": {
+  "en": "Crimson Forest: Loop",
+  "zh": "绯红森林：循环"
+ },
+ "minecraft:ambient.crimson_forest.mood": {
+  "en": "Crimson Forest: Mood",
+  "zh": "绯红森林：氛围"
+ },
+ "minecraft:ambient.nether_wastes.additions": {
+  "en": "Nether Wastes: Ambience Additions",
+  "zh": "下界荒地：环境附加音"
+ },
+ "minecraft:ambient.nether_wastes.loop": {
+  "en": "Nether Wastes: Loop",
+  "zh": "下界荒地：循环"
+ },
+ "minecraft:ambient.nether_wastes.mood": {
+  "en": "Nether Wastes: Mood",
+  "zh": "下界荒地：氛围"
+ },
+ "minecraft:ambient.soul_sand_valley.additions": {
+  "en": "Soul Sand Valley: Ambience Additions",
+  "zh": "灵魂沙峡谷：环境附加音"
+ },
+ "minecraft:ambient.soul_sand_valley.loop": {
+  "en": "Soul Sand Valley: Loop",
+  "zh": "灵魂沙峡谷：循环"
+ },
+ "minecraft:ambient.soul_sand_valley.mood": {
+  "en": "Soul Sand Valley: Mood",
+  "zh": "灵魂沙峡谷：氛围"
+ },
+ "minecraft:ambient.underwater.enter": {
+  "en": "Underwater: Enter",
+  "zh": "水下：进入"
+ },
+ "minecraft:ambient.underwater.exit": {
+  "en": "Underwater: Exit",
+  "zh": "水下：离开"
+ },
+ "minecraft:ambient.underwater.loop": {
+  "en": "Underwater: Loop",
+  "zh": "水下：循环"
+ },
+ "minecraft:ambient.underwater.loop.additions": {
+  "en": "Underwater: Loop Additions",
+  "zh": "水下：循环附加音"
+ },
+ "minecraft:ambient.underwater.loop.additions.rare": {
+  "en": "Underwater: Rare Loop Additions",
+  "zh": "水下：稀有循环附加音"
+ },
+ "minecraft:ambient.underwater.loop.additions.ultra_rare": {
+  "en": "Underwater: Ultra Rare Loop Additions",
+  "zh": "水下：极稀有循环附加音"
+ },
+ "minecraft:ambient.warped_forest.additions": {
+  "en": "Warped Forest: Ambience Additions",
+  "zh": "诡异森林：环境附加音"
+ },
+ "minecraft:ambient.warped_forest.loop": {
+  "en": "Warped Forest: Loop",
+  "zh": "诡异森林：循环"
+ },
+ "minecraft:ambient.warped_forest.mood": {
+  "en": "Warped Forest: Mood",
+  "zh": "诡异森林：氛围"
+ },
+ "minecraft:block.amethyst_block.break": {
+  "en": "Block of Amethyst: Break",
+  "zh": "紫水晶块：破坏"
+ },
+ "minecraft:block.amethyst_block.chime": {
+  "en": "Amethyst chimes",
+  "zh": "紫水晶：叮铃"
+ },
+ "minecraft:block.amethyst_block.fall": {
+  "en": "Block of Amethyst: Fall",
+  "zh": "紫水晶块：下落"
+ },
+ "minecraft:block.amethyst_block.hit": {
+  "en": "Block of Amethyst: Hit",
+  "zh": "紫水晶块：击打"
+ },
+ "minecraft:block.amethyst_block.place": {
+  "en": "Block of Amethyst: Place",
+  "zh": "紫水晶块：放置"
+ },
+ "minecraft:block.amethyst_block.resonate": {
+  "en": "Amethyst resonates",
+  "zh": "紫水晶：共振"
+ },
+ "minecraft:block.amethyst_block.step": {
+  "en": "Block of Amethyst: Step",
+  "zh": "紫水晶块：脚步"
+ },
+ "minecraft:block.amethyst_cluster.break": {
+  "en": "Amethyst Cluster: Break",
+  "zh": "紫水晶簇：破坏"
+ },
+ "minecraft:block.amethyst_cluster.fall": {
+  "en": "Amethyst Cluster: Fall",
+  "zh": "紫水晶簇：下落"
+ },
+ "minecraft:block.amethyst_cluster.hit": {
+  "en": "Amethyst Cluster: Hit",
+  "zh": "紫水晶簇：击打"
+ },
+ "minecraft:block.amethyst_cluster.place": {
+  "en": "Amethyst Cluster: Place",
+  "zh": "紫水晶簇：放置"
+ },
+ "minecraft:block.amethyst_cluster.step": {
+  "en": "Amethyst Cluster: Step",
+  "zh": "紫水晶簇：脚步"
+ },
+ "minecraft:block.ancient_debris.break": {
+  "en": "Ancient Debris: Break",
+  "zh": "远古残骸：破坏"
+ },
+ "minecraft:block.ancient_debris.fall": {
+  "en": "Ancient Debris: Fall",
+  "zh": "远古残骸：下落"
+ },
+ "minecraft:block.ancient_debris.hit": {
+  "en": "Ancient Debris: Hit",
+  "zh": "远古残骸：击打"
+ },
+ "minecraft:block.ancient_debris.place": {
+  "en": "Ancient Debris: Place",
+  "zh": "远古残骸：放置"
+ },
+ "minecraft:block.ancient_debris.step": {
+  "en": "Ancient Debris: Step",
+  "zh": "远古残骸：脚步"
+ },
+ "minecraft:block.anvil.break": {
+  "en": "Anvil: Break",
+  "zh": "铁砧：破坏"
+ },
+ "minecraft:block.anvil.destroy": {
+  "en": "Anvil destroyed",
+  "zh": "铁砧：被毁"
+ },
+ "minecraft:block.anvil.fall": {
+  "en": "Anvil: Fall",
+  "zh": "铁砧：下落"
+ },
+ "minecraft:block.anvil.hit": {
+  "en": "Anvil: Hit",
+  "zh": "铁砧：击打"
+ },
+ "minecraft:block.anvil.land": {
+  "en": "Anvil landed",
+  "zh": "铁砧：着陆"
+ },
+ "minecraft:block.anvil.place": {
+  "en": "Anvil: Place",
+  "zh": "铁砧：放置"
+ },
+ "minecraft:block.anvil.step": {
+  "en": "Anvil: Step",
+  "zh": "铁砧：脚步"
+ },
+ "minecraft:block.anvil.use": {
+  "en": "Anvil used",
+  "zh": "铁砧：使用"
+ },
+ "minecraft:block.azalea.break": {
+  "en": "Azalea: Break",
+  "zh": "杜鹃花丛：破坏"
+ },
+ "minecraft:block.azalea.fall": {
+  "en": "Azalea: Fall",
+  "zh": "杜鹃花丛：下落"
+ },
+ "minecraft:block.azalea.hit": {
+  "en": "Azalea: Hit",
+  "zh": "杜鹃花丛：击打"
+ },
+ "minecraft:block.azalea.place": {
+  "en": "Azalea: Place",
+  "zh": "杜鹃花丛：放置"
+ },
+ "minecraft:block.azalea.step": {
+  "en": "Azalea: Step",
+  "zh": "杜鹃花丛：脚步"
+ },
+ "minecraft:block.azalea_leaves.break": {
+  "en": "Azalea Leaves: Break",
+  "zh": "杜鹃树叶：破坏"
+ },
+ "minecraft:block.azalea_leaves.fall": {
+  "en": "Azalea Leaves: Fall",
+  "zh": "杜鹃树叶：下落"
+ },
+ "minecraft:block.azalea_leaves.hit": {
+  "en": "Azalea Leaves: Hit",
+  "zh": "杜鹃树叶：击打"
+ },
+ "minecraft:block.azalea_leaves.place": {
+  "en": "Azalea Leaves: Place",
+  "zh": "杜鹃树叶：放置"
+ },
+ "minecraft:block.azalea_leaves.step": {
+  "en": "Azalea Leaves: Step",
+  "zh": "杜鹃树叶：脚步"
+ },
+ "minecraft:block.bamboo.break": {
+  "en": "Bamboo: Break",
+  "zh": "竹子：破坏"
+ },
+ "minecraft:block.bamboo.fall": {
+  "en": "Bamboo: Fall",
+  "zh": "竹子：下落"
+ },
+ "minecraft:block.bamboo.hit": {
+  "en": "Bamboo: Hit",
+  "zh": "竹子：击打"
+ },
+ "minecraft:block.bamboo.place": {
+  "en": "Bamboo: Place",
+  "zh": "竹子：放置"
+ },
+ "minecraft:block.bamboo.step": {
+  "en": "Bamboo: Step",
+  "zh": "竹子：脚步"
+ },
+ "minecraft:block.bamboo_sapling.break": {
+  "en": "Bamboo Shoot: Break",
+  "zh": "竹笋：破坏"
+ },
+ "minecraft:block.bamboo_sapling.hit": {
+  "en": "Bamboo Shoot: Hit",
+  "zh": "竹笋：击打"
+ },
+ "minecraft:block.bamboo_sapling.place": {
+  "en": "Bamboo Shoot: Place",
+  "zh": "竹笋：放置"
+ },
+ "minecraft:block.bamboo_wood.break": {
+  "en": "Bamboo Wood: Break",
+  "zh": "竹木：破坏"
+ },
+ "minecraft:block.bamboo_wood.fall": {
+  "en": "Bamboo Wood: Fall",
+  "zh": "竹木：下落"
+ },
+ "minecraft:block.bamboo_wood.hit": {
+  "en": "Bamboo Wood: Hit",
+  "zh": "竹木：击打"
+ },
+ "minecraft:block.bamboo_wood.place": {
+  "en": "Bamboo Wood: Place",
+  "zh": "竹木：放置"
+ },
+ "minecraft:block.bamboo_wood.step": {
+  "en": "Bamboo Wood: Step",
+  "zh": "竹木：脚步"
+ },
+ "minecraft:block.bamboo_wood_button.click_off": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.bamboo_wood_button.click_on": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.bamboo_wood_door.close": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.bamboo_wood_door.open": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.bamboo_wood_fence_gate.close": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.bamboo_wood_fence_gate.open": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.bamboo_wood_hanging_sign.break": {
+  "en": "Bamboo Wood Hanging Sign: Break",
+  "zh": "竹木悬挂告示牌：破坏"
+ },
+ "minecraft:block.bamboo_wood_hanging_sign.fall": {
+  "en": "Bamboo Wood Hanging Sign: Fall",
+  "zh": "竹木悬挂告示牌：下落"
+ },
+ "minecraft:block.bamboo_wood_hanging_sign.hit": {
+  "en": "Bamboo Wood Hanging Sign: Hit",
+  "zh": "竹木悬挂告示牌：击打"
+ },
+ "minecraft:block.bamboo_wood_hanging_sign.place": {
+  "en": "Bamboo Wood Hanging Sign: Place",
+  "zh": "竹木悬挂告示牌：放置"
+ },
+ "minecraft:block.bamboo_wood_hanging_sign.step": {
+  "en": "Bamboo Wood Hanging Sign: Step",
+  "zh": "竹木悬挂告示牌：脚步"
+ },
+ "minecraft:block.bamboo_wood_pressure_plate.click_off": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.bamboo_wood_pressure_plate.click_on": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.bamboo_wood_trapdoor.close": {
+  "en": "Trapdoor closes",
+  "zh": "活板门：关闭"
+ },
+ "minecraft:block.bamboo_wood_trapdoor.open": {
+  "en": "Trapdoor opens",
+  "zh": "活板门：打开"
+ },
+ "minecraft:block.barrel.close": {
+  "en": "Barrel closes",
+  "zh": "木桶：关闭"
+ },
+ "minecraft:block.barrel.open": {
+  "en": "Barrel opens",
+  "zh": "木桶：打开"
+ },
+ "minecraft:block.basalt.break": {
+  "en": "Basalt: Break",
+  "zh": "玄武岩：破坏"
+ },
+ "minecraft:block.basalt.fall": {
+  "en": "Basalt: Fall",
+  "zh": "玄武岩：下落"
+ },
+ "minecraft:block.basalt.hit": {
+  "en": "Basalt: Hit",
+  "zh": "玄武岩：击打"
+ },
+ "minecraft:block.basalt.place": {
+  "en": "Basalt: Place",
+  "zh": "玄武岩：放置"
+ },
+ "minecraft:block.basalt.step": {
+  "en": "Basalt: Step",
+  "zh": "玄武岩：脚步"
+ },
+ "minecraft:block.beacon.activate": {
+  "en": "Beacon activates",
+  "zh": "信标：激活"
+ },
+ "minecraft:block.beacon.ambient": {
+  "en": "Beacon hums",
+  "zh": "信标：嗡嗡作响"
+ },
+ "minecraft:block.beacon.deactivate": {
+  "en": "Beacon deactivates",
+  "zh": "信标：失效"
+ },
+ "minecraft:block.beacon.power_select": {
+  "en": "Beacon power selected",
+  "zh": "信标：选择效果"
+ },
+ "minecraft:block.beehive.drip": {
+  "en": "Honey drips",
+  "zh": "蜂蜜：滴落"
+ },
+ "minecraft:block.beehive.enter": {
+  "en": "Bee enters hive",
+  "zh": "蜜蜂：入巢"
+ },
+ "minecraft:block.beehive.exit": {
+  "en": "Bee leaves hive",
+  "zh": "蜜蜂：离巢"
+ },
+ "minecraft:block.beehive.shear": {
+  "en": "Shears scrape",
+  "zh": "剪刀：刮削"
+ },
+ "minecraft:block.beehive.work": {
+  "en": "Bees work",
+  "zh": "蜜蜂：工作"
+ },
+ "minecraft:block.bell.resonate": {
+  "en": "Bell resonates",
+  "zh": "钟：回响"
+ },
+ "minecraft:block.bell.use": {
+  "en": "Bell rings",
+  "zh": "钟：响起"
+ },
+ "minecraft:block.big_dripleaf.break": {
+  "en": "Big Dripleaf: Break",
+  "zh": "大型垂滴叶：破坏"
+ },
+ "minecraft:block.big_dripleaf.fall": {
+  "en": "Big Dripleaf: Fall",
+  "zh": "大型垂滴叶：下落"
+ },
+ "minecraft:block.big_dripleaf.hit": {
+  "en": "Big Dripleaf: Hit",
+  "zh": "大型垂滴叶：击打"
+ },
+ "minecraft:block.big_dripleaf.place": {
+  "en": "Big Dripleaf: Place",
+  "zh": "大型垂滴叶：放置"
+ },
+ "minecraft:block.big_dripleaf.step": {
+  "en": "Big Dripleaf: Step",
+  "zh": "大型垂滴叶：脚步"
+ },
+ "minecraft:block.big_dripleaf.tilt_down": {
+  "en": "Dripleaf tilts down",
+  "zh": "垂滴叶：折下"
+ },
+ "minecraft:block.big_dripleaf.tilt_up": {
+  "en": "Dripleaf tilts up",
+  "zh": "垂滴叶：升起"
+ },
+ "minecraft:block.blastfurnace.fire_crackle": {
+  "en": "Blast Furnace crackles",
+  "zh": "高炉：噼啪作响"
+ },
+ "minecraft:block.bone_block.break": {
+  "en": "Bone Block: Break",
+  "zh": "骨块：破坏"
+ },
+ "minecraft:block.bone_block.fall": {
+  "en": "Bone Block: Fall",
+  "zh": "骨块：下落"
+ },
+ "minecraft:block.bone_block.hit": {
+  "en": "Bone Block: Hit",
+  "zh": "骨块：击打"
+ },
+ "minecraft:block.bone_block.place": {
+  "en": "Bone Block: Place",
+  "zh": "骨块：放置"
+ },
+ "minecraft:block.bone_block.step": {
+  "en": "Bone Block: Step",
+  "zh": "骨块：脚步"
+ },
+ "minecraft:block.brewing_stand.brew": {
+  "en": "Brewing Stand bubbles",
+  "zh": "酿造台：冒泡"
+ },
+ "minecraft:block.bubble_column.bubble_pop": {
+  "en": "Bubbles pop",
+  "zh": "气泡：破裂"
+ },
+ "minecraft:block.bubble_column.upwards_ambient": {
+  "en": "Bubbles flow",
+  "zh": "气泡：上浮"
+ },
+ "minecraft:block.bubble_column.upwards_inside": {
+  "en": "Bubbles woosh",
+  "zh": "气泡：上升"
+ },
+ "minecraft:block.bubble_column.whirlpool_ambient": {
+  "en": "Bubbles whirl",
+  "zh": "气泡：旋转"
+ },
+ "minecraft:block.bubble_column.whirlpool_inside": {
+  "en": "Bubbles zoom",
+  "zh": "气泡：骤降"
+ },
+ "minecraft:block.cactus_flower.break": {
+  "en": "Cactus Flower: Break",
+  "zh": "仙人掌花：破坏"
+ },
+ "minecraft:block.cactus_flower.place": {
+  "en": "Cactus Flower: Place",
+  "zh": "仙人掌花：放置"
+ },
+ "minecraft:block.cake.add_candle": {
+  "en": "Cake squishes",
+  "zh": "蛋糕：吧唧"
+ },
+ "minecraft:block.calcite.break": {
+  "en": "Calcite: Break",
+  "zh": "方解石：破坏"
+ },
+ "minecraft:block.calcite.fall": {
+  "en": "Calcite: Fall",
+  "zh": "方解石：下落"
+ },
+ "minecraft:block.calcite.hit": {
+  "en": "Calcite: Hit",
+  "zh": "方解石：击打"
+ },
+ "minecraft:block.calcite.place": {
+  "en": "Calcite: Place",
+  "zh": "方解石：放置"
+ },
+ "minecraft:block.calcite.step": {
+  "en": "Calcite: Step",
+  "zh": "方解石：脚步"
+ },
+ "minecraft:block.campfire.crackle": {
+  "en": "Campfire crackles",
+  "zh": "营火：噼啪作响"
+ },
+ "minecraft:block.candle.ambient": {
+  "en": "Candle crackles",
+  "zh": "蜡烛：噼啪作响"
+ },
+ "minecraft:block.candle.break": {
+  "en": "Candle: Break",
+  "zh": "蜡烛：破坏"
+ },
+ "minecraft:block.candle.extinguish": {
+  "en": "Candle extinguishes",
+  "zh": "蜡烛：熄灭"
+ },
+ "minecraft:block.candle.fall": {
+  "en": "Candle: Fall",
+  "zh": "蜡烛：下落"
+ },
+ "minecraft:block.candle.hit": {
+  "en": "Candle: Hit",
+  "zh": "蜡烛：击打"
+ },
+ "minecraft:block.candle.place": {
+  "en": "Candle: Place",
+  "zh": "蜡烛：放置"
+ },
+ "minecraft:block.candle.step": {
+  "en": "Candle: Step",
+  "zh": "蜡烛：脚步"
+ },
+ "minecraft:block.cave_vines.break": {
+  "en": "Cave Vines: Break",
+  "zh": "洞穴藤蔓：破坏"
+ },
+ "minecraft:block.cave_vines.fall": {
+  "en": "Cave Vines: Fall",
+  "zh": "洞穴藤蔓：下落"
+ },
+ "minecraft:block.cave_vines.hit": {
+  "en": "Cave Vines: Hit",
+  "zh": "洞穴藤蔓：击打"
+ },
+ "minecraft:block.cave_vines.pick_berries": {
+  "en": "Berries pop",
+  "zh": "浆果：弹出"
+ },
+ "minecraft:block.cave_vines.place": {
+  "en": "Cave Vines: Place",
+  "zh": "洞穴藤蔓：放置"
+ },
+ "minecraft:block.cave_vines.step": {
+  "en": "Cave Vines: Step",
+  "zh": "洞穴藤蔓：脚步"
+ },
+ "minecraft:block.chain.break": {
+  "en": "Chain: Break",
+  "zh": "锁链：破坏"
+ },
+ "minecraft:block.chain.fall": {
+  "en": "Chain: Fall",
+  "zh": "锁链：下落"
+ },
+ "minecraft:block.chain.hit": {
+  "en": "Chain: Hit",
+  "zh": "锁链：击打"
+ },
+ "minecraft:block.chain.place": {
+  "en": "Chain: Place",
+  "zh": "锁链：放置"
+ },
+ "minecraft:block.chain.step": {
+  "en": "Chain: Step",
+  "zh": "锁链：脚步"
+ },
+ "minecraft:block.cherry_leaves.break": {
+  "en": "Cherry Leaves: Break",
+  "zh": "樱花树叶：破坏"
+ },
+ "minecraft:block.cherry_leaves.fall": {
+  "en": "Cherry Leaves: Fall",
+  "zh": "樱花树叶：下落"
+ },
+ "minecraft:block.cherry_leaves.hit": {
+  "en": "Cherry Leaves: Hit",
+  "zh": "樱花树叶：击打"
+ },
+ "minecraft:block.cherry_leaves.place": {
+  "en": "Cherry Leaves: Place",
+  "zh": "樱花树叶：放置"
+ },
+ "minecraft:block.cherry_leaves.step": {
+  "en": "Cherry Leaves: Step",
+  "zh": "樱花树叶：脚步"
+ },
+ "minecraft:block.cherry_sapling.break": {
+  "en": "Cherry Sapling: Break",
+  "zh": "樱花树苗：破坏"
+ },
+ "minecraft:block.cherry_sapling.fall": {
+  "en": "Cherry Sapling: Fall",
+  "zh": "樱花树苗：下落"
+ },
+ "minecraft:block.cherry_sapling.hit": {
+  "en": "Cherry Sapling: Hit",
+  "zh": "樱花树苗：击打"
+ },
+ "minecraft:block.cherry_sapling.place": {
+  "en": "Cherry Sapling: Place",
+  "zh": "樱花树苗：放置"
+ },
+ "minecraft:block.cherry_sapling.step": {
+  "en": "Cherry Sapling: Step",
+  "zh": "樱花树苗：脚步"
+ },
+ "minecraft:block.cherry_wood.break": {
+  "en": "Cherry Wood: Break",
+  "zh": "樱花木：破坏"
+ },
+ "minecraft:block.cherry_wood.fall": {
+  "en": "Cherry Wood: Fall",
+  "zh": "樱花木：下落"
+ },
+ "minecraft:block.cherry_wood.hit": {
+  "en": "Cherry Wood: Hit",
+  "zh": "樱花木：击打"
+ },
+ "minecraft:block.cherry_wood.place": {
+  "en": "Cherry Wood: Place",
+  "zh": "樱花木：放置"
+ },
+ "minecraft:block.cherry_wood.step": {
+  "en": "Cherry Wood: Step",
+  "zh": "樱花木：脚步"
+ },
+ "minecraft:block.cherry_wood_button.click_off": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.cherry_wood_button.click_on": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.cherry_wood_door.close": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.cherry_wood_door.open": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.cherry_wood_fence_gate.close": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.cherry_wood_fence_gate.open": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.cherry_wood_hanging_sign.break": {
+  "en": "Cherry Wood Hanging Sign: Break",
+  "zh": "樱花木悬挂告示牌：破坏"
+ },
+ "minecraft:block.cherry_wood_hanging_sign.fall": {
+  "en": "Cherry Wood Hanging Sign: Fall",
+  "zh": "樱花木悬挂告示牌：下落"
+ },
+ "minecraft:block.cherry_wood_hanging_sign.hit": {
+  "en": "Cherry Wood Hanging Sign: Hit",
+  "zh": "樱花木悬挂告示牌：击打"
+ },
+ "minecraft:block.cherry_wood_hanging_sign.place": {
+  "en": "Cherry Wood Hanging Sign: Place",
+  "zh": "樱花木悬挂告示牌：放置"
+ },
+ "minecraft:block.cherry_wood_hanging_sign.step": {
+  "en": "Cherry Wood Hanging Sign: Step",
+  "zh": "樱花木悬挂告示牌：脚步"
+ },
+ "minecraft:block.cherry_wood_pressure_plate.click_off": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.cherry_wood_pressure_plate.click_on": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.cherry_wood_trapdoor.close": {
+  "en": "Trapdoor closes",
+  "zh": "活板门：关闭"
+ },
+ "minecraft:block.cherry_wood_trapdoor.open": {
+  "en": "Trapdoor opens",
+  "zh": "活板门：打开"
+ },
+ "minecraft:block.chest.close": {
+  "en": "Chest closes",
+  "zh": "箱子：关闭"
+ },
+ "minecraft:block.chest.locked": {
+  "en": "Chest locked",
+  "zh": "箱子：锁上"
+ },
+ "minecraft:block.chest.open": {
+  "en": "Chest opens",
+  "zh": "箱子：开启"
+ },
+ "minecraft:block.chiseled_bookshelf.break": {
+  "en": "Chiseled Bookshelf: Break",
+  "zh": "雕纹书架：破坏"
+ },
+ "minecraft:block.chiseled_bookshelf.fall": {
+  "en": "Chiseled Bookshelf: Fall",
+  "zh": "雕纹书架：下落"
+ },
+ "minecraft:block.chiseled_bookshelf.hit": {
+  "en": "Chiseled Bookshelf: Hit",
+  "zh": "雕纹书架：击打"
+ },
+ "minecraft:block.chiseled_bookshelf.insert": {
+  "en": "Book placed",
+  "zh": "书：被放入"
+ },
+ "minecraft:block.chiseled_bookshelf.insert.enchanted": {
+  "en": "Enchanted Book placed",
+  "zh": "附魔书：被放入"
+ },
+ "minecraft:block.chiseled_bookshelf.pickup": {
+  "en": "Book taken",
+  "zh": "书：被取出"
+ },
+ "minecraft:block.chiseled_bookshelf.pickup.enchanted": {
+  "en": "Enchanted Book taken",
+  "zh": "附魔书：被取出"
+ },
+ "minecraft:block.chiseled_bookshelf.place": {
+  "en": "Chiseled Bookshelf: Place",
+  "zh": "雕纹书架：放置"
+ },
+ "minecraft:block.chiseled_bookshelf.step": {
+  "en": "Chiseled Bookshelf: Step",
+  "zh": "雕纹书架：脚步"
+ },
+ "minecraft:block.chorus_flower.death": {
+  "en": "Chorus Flower withers",
+  "zh": "紫颂花：凋零"
+ },
+ "minecraft:block.chorus_flower.grow": {
+  "en": "Chorus Flower grows",
+  "zh": "紫颂花：生长"
+ },
+ "minecraft:block.cinnabar.break": {
+  "en": "Cinnabar: Break",
+  "zh": "朱砂：破坏"
+ },
+ "minecraft:block.cinnabar.fall": {
+  "en": "Cinnabar: Fall",
+  "zh": "朱砂：下落"
+ },
+ "minecraft:block.cinnabar.hit": {
+  "en": "Cinnabar: Hit",
+  "zh": "朱砂：击打"
+ },
+ "minecraft:block.cinnabar.place": {
+  "en": "Cinnabar: Place",
+  "zh": "朱砂：放置"
+ },
+ "minecraft:block.cinnabar.step": {
+  "en": "Cinnabar: Step",
+  "zh": "朱砂：脚步"
+ },
+ "minecraft:block.cobweb.break": {
+  "en": "Cobweb: Break",
+  "zh": "蜘蛛网：破坏"
+ },
+ "minecraft:block.cobweb.fall": {
+  "en": "Cobweb: Fall",
+  "zh": "蜘蛛网：下落"
+ },
+ "minecraft:block.cobweb.hit": {
+  "en": "Cobweb: Hit",
+  "zh": "蜘蛛网：击打"
+ },
+ "minecraft:block.cobweb.place": {
+  "en": "Cobweb: Place",
+  "zh": "蜘蛛网：放置"
+ },
+ "minecraft:block.cobweb.step": {
+  "en": "Cobweb: Step",
+  "zh": "蜘蛛网：脚步"
+ },
+ "minecraft:block.comparator.click": {
+  "en": "Comparator clicks",
+  "zh": "比较器：模式变更"
+ },
+ "minecraft:block.composter.empty": {
+  "en": "Composter emptied",
+  "zh": "堆肥桶：清空"
+ },
+ "minecraft:block.composter.fill": {
+  "en": "Composter filled",
+  "zh": "堆肥桶：填充"
+ },
+ "minecraft:block.composter.fill_success": {
+  "en": "Composter filled",
+  "zh": "堆肥桶：填充"
+ },
+ "minecraft:block.composter.ready": {
+  "en": "Composter composts",
+  "zh": "堆肥桶：堆肥"
+ },
+ "minecraft:block.conduit.activate": {
+  "en": "Conduit activates",
+  "zh": "潮涌核心：激活"
+ },
+ "minecraft:block.conduit.ambient": {
+  "en": "Conduit pulses",
+  "zh": "潮涌核心：涌动"
+ },
+ "minecraft:block.conduit.ambient.short": {
+  "en": "Conduit: Ambience (Short)",
+  "zh": "潮涌核心：环境音（短）"
+ },
+ "minecraft:block.conduit.attack.target": {
+  "en": "Conduit attacks",
+  "zh": "潮涌核心：攻击"
+ },
+ "minecraft:block.conduit.deactivate": {
+  "en": "Conduit deactivates",
+  "zh": "潮涌核心：失效"
+ },
+ "minecraft:block.copper.break": {
+  "en": "Copper: Break",
+  "zh": "铜：破坏"
+ },
+ "minecraft:block.copper.fall": {
+  "en": "Copper: Fall",
+  "zh": "铜：下落"
+ },
+ "minecraft:block.copper.hit": {
+  "en": "Copper: Hit",
+  "zh": "铜：击打"
+ },
+ "minecraft:block.copper.place": {
+  "en": "Copper: Place",
+  "zh": "铜：放置"
+ },
+ "minecraft:block.copper.step": {
+  "en": "Copper: Step",
+  "zh": "铜：脚步"
+ },
+ "minecraft:block.copper_bulb.break": {
+  "en": "Copper Bulb: Break",
+  "zh": "铜灯：破坏"
+ },
+ "minecraft:block.copper_bulb.fall": {
+  "en": "Copper Bulb: Fall",
+  "zh": "铜灯：下落"
+ },
+ "minecraft:block.copper_bulb.hit": {
+  "en": "Copper Bulb: Hit",
+  "zh": "铜灯：击打"
+ },
+ "minecraft:block.copper_bulb.place": {
+  "en": "Copper Bulb: Place",
+  "zh": "铜灯：放置"
+ },
+ "minecraft:block.copper_bulb.step": {
+  "en": "Copper Bulb: Step",
+  "zh": "铜灯：脚步"
+ },
+ "minecraft:block.copper_bulb.turn_off": {
+  "en": "Copper Bulb turns off",
+  "zh": "铜灯：熄灭"
+ },
+ "minecraft:block.copper_bulb.turn_on": {
+  "en": "Copper Bulb turns on",
+  "zh": "铜灯：亮起"
+ },
+ "minecraft:block.copper_chest.close": {
+  "en": "Chest closes",
+  "zh": "箱子：关闭"
+ },
+ "minecraft:block.copper_chest.open": {
+  "en": "Chest opens",
+  "zh": "箱子：开启"
+ },
+ "minecraft:block.copper_chest_oxidized.close": {
+  "en": "Chest closes",
+  "zh": "箱子：关闭"
+ },
+ "minecraft:block.copper_chest_oxidized.open": {
+  "en": "Chest opens",
+  "zh": "箱子：开启"
+ },
+ "minecraft:block.copper_chest_weathered.close": {
+  "en": "Chest closes",
+  "zh": "箱子：关闭"
+ },
+ "minecraft:block.copper_chest_weathered.open": {
+  "en": "Chest opens",
+  "zh": "箱子：开启"
+ },
+ "minecraft:block.copper_door.close": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.copper_door.open": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.copper_golem_statue.break": {
+  "en": "Copper Golem Statue: Break",
+  "zh": "铜傀儡像：破坏"
+ },
+ "minecraft:block.copper_golem_statue.fall": {
+  "en": "Copper Golem Statue: Fall",
+  "zh": "铜傀儡像：下落"
+ },
+ "minecraft:block.copper_golem_statue.hit": {
+  "en": "Copper Golem Statue: Hit",
+  "zh": "铜傀儡像：击打"
+ },
+ "minecraft:block.copper_golem_statue.place": {
+  "en": "Copper Golem Statue: Place",
+  "zh": "铜傀儡像：放置"
+ },
+ "minecraft:block.copper_golem_statue.step": {
+  "en": "Copper Golem Statue: Step",
+  "zh": "铜傀儡像：脚步"
+ },
+ "minecraft:block.copper_grate.break": {
+  "en": "Copper Grate: Break",
+  "zh": "铜格栅：破坏"
+ },
+ "minecraft:block.copper_grate.fall": {
+  "en": "Copper Grate: Fall",
+  "zh": "铜格栅：下落"
+ },
+ "minecraft:block.copper_grate.hit": {
+  "en": "Copper Grate: Hit",
+  "zh": "铜格栅：击打"
+ },
+ "minecraft:block.copper_grate.place": {
+  "en": "Copper Grate: Place",
+  "zh": "铜格栅：放置"
+ },
+ "minecraft:block.copper_grate.step": {
+  "en": "Copper Grate: Step",
+  "zh": "铜格栅：脚步"
+ },
+ "minecraft:block.copper_trapdoor.close": {
+  "en": "Trapdoor closes",
+  "zh": "活板门：关闭"
+ },
+ "minecraft:block.copper_trapdoor.open": {
+  "en": "Trapdoor opens",
+  "zh": "活板门：打开"
+ },
+ "minecraft:block.coral_block.break": {
+  "en": "Coral Block: Break",
+  "zh": "珊瑚块：破坏"
+ },
+ "minecraft:block.coral_block.fall": {
+  "en": "Coral Block: Fall",
+  "zh": "珊瑚块：下落"
+ },
+ "minecraft:block.coral_block.hit": {
+  "en": "Coral Block: Hit",
+  "zh": "珊瑚块：击打"
+ },
+ "minecraft:block.coral_block.place": {
+  "en": "Coral Block: Place",
+  "zh": "珊瑚块：放置"
+ },
+ "minecraft:block.coral_block.step": {
+  "en": "Coral Block: Step",
+  "zh": "珊瑚块：脚步"
+ },
+ "minecraft:block.crafter.craft": {
+  "en": "Crafter crafts",
+  "zh": "合成器：合成"
+ },
+ "minecraft:block.crafter.fail": {
+  "en": "Crafter fails crafting",
+  "zh": "合成器：合成失败"
+ },
+ "minecraft:block.creaking_heart.break": {
+  "en": "Creaking Heart: Break",
+  "zh": "嘎枝之心：破坏"
+ },
+ "minecraft:block.creaking_heart.fall": {
+  "en": "Creaking Heart: Fall",
+  "zh": "嘎枝之心：下落"
+ },
+ "minecraft:block.creaking_heart.hit": {
+  "en": "Creaking Heart: Hit",
+  "zh": "嘎枝之心：击打"
+ },
+ "minecraft:block.creaking_heart.hurt": {
+  "en": "Creaking Heart grumbles",
+  "zh": "嘎枝之心：咕哝"
+ },
+ "minecraft:block.creaking_heart.idle": {
+  "en": "Eerie noise",
+  "zh": "怪异的噪声"
+ },
+ "minecraft:block.creaking_heart.place": {
+  "en": "Creaking Heart: Place",
+  "zh": "嘎枝之心：放置"
+ },
+ "minecraft:block.creaking_heart.spawn": {
+  "en": "Creaking Heart awakens",
+  "zh": "嘎枝之心：苏醒"
+ },
+ "minecraft:block.creaking_heart.step": {
+  "en": "Creaking Heart: Step",
+  "zh": "嘎枝之心：脚步"
+ },
+ "minecraft:block.crop.break": {
+  "en": "Crop: Break",
+  "zh": "作物：破坏"
+ },
+ "minecraft:block.deadbush.idle": {
+  "en": "Dry sounds",
+  "zh": "干枯声"
+ },
+ "minecraft:block.decorated_pot.break": {
+  "en": "Decorated Pot: Break",
+  "zh": "饰纹陶罐：破坏"
+ },
+ "minecraft:block.decorated_pot.fall": {
+  "en": "Decorated Pot: Fall",
+  "zh": "饰纹陶罐：下落"
+ },
+ "minecraft:block.decorated_pot.hit": {
+  "en": "Decorated Pot: Hit",
+  "zh": "饰纹陶罐：击打"
+ },
+ "minecraft:block.decorated_pot.insert": {
+  "en": "Decorated Pot fills",
+  "zh": "饰纹陶罐：装入"
+ },
+ "minecraft:block.decorated_pot.insert_fail": {
+  "en": "Decorated Pot wobbles",
+  "zh": "饰纹陶罐：晃动"
+ },
+ "minecraft:block.decorated_pot.place": {
+  "en": "Decorated Pot: Place",
+  "zh": "饰纹陶罐：放置"
+ },
+ "minecraft:block.decorated_pot.shatter": {
+  "en": "Decorated Pot shatters",
+  "zh": "饰纹陶罐：碎裂"
+ },
+ "minecraft:block.decorated_pot.step": {
+  "en": "Decorated Pot: Step",
+  "zh": "饰纹陶罐：脚步"
+ },
+ "minecraft:block.deepslate.break": {
+  "en": "Deepslate: Break",
+  "zh": "深板岩：破坏"
+ },
+ "minecraft:block.deepslate.fall": {
+  "en": "Deepslate: Fall",
+  "zh": "深板岩：下落"
+ },
+ "minecraft:block.deepslate.hit": {
+  "en": "Deepslate: Hit",
+  "zh": "深板岩：击打"
+ },
+ "minecraft:block.deepslate.place": {
+  "en": "Deepslate: Place",
+  "zh": "深板岩：放置"
+ },
+ "minecraft:block.deepslate.step": {
+  "en": "Deepslate: Step",
+  "zh": "深板岩：脚步"
+ },
+ "minecraft:block.deepslate_bricks.break": {
+  "en": "Deepslate Bricks: Break",
+  "zh": "深板岩砖：破坏"
+ },
+ "minecraft:block.deepslate_bricks.fall": {
+  "en": "Deepslate Bricks: Fall",
+  "zh": "深板岩砖：下落"
+ },
+ "minecraft:block.deepslate_bricks.hit": {
+  "en": "Deepslate Bricks: Hit",
+  "zh": "深板岩砖：击打"
+ },
+ "minecraft:block.deepslate_bricks.place": {
+  "en": "Deepslate Bricks: Place",
+  "zh": "深板岩砖：放置"
+ },
+ "minecraft:block.deepslate_bricks.step": {
+  "en": "Deepslate Bricks: Step",
+  "zh": "深板岩砖：脚步"
+ },
+ "minecraft:block.deepslate_tiles.break": {
+  "en": "Deepslate Tiles: Break",
+  "zh": "深板岩瓦：破坏"
+ },
+ "minecraft:block.deepslate_tiles.fall": {
+  "en": "Deepslate Tiles: Fall",
+  "zh": "深板岩瓦：下落"
+ },
+ "minecraft:block.deepslate_tiles.hit": {
+  "en": "Deepslate Tiles: Hit",
+  "zh": "深板岩瓦：击打"
+ },
+ "minecraft:block.deepslate_tiles.place": {
+  "en": "Deepslate Tiles: Place",
+  "zh": "深板岩瓦：放置"
+ },
+ "minecraft:block.deepslate_tiles.step": {
+  "en": "Deepslate Tiles: Step",
+  "zh": "深板岩瓦：脚步"
+ },
+ "minecraft:block.dispenser.dispense": {
+  "en": "Dispensed item",
+  "zh": "物品：被射出"
+ },
+ "minecraft:block.dispenser.fail": {
+  "en": "Dispenser failed",
+  "zh": "发射器：发射失败"
+ },
+ "minecraft:block.dispenser.launch": {
+  "en": "Dispensed item",
+  "zh": "物品：被射出"
+ },
+ "minecraft:block.dried_ghast.ambient": {
+  "en": "Sounds of dryness",
+  "zh": "干燥声"
+ },
+ "minecraft:block.dried_ghast.ambient_water": {
+  "en": "Dried Ghast rehydrates",
+  "zh": "失水恶魂：补水"
+ },
+ "minecraft:block.dried_ghast.break": {
+  "en": "Dried Ghast: Break",
+  "zh": "失水恶魂：破坏"
+ },
+ "minecraft:block.dried_ghast.fall": {
+  "en": "Dried Ghast: Fall",
+  "zh": "失水恶魂：下落"
+ },
+ "minecraft:block.dried_ghast.place": {
+  "en": "Dried Ghast: Place",
+  "zh": "失水恶魂：放置"
+ },
+ "minecraft:block.dried_ghast.place_in_water": {
+  "en": "Dried Ghast soaks",
+  "zh": "失水恶魂：浸泡"
+ },
+ "minecraft:block.dried_ghast.step": {
+  "en": "Dried Ghast: Step",
+  "zh": "失水恶魂：脚步"
+ },
+ "minecraft:block.dried_ghast.transition": {
+  "en": "Dried Ghast feels better",
+  "zh": "失水恶魂：恢复"
+ },
+ "minecraft:block.dripstone_block.break": {
+  "en": "Dripstone Block: Break",
+  "zh": "滴水石块：破坏"
+ },
+ "minecraft:block.dripstone_block.fall": {
+  "en": "Dripstone Block: Fall",
+  "zh": "滴水石块：下落"
+ },
+ "minecraft:block.dripstone_block.hit": {
+  "en": "Dripstone Block: Hit",
+  "zh": "滴水石块：击打"
+ },
+ "minecraft:block.dripstone_block.place": {
+  "en": "Dripstone Block: Place",
+  "zh": "滴水石块：放置"
+ },
+ "minecraft:block.dripstone_block.step": {
+  "en": "Dripstone Block: Step",
+  "zh": "滴水石块：脚步"
+ },
+ "minecraft:block.dry_grass.ambient": {
+  "en": "Windy sounds",
+  "zh": "风声"
+ },
+ "minecraft:block.enchantment_table.use": {
+  "en": "Enchanting Table used",
+  "zh": "附魔台：使用"
+ },
+ "minecraft:block.end_gateway.spawn": {
+  "en": "Explosion",
+  "zh": "爆炸"
+ },
+ "minecraft:block.end_portal.spawn": {
+  "en": "End Portal opens",
+  "zh": "末地传送门：开启"
+ },
+ "minecraft:block.end_portal_frame.fill": {
+  "en": "Eye of Ender attaches",
+  "zh": "末影之眼：嵌入"
+ },
+ "minecraft:block.ender_chest.close": {
+  "en": "Chest closes",
+  "zh": "箱子：关闭"
+ },
+ "minecraft:block.ender_chest.open": {
+  "en": "Chest opens",
+  "zh": "箱子：开启"
+ },
+ "minecraft:block.eyeblossom.close": {
+  "en": "Eyeblossom closes",
+  "zh": "眼眸花：闭合"
+ },
+ "minecraft:block.eyeblossom.close_long": {
+  "en": "Eyeblossom closes",
+  "zh": "眼眸花：闭合"
+ },
+ "minecraft:block.eyeblossom.idle": {
+  "en": "Eerie noise",
+  "zh": "怪异的噪声"
+ },
+ "minecraft:block.eyeblossom.open": {
+  "en": "Eyeblossom opens",
+  "zh": "眼眸花：张开"
+ },
+ "minecraft:block.eyeblossom.open_long": {
+  "en": "Eyeblossom opens",
+  "zh": "眼眸花：张开"
+ },
+ "minecraft:block.fence_gate.close": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.fence_gate.open": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.fire.ambient": {
+  "en": "Fire crackles",
+  "zh": "火：噼啪作响"
+ },
+ "minecraft:block.fire.extinguish": {
+  "en": "Fire extinguished",
+  "zh": "火：熄灭"
+ },
+ "minecraft:block.firefly_bush.idle": {
+  "en": "Fireflies buzz",
+  "zh": "萤火虫：嗡嗡"
+ },
+ "minecraft:block.flowering_azalea.break": {
+  "en": "Flowering Azalea: Break",
+  "zh": "盛开的杜鹃花丛：破坏"
+ },
+ "minecraft:block.flowering_azalea.fall": {
+  "en": "Flowering Azalea: Fall",
+  "zh": "盛开的杜鹃花丛：下落"
+ },
+ "minecraft:block.flowering_azalea.hit": {
+  "en": "Flowering Azalea: Hit",
+  "zh": "盛开的杜鹃花丛：击打"
+ },
+ "minecraft:block.flowering_azalea.place": {
+  "en": "Flowering Azalea: Place",
+  "zh": "盛开的杜鹃花丛：放置"
+ },
+ "minecraft:block.flowering_azalea.step": {
+  "en": "Flowering Azalea: Step",
+  "zh": "盛开的杜鹃花丛：脚步"
+ },
+ "minecraft:block.froglight.break": {
+  "en": "Froglight: Break",
+  "zh": "蛙明灯：破坏"
+ },
+ "minecraft:block.froglight.fall": {
+  "en": "Froglight: Fall",
+  "zh": "蛙明灯：下落"
+ },
+ "minecraft:block.froglight.hit": {
+  "en": "Froglight: Hit",
+  "zh": "蛙明灯：击打"
+ },
+ "minecraft:block.froglight.place": {
+  "en": "Froglight: Place",
+  "zh": "蛙明灯：放置"
+ },
+ "minecraft:block.froglight.step": {
+  "en": "Froglight: Step",
+  "zh": "蛙明灯：脚步"
+ },
+ "minecraft:block.frogspawn.break": {
+  "en": "Frogspawn: Break",
+  "zh": "青蛙卵：破坏"
+ },
+ "minecraft:block.frogspawn.fall": {
+  "en": "Frogspawn: Fall",
+  "zh": "青蛙卵：下落"
+ },
+ "minecraft:block.frogspawn.hatch": {
+  "en": "Tadpole hatches",
+  "zh": "蝌蚪：孵化"
+ },
+ "minecraft:block.frogspawn.hit": {
+  "en": "Frogspawn: Hit",
+  "zh": "青蛙卵：击打"
+ },
+ "minecraft:block.frogspawn.place": {
+  "en": "Frogspawn: Place",
+  "zh": "青蛙卵：放置"
+ },
+ "minecraft:block.frogspawn.step": {
+  "en": "Frogspawn: Step",
+  "zh": "青蛙卵：脚步"
+ },
+ "minecraft:block.fungus.break": {
+  "en": "Fungus: Break",
+  "zh": "下界菌：破坏"
+ },
+ "minecraft:block.fungus.fall": {
+  "en": "Fungus: Fall",
+  "zh": "下界菌：下落"
+ },
+ "minecraft:block.fungus.hit": {
+  "en": "Fungus: Hit",
+  "zh": "下界菌：击打"
+ },
+ "minecraft:block.fungus.place": {
+  "en": "Fungus: Place",
+  "zh": "下界菌：放置"
+ },
+ "minecraft:block.fungus.step": {
+  "en": "Fungus: Step",
+  "zh": "下界菌：脚步"
+ },
+ "minecraft:block.furnace.fire_crackle": {
+  "en": "Furnace crackles",
+  "zh": "熔炉：噼啪作响"
+ },
+ "minecraft:block.gilded_blackstone.break": {
+  "en": "Gilded Blackstone: Break",
+  "zh": "镶金黑石：破坏"
+ },
+ "minecraft:block.gilded_blackstone.fall": {
+  "en": "Gilded Blackstone: Fall",
+  "zh": "镶金黑石：下落"
+ },
+ "minecraft:block.gilded_blackstone.hit": {
+  "en": "Gilded Blackstone: Hit",
+  "zh": "镶金黑石：击打"
+ },
+ "minecraft:block.gilded_blackstone.place": {
+  "en": "Gilded Blackstone: Place",
+  "zh": "镶金黑石：放置"
+ },
+ "minecraft:block.gilded_blackstone.step": {
+  "en": "Gilded Blackstone: Step",
+  "zh": "镶金黑石：脚步"
+ },
+ "minecraft:block.glass.break": {
+  "en": "Glass: Break",
+  "zh": "玻璃：破坏"
+ },
+ "minecraft:block.glass.fall": {
+  "en": "Glass: Fall",
+  "zh": "玻璃：下落"
+ },
+ "minecraft:block.glass.hit": {
+  "en": "Glass: Hit",
+  "zh": "玻璃：击打"
+ },
+ "minecraft:block.glass.place": {
+  "en": "Glass: Place",
+  "zh": "玻璃：放置"
+ },
+ "minecraft:block.glass.step": {
+  "en": "Glass: Step",
+  "zh": "玻璃：脚步"
+ },
+ "minecraft:block.grass.break": {
+  "en": "Grass: Break",
+  "zh": "草：破坏"
+ },
+ "minecraft:block.grass.fall": {
+  "en": "Grass: Fall",
+  "zh": "草：下落"
+ },
+ "minecraft:block.grass.hit": {
+  "en": "Grass: Hit",
+  "zh": "草：击打"
+ },
+ "minecraft:block.grass.place": {
+  "en": "Grass: Place",
+  "zh": "草：放置"
+ },
+ "minecraft:block.grass.step": {
+  "en": "Grass: Step",
+  "zh": "草：脚步"
+ },
+ "minecraft:block.gravel.break": {
+  "en": "Gravel: Break",
+  "zh": "沙砾：破坏"
+ },
+ "minecraft:block.gravel.fall": {
+  "en": "Gravel: Fall",
+  "zh": "沙砾：下落"
+ },
+ "minecraft:block.gravel.hit": {
+  "en": "Gravel: Hit",
+  "zh": "沙砾：击打"
+ },
+ "minecraft:block.gravel.place": {
+  "en": "Gravel: Place",
+  "zh": "沙砾：放置"
+ },
+ "minecraft:block.gravel.step": {
+  "en": "Gravel: Step",
+  "zh": "沙砾：脚步"
+ },
+ "minecraft:block.grindstone.use": {
+  "en": "Grindstone used",
+  "zh": "砂轮：使用"
+ },
+ "minecraft:block.growing_plant.crop": {
+  "en": "Plant cropped",
+  "zh": "植物：被修剪"
+ },
+ "minecraft:block.hanging_roots.break": {
+  "en": "Hanging Roots: Break",
+  "zh": "垂根：破坏"
+ },
+ "minecraft:block.hanging_roots.fall": {
+  "en": "Hanging Roots: Fall",
+  "zh": "垂根：下落"
+ },
+ "minecraft:block.hanging_roots.hit": {
+  "en": "Hanging Roots: Hit",
+  "zh": "垂根：击打"
+ },
+ "minecraft:block.hanging_roots.place": {
+  "en": "Hanging Roots: Place",
+  "zh": "垂根：放置"
+ },
+ "minecraft:block.hanging_roots.step": {
+  "en": "Hanging Roots: Step",
+  "zh": "垂根：脚步"
+ },
+ "minecraft:block.hanging_sign.break": {
+  "en": "Hanging Sign: Break",
+  "zh": "悬挂告示牌：破坏"
+ },
+ "minecraft:block.hanging_sign.fall": {
+  "en": "Hanging Sign: Fall",
+  "zh": "悬挂告示牌：下落"
+ },
+ "minecraft:block.hanging_sign.hit": {
+  "en": "Hanging Sign: Hit",
+  "zh": "悬挂告示牌：击打"
+ },
+ "minecraft:block.hanging_sign.place": {
+  "en": "Hanging Sign: Place",
+  "zh": "悬挂告示牌：放置"
+ },
+ "minecraft:block.hanging_sign.step": {
+  "en": "Hanging Sign: Step",
+  "zh": "悬挂告示牌：脚步"
+ },
+ "minecraft:block.hanging_sign.waxed_interact_fail": {
+  "en": "Sign wobbles",
+  "zh": "告示牌：晃动"
+ },
+ "minecraft:block.heavy_core.break": {
+  "en": "Heavy Core: Break",
+  "zh": "沉重核心：破坏"
+ },
+ "minecraft:block.heavy_core.fall": {
+  "en": "Heavy Core: Fall",
+  "zh": "沉重核心：下落"
+ },
+ "minecraft:block.heavy_core.hit": {
+  "en": "Heavy Core: Hit",
+  "zh": "沉重核心：击打"
+ },
+ "minecraft:block.heavy_core.place": {
+  "en": "Heavy Core: Place",
+  "zh": "沉重核心：放置"
+ },
+ "minecraft:block.heavy_core.step": {
+  "en": "Heavy Core: Step",
+  "zh": "沉重核心：脚步"
+ },
+ "minecraft:block.honey_block.break": {
+  "en": "Honey Block: Break",
+  "zh": "蜂蜜块：破坏"
+ },
+ "minecraft:block.honey_block.fall": {
+  "en": "Honey Block: Fall",
+  "zh": "蜂蜜块：下落"
+ },
+ "minecraft:block.honey_block.hit": {
+  "en": "Honey Block: Hit",
+  "zh": "蜂蜜块：击打"
+ },
+ "minecraft:block.honey_block.place": {
+  "en": "Honey Block: Place",
+  "zh": "蜂蜜块：放置"
+ },
+ "minecraft:block.honey_block.slide": {
+  "en": "Sliding down a honey block",
+  "zh": "从蜂蜜块滑下"
+ },
+ "minecraft:block.honey_block.step": {
+  "en": "Honey Block: Step",
+  "zh": "蜂蜜块：脚步"
+ },
+ "minecraft:block.iron.break": {
+  "en": "Iron: Break",
+  "zh": "铁：破坏"
+ },
+ "minecraft:block.iron.fall": {
+  "en": "Iron: Fall",
+  "zh": "铁：下落"
+ },
+ "minecraft:block.iron.hit": {
+  "en": "Iron: Hit",
+  "zh": "铁：击打"
+ },
+ "minecraft:block.iron.place": {
+  "en": "Iron: Place",
+  "zh": "铁：放置"
+ },
+ "minecraft:block.iron.step": {
+  "en": "Iron: Step",
+  "zh": "铁：脚步"
+ },
+ "minecraft:block.iron_door.close": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.iron_door.open": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.iron_trapdoor.close": {
+  "en": "Trapdoor closes",
+  "zh": "活板门：关闭"
+ },
+ "minecraft:block.iron_trapdoor.open": {
+  "en": "Trapdoor opens",
+  "zh": "活板门：打开"
+ },
+ "minecraft:block.ladder.break": {
+  "en": "Ladder: Break",
+  "zh": "梯子：破坏"
+ },
+ "minecraft:block.ladder.fall": {
+  "en": "Ladder: Fall",
+  "zh": "梯子：下落"
+ },
+ "minecraft:block.ladder.hit": {
+  "en": "Ladder: Hit",
+  "zh": "梯子：击打"
+ },
+ "minecraft:block.ladder.place": {
+  "en": "Ladder: Place",
+  "zh": "梯子：放置"
+ },
+ "minecraft:block.ladder.step": {
+  "en": "Ladder: Step",
+  "zh": "梯子：脚步"
+ },
+ "minecraft:block.lantern.break": {
+  "en": "Lantern: Break",
+  "zh": "灯笼：破坏"
+ },
+ "minecraft:block.lantern.fall": {
+  "en": "Lantern: Fall",
+  "zh": "灯笼：下落"
+ },
+ "minecraft:block.lantern.hit": {
+  "en": "Lantern: Hit",
+  "zh": "灯笼：击打"
+ },
+ "minecraft:block.lantern.place": {
+  "en": "Lantern: Place",
+  "zh": "灯笼：放置"
+ },
+ "minecraft:block.lantern.step": {
+  "en": "Lantern: Step",
+  "zh": "灯笼：脚步"
+ },
+ "minecraft:block.large_amethyst_bud.break": {
+  "en": "Large Amethyst Bud: Break",
+  "zh": "大型紫晶芽：破坏"
+ },
+ "minecraft:block.large_amethyst_bud.place": {
+  "en": "Large Amethyst Bud: Place",
+  "zh": "大型紫晶芽：放置"
+ },
+ "minecraft:block.lava.ambient": {
+  "en": "Lava pops",
+  "zh": "熔岩：迸裂"
+ },
+ "minecraft:block.lava.extinguish": {
+  "en": "Lava hisses",
+  "zh": "熔岩：嘶嘶声"
+ },
+ "minecraft:block.lava.pop": {
+  "en": "Lava pops",
+  "zh": "熔岩：迸裂"
+ },
+ "minecraft:block.leaf_litter.break": {
+  "en": "Leaf Litter: Break",
+  "zh": "枯叶堆：破坏"
+ },
+ "minecraft:block.leaf_litter.fall": {
+  "en": "Leaf Litter: Fall",
+  "zh": "枯叶堆：下落"
+ },
+ "minecraft:block.leaf_litter.hit": {
+  "en": "Leaf Litter: Hit",
+  "zh": "枯叶堆：击打"
+ },
+ "minecraft:block.leaf_litter.place": {
+  "en": "Leaf Litter: Place",
+  "zh": "枯叶堆：放置"
+ },
+ "minecraft:block.leaf_litter.step": {
+  "en": "Leaf Litter: Step",
+  "zh": "枯叶堆：脚步"
+ },
+ "minecraft:block.lever.click": {
+  "en": "Lever clicks",
+  "zh": "拉杆：拉动"
+ },
+ "minecraft:block.lily_pad.place": {
+  "en": "Lily Pad: Place",
+  "zh": "睡莲：放置"
+ },
+ "minecraft:block.lodestone.break": {
+  "en": "Lodestone: Break",
+  "zh": "磁石：破坏"
+ },
+ "minecraft:block.lodestone.fall": {
+  "en": "Lodestone: Fall",
+  "zh": "磁石：下落"
+ },
+ "minecraft:block.lodestone.hit": {
+  "en": "Lodestone: Hit",
+  "zh": "磁石：击打"
+ },
+ "minecraft:block.lodestone.place": {
+  "en": "Lodestone: Place",
+  "zh": "磁石：放置"
+ },
+ "minecraft:block.lodestone.step": {
+  "en": "Lodestone: Step",
+  "zh": "磁石：脚步"
+ },
+ "minecraft:block.mangrove_roots.break": {
+  "en": "Mangrove Roots: Break",
+  "zh": "红树根：破坏"
+ },
+ "minecraft:block.mangrove_roots.fall": {
+  "en": "Mangrove Roots: Fall",
+  "zh": "红树根：下落"
+ },
+ "minecraft:block.mangrove_roots.hit": {
+  "en": "Mangrove Roots: Hit",
+  "zh": "红树根：击打"
+ },
+ "minecraft:block.mangrove_roots.place": {
+  "en": "Mangrove Roots: Place",
+  "zh": "红树根：放置"
+ },
+ "minecraft:block.mangrove_roots.step": {
+  "en": "Mangrove Roots: Step",
+  "zh": "红树根：脚步"
+ },
+ "minecraft:block.medium_amethyst_bud.break": {
+  "en": "Medium Amethyst Bud: Break",
+  "zh": "中型紫晶芽：破坏"
+ },
+ "minecraft:block.medium_amethyst_bud.place": {
+  "en": "Medium Amethyst Bud: Place",
+  "zh": "中型紫晶芽：放置"
+ },
+ "minecraft:block.metal.break": {
+  "en": "Metal: Break",
+  "zh": "金属：破坏"
+ },
+ "minecraft:block.metal.fall": {
+  "en": "Metal: Fall",
+  "zh": "金属：下落"
+ },
+ "minecraft:block.metal.hit": {
+  "en": "Metal: Hit",
+  "zh": "金属：击打"
+ },
+ "minecraft:block.metal.place": {
+  "en": "Metal: Place",
+  "zh": "金属：放置"
+ },
+ "minecraft:block.metal.step": {
+  "en": "Metal: Step",
+  "zh": "金属：脚步"
+ },
+ "minecraft:block.metal_pressure_plate.click_off": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.metal_pressure_plate.click_on": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.moss.break": {
+  "en": "Moss: Break",
+  "zh": "苔藓：破坏"
+ },
+ "minecraft:block.moss.fall": {
+  "en": "Moss: Fall",
+  "zh": "苔藓：下落"
+ },
+ "minecraft:block.moss.hit": {
+  "en": "Moss: Hit",
+  "zh": "苔藓：击打"
+ },
+ "minecraft:block.moss.place": {
+  "en": "Moss: Place",
+  "zh": "苔藓：放置"
+ },
+ "minecraft:block.moss.step": {
+  "en": "Moss: Step",
+  "zh": "苔藓：脚步"
+ },
+ "minecraft:block.moss_carpet.break": {
+  "en": "Moss Carpet: Break",
+  "zh": "覆地苔藓：破坏"
+ },
+ "minecraft:block.moss_carpet.fall": {
+  "en": "Moss Carpet: Fall",
+  "zh": "覆地苔藓：下落"
+ },
+ "minecraft:block.moss_carpet.hit": {
+  "en": "Moss Carpet: Hit",
+  "zh": "覆地苔藓：击打"
+ },
+ "minecraft:block.moss_carpet.place": {
+  "en": "Moss Carpet: Place",
+  "zh": "覆地苔藓：放置"
+ },
+ "minecraft:block.moss_carpet.step": {
+  "en": "Moss Carpet: Step",
+  "zh": "覆地苔藓：脚步"
+ },
+ "minecraft:block.mud.break": {
+  "en": "Mud: Break",
+  "zh": "泥巴：破坏"
+ },
+ "minecraft:block.mud.fall": {
+  "en": "Mud: Fall",
+  "zh": "泥巴：下落"
+ },
+ "minecraft:block.mud.hit": {
+  "en": "Mud: Hit",
+  "zh": "泥巴：击打"
+ },
+ "minecraft:block.mud.place": {
+  "en": "Mud: Place",
+  "zh": "泥巴：放置"
+ },
+ "minecraft:block.mud.step": {
+  "en": "Mud: Step",
+  "zh": "泥巴：脚步"
+ },
+ "minecraft:block.mud_bricks.break": {
+  "en": "Mud Bricks: Break",
+  "zh": "泥砖：破坏"
+ },
+ "minecraft:block.mud_bricks.fall": {
+  "en": "Mud Bricks: Fall",
+  "zh": "泥砖：下落"
+ },
+ "minecraft:block.mud_bricks.hit": {
+  "en": "Mud Bricks: Hit",
+  "zh": "泥砖：击打"
+ },
+ "minecraft:block.mud_bricks.place": {
+  "en": "Mud Bricks: Place",
+  "zh": "泥砖：放置"
+ },
+ "minecraft:block.mud_bricks.step": {
+  "en": "Mud Bricks: Step",
+  "zh": "泥砖：脚步"
+ },
+ "minecraft:block.muddy_mangrove_roots.break": {
+  "en": "Muddy Mangrove Roots: Break",
+  "zh": "沾泥的红树根：破坏"
+ },
+ "minecraft:block.muddy_mangrove_roots.fall": {
+  "en": "Muddy Mangrove Roots: Fall",
+  "zh": "沾泥的红树根：下落"
+ },
+ "minecraft:block.muddy_mangrove_roots.hit": {
+  "en": "Muddy Mangrove Roots: Hit",
+  "zh": "沾泥的红树根：击打"
+ },
+ "minecraft:block.muddy_mangrove_roots.place": {
+  "en": "Muddy Mangrove Roots: Place",
+  "zh": "沾泥的红树根：放置"
+ },
+ "minecraft:block.muddy_mangrove_roots.step": {
+  "en": "Muddy Mangrove Roots: Step",
+  "zh": "沾泥的红树根：脚步"
+ },
+ "minecraft:block.nether_bricks.break": {
+  "en": "Nether Bricks: Break",
+  "zh": "下界砖块：破坏"
+ },
+ "minecraft:block.nether_bricks.fall": {
+  "en": "Nether Bricks: Fall",
+  "zh": "下界砖块：下落"
+ },
+ "minecraft:block.nether_bricks.hit": {
+  "en": "Nether Bricks: Hit",
+  "zh": "下界砖块：击打"
+ },
+ "minecraft:block.nether_bricks.place": {
+  "en": "Nether Bricks: Place",
+  "zh": "下界砖块：放置"
+ },
+ "minecraft:block.nether_bricks.step": {
+  "en": "Nether Bricks: Step",
+  "zh": "下界砖块：脚步"
+ },
+ "minecraft:block.nether_gold_ore.break": {
+  "en": "Nether Gold Ore: Break",
+  "zh": "下界金矿石：破坏"
+ },
+ "minecraft:block.nether_gold_ore.fall": {
+  "en": "Nether Gold Ore: Fall",
+  "zh": "下界金矿石：下落"
+ },
+ "minecraft:block.nether_gold_ore.hit": {
+  "en": "Nether Gold Ore: Hit",
+  "zh": "下界金矿石：击打"
+ },
+ "minecraft:block.nether_gold_ore.place": {
+  "en": "Nether Gold Ore: Place",
+  "zh": "下界金矿石：放置"
+ },
+ "minecraft:block.nether_gold_ore.step": {
+  "en": "Nether Gold Ore: Step",
+  "zh": "下界金矿石：脚步"
+ },
+ "minecraft:block.nether_ore.break": {
+  "en": "Nether Ore: Break",
+  "zh": "下界矿石：破坏"
+ },
+ "minecraft:block.nether_ore.fall": {
+  "en": "Nether Ore: Fall",
+  "zh": "下界矿石：下落"
+ },
+ "minecraft:block.nether_ore.hit": {
+  "en": "Nether Ore: Hit",
+  "zh": "下界矿石：击打"
+ },
+ "minecraft:block.nether_ore.place": {
+  "en": "Nether Ore: Place",
+  "zh": "下界矿石：放置"
+ },
+ "minecraft:block.nether_ore.step": {
+  "en": "Nether Ore: Step",
+  "zh": "下界矿石：脚步"
+ },
+ "minecraft:block.nether_sprouts.break": {
+  "en": "Nether Sprouts: Break",
+  "zh": "下界苗：破坏"
+ },
+ "minecraft:block.nether_sprouts.fall": {
+  "en": "Nether Sprouts: Fall",
+  "zh": "下界苗：下落"
+ },
+ "minecraft:block.nether_sprouts.hit": {
+  "en": "Nether Sprouts: Hit",
+  "zh": "下界苗：击打"
+ },
+ "minecraft:block.nether_sprouts.place": {
+  "en": "Nether Sprouts: Place",
+  "zh": "下界苗：放置"
+ },
+ "minecraft:block.nether_sprouts.step": {
+  "en": "Nether Sprouts: Step",
+  "zh": "下界苗：脚步"
+ },
+ "minecraft:block.nether_wart.break": {
+  "en": "Nether Wart: Break",
+  "zh": "下界疣：破坏"
+ },
+ "minecraft:block.nether_wood.break": {
+  "en": "Nether Wood: Break",
+  "zh": "下界木：破坏"
+ },
+ "minecraft:block.nether_wood.fall": {
+  "en": "Nether Wood: Fall",
+  "zh": "下界木：下落"
+ },
+ "minecraft:block.nether_wood.hit": {
+  "en": "Nether Wood: Hit",
+  "zh": "下界木：击打"
+ },
+ "minecraft:block.nether_wood.place": {
+  "en": "Nether Wood: Place",
+  "zh": "下界木：放置"
+ },
+ "minecraft:block.nether_wood.step": {
+  "en": "Nether Wood: Step",
+  "zh": "下界木：脚步"
+ },
+ "minecraft:block.nether_wood_button.click_off": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.nether_wood_button.click_on": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.nether_wood_door.close": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.nether_wood_door.open": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.nether_wood_fence_gate.close": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.nether_wood_fence_gate.open": {
+  "en": "Fence Gate creaks",
+  "zh": "栅栏门：嘎吱作响"
+ },
+ "minecraft:block.nether_wood_hanging_sign.break": {
+  "en": "Nether Wood Hanging Sign: Break",
+  "zh": "下界木悬挂告示牌：破坏"
+ },
+ "minecraft:block.nether_wood_hanging_sign.fall": {
+  "en": "Nether Wood Hanging Sign: Fall",
+  "zh": "下界木悬挂告示牌：下落"
+ },
+ "minecraft:block.nether_wood_hanging_sign.hit": {
+  "en": "Nether Wood Hanging Sign: Hit",
+  "zh": "下界木悬挂告示牌：击打"
+ },
+ "minecraft:block.nether_wood_hanging_sign.place": {
+  "en": "Nether Wood Hanging Sign: Place",
+  "zh": "下界木悬挂告示牌：放置"
+ },
+ "minecraft:block.nether_wood_hanging_sign.step": {
+  "en": "Nether Wood Hanging Sign: Step",
+  "zh": "下界木悬挂告示牌：脚步"
+ },
+ "minecraft:block.nether_wood_pressure_plate.click_off": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.nether_wood_pressure_plate.click_on": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.nether_wood_trapdoor.close": {
+  "en": "Trapdoor closes",
+  "zh": "活板门：关闭"
+ },
+ "minecraft:block.nether_wood_trapdoor.open": {
+  "en": "Trapdoor opens",
+  "zh": "活板门：打开"
+ },
+ "minecraft:block.netherite_block.break": {
+  "en": "Block of Netherite: Break",
+  "zh": "下界合金块：破坏"
+ },
+ "minecraft:block.netherite_block.fall": {
+  "en": "Block of Netherite: Fall",
+  "zh": "下界合金块：下落"
+ },
+ "minecraft:block.netherite_block.hit": {
+  "en": "Block of Netherite: Hit",
+  "zh": "下界合金块：击打"
+ },
+ "minecraft:block.netherite_block.place": {
+  "en": "Block of Netherite: Place",
+  "zh": "下界合金块：放置"
+ },
+ "minecraft:block.netherite_block.step": {
+  "en": "Block of Netherite: Step",
+  "zh": "下界合金块：脚步"
+ },
+ "minecraft:block.netherrack.break": {
+  "en": "Netherrack: Break",
+  "zh": "下界岩：破坏"
+ },
+ "minecraft:block.netherrack.fall": {
+  "en": "Netherrack: Fall",
+  "zh": "下界岩：下落"
+ },
+ "minecraft:block.netherrack.hit": {
+  "en": "Netherrack: Hit",
+  "zh": "下界岩：击打"
+ },
+ "minecraft:block.netherrack.place": {
+  "en": "Netherrack: Place",
+  "zh": "下界岩：放置"
+ },
+ "minecraft:block.netherrack.step": {
+  "en": "Netherrack: Step",
+  "zh": "下界岩：脚步"
+ },
+ "minecraft:block.note_block.banjo": {
+  "en": "Note Block: Banjo",
+  "zh": "音符盒：班卓琴"
+ },
+ "minecraft:block.note_block.basedrum": {
+  "en": "Note Block: Bass Drum",
+  "zh": "音符盒：底鼓"
+ },
+ "minecraft:block.note_block.bass": {
+  "en": "Note Block: Bass",
+  "zh": "音符盒：贝斯"
+ },
+ "minecraft:block.note_block.bell": {
+  "en": "Note Block: Bell",
+  "zh": "音符盒：铃"
+ },
+ "minecraft:block.note_block.bit": {
+  "en": "Note Block: Bit",
+  "zh": "音符盒：方波"
+ },
+ "minecraft:block.note_block.chime": {
+  "en": "Note Block: Chime",
+  "zh": "音符盒：钟琴"
+ },
+ "minecraft:block.note_block.cow_bell": {
+  "en": "Note Block: Cow Bell",
+  "zh": "音符盒：牛铃"
+ },
+ "minecraft:block.note_block.didgeridoo": {
+  "en": "Note Block: Didgeridoo",
+  "zh": "音符盒：迪吉里杜管"
+ },
+ "minecraft:block.note_block.flute": {
+  "en": "Note Block: Flute",
+  "zh": "音符盒：长笛"
+ },
+ "minecraft:block.note_block.guitar": {
+  "en": "Note Block: Guitar",
+  "zh": "音符盒：吉他"
+ },
+ "minecraft:block.note_block.harp": {
+  "en": "Note Block: Harp",
+  "zh": "音符盒：竖琴"
+ },
+ "minecraft:block.note_block.hat": {
+  "en": "Note Block: Hat",
+  "zh": "音符盒：踩镲"
+ },
+ "minecraft:block.note_block.imitate.creeper": {
+  "en": "Creeper hisses",
+  "zh": "苦力怕：嘶~"
+ },
+ "minecraft:block.note_block.imitate.ender_dragon": {
+  "en": "Dragon roars",
+  "zh": "末影龙：咆哮"
+ },
+ "minecraft:block.note_block.imitate.piglin": {
+  "en": "Piglin snorts",
+  "zh": "猪灵：哼叫"
+ },
+ "minecraft:block.note_block.imitate.skeleton": {
+  "en": "Skeleton rattles",
+  "zh": "骷髅：咯咯声"
+ },
+ "minecraft:block.note_block.imitate.wither_skeleton": {
+  "en": "Wither Skeleton rattles",
+  "zh": "凋灵骷髅：咯咯声"
+ },
+ "minecraft:block.note_block.imitate.zombie": {
+  "en": "Zombie groans",
+  "zh": "僵尸：低吼"
+ },
+ "minecraft:block.note_block.iron_xylophone": {
+  "en": "Note Block: Iron Xylophone",
+  "zh": "音符盒：铁木琴"
+ },
+ "minecraft:block.note_block.pling": {
+  "en": "Note Block: Pling",
+  "zh": "音符盒：叮"
+ },
+ "minecraft:block.note_block.snare": {
+  "en": "Note Block: Snare",
+  "zh": "音符盒：军鼓"
+ },
+ "minecraft:block.note_block.trumpet": {
+  "en": "Note Block plays",
+  "zh": "音符盒：播放"
+ },
+ "minecraft:block.note_block.trumpet_exposed": {
+  "en": "Note Block plays",
+  "zh": "音符盒：播放"
+ },
+ "minecraft:block.note_block.trumpet_oxidized": {
+  "en": "Note Block plays",
+  "zh": "音符盒：播放"
+ },
+ "minecraft:block.note_block.trumpet_weathered": {
+  "en": "Note Block plays",
+  "zh": "音符盒：播放"
+ },
+ "minecraft:block.note_block.xylophone": {
+  "en": "Note Block: Xylophone",
+  "zh": "音符盒：木琴"
+ },
+ "minecraft:block.nylium.break": {
+  "en": "Nylium: Break",
+  "zh": "菌岩：破坏"
+ },
+ "minecraft:block.nylium.fall": {
+  "en": "Nylium: Fall",
+  "zh": "菌岩：下落"
+ },
+ "minecraft:block.nylium.hit": {
+  "en": "Nylium: Hit",
+  "zh": "菌岩：击打"
+ },
+ "minecraft:block.nylium.place": {
+  "en": "Nylium: Place",
+  "zh": "菌岩：放置"
+ },
+ "minecraft:block.nylium.step": {
+  "en": "Nylium: Step",
+  "zh": "菌岩：脚步"
+ },
+ "minecraft:block.packed_mud.break": {
+  "en": "Packed Mud: Break",
+  "zh": "泥坯：破坏"
+ },
+ "minecraft:block.packed_mud.fall": {
+  "en": "Packed Mud: Fall",
+  "zh": "泥坯：下落"
+ },
+ "minecraft:block.packed_mud.hit": {
+  "en": "Packed Mud: Hit",
+  "zh": "泥坯：击打"
+ },
+ "minecraft:block.packed_mud.place": {
+  "en": "Packed Mud: Place",
+  "zh": "泥坯：放置"
+ },
+ "minecraft:block.packed_mud.step": {
+  "en": "Packed Mud: Step",
+  "zh": "泥坯：脚步"
+ },
+ "minecraft:block.pale_hanging_moss.idle": {
+  "en": "Eerie noise",
+  "zh": "怪异的噪声"
+ },
+ "minecraft:block.pink_petals.break": {
+  "en": "Pink Petals: Break",
+  "zh": "粉红色花簇：破坏"
+ },
+ "minecraft:block.pink_petals.fall": {
+  "en": "Pink Petals: Fall",
+  "zh": "粉红色花簇：下落"
+ },
+ "minecraft:block.pink_petals.hit": {
+  "en": "Pink Petals: Hit",
+  "zh": "粉红色花簇：击打"
+ },
+ "minecraft:block.pink_petals.place": {
+  "en": "Pink Petals: Place",
+  "zh": "粉红色花簇：放置"
+ },
+ "minecraft:block.pink_petals.step": {
+  "en": "Pink Petals: Step",
+  "zh": "粉红色花簇：脚步"
+ },
+ "minecraft:block.piston.contract": {
+  "en": "Piston moves",
+  "zh": "活塞：移动"
+ },
+ "minecraft:block.piston.extend": {
+  "en": "Piston moves",
+  "zh": "活塞：移动"
+ },
+ "minecraft:block.pointed_dripstone.break": {
+  "en": "Pointed Dripstone: Break",
+  "zh": "滴水石锥：破坏"
+ },
+ "minecraft:block.pointed_dripstone.drip_lava": {
+  "en": "Lava drips",
+  "zh": "熔岩：滴落"
+ },
+ "minecraft:block.pointed_dripstone.drip_lava_into_cauldron": {
+  "en": "Lava drips into Cauldron",
+  "zh": "熔岩：滴入炼药锅"
+ },
+ "minecraft:block.pointed_dripstone.drip_water": {
+  "en": "Water drips",
+  "zh": "水：滴落"
+ },
+ "minecraft:block.pointed_dripstone.drip_water_into_cauldron": {
+  "en": "Water drips into Cauldron",
+  "zh": "水：滴入炼药锅"
+ },
+ "minecraft:block.pointed_dripstone.fall": {
+  "en": "Pointed Dripstone: Fall",
+  "zh": "滴水石锥：下落"
+ },
+ "minecraft:block.pointed_dripstone.hit": {
+  "en": "Pointed Dripstone: Hit",
+  "zh": "滴水石锥：击打"
+ },
+ "minecraft:block.pointed_dripstone.land": {
+  "en": "Pointed Dripstone: Land",
+  "zh": "滴水石锥：落地"
+ },
+ "minecraft:block.pointed_dripstone.place": {
+  "en": "Pointed Dripstone: Place",
+  "zh": "滴水石锥：放置"
+ },
+ "minecraft:block.pointed_dripstone.step": {
+  "en": "Pointed Dripstone: Step",
+  "zh": "滴水石锥：脚步"
+ },
+ "minecraft:block.polished_deepslate.break": {
+  "en": "Polished Deepslate: Break",
+  "zh": "磨制深板岩：破坏"
+ },
+ "minecraft:block.polished_deepslate.fall": {
+  "en": "Polished Deepslate: Fall",
+  "zh": "磨制深板岩：下落"
+ },
+ "minecraft:block.polished_deepslate.hit": {
+  "en": "Polished Deepslate: Hit",
+  "zh": "磨制深板岩：击打"
+ },
+ "minecraft:block.polished_deepslate.place": {
+  "en": "Polished Deepslate: Place",
+  "zh": "磨制深板岩：放置"
+ },
+ "minecraft:block.polished_deepslate.step": {
+  "en": "Polished Deepslate: Step",
+  "zh": "磨制深板岩：脚步"
+ },
+ "minecraft:block.polished_tuff.break": {
+  "en": "Polished Tuff: Break",
+  "zh": "磨制凝灰岩：破坏"
+ },
+ "minecraft:block.polished_tuff.fall": {
+  "en": "Polished Tuff: Fall",
+  "zh": "磨制凝灰岩：下落"
+ },
+ "minecraft:block.polished_tuff.hit": {
+  "en": "Polished Tuff: Hit",
+  "zh": "磨制凝灰岩：击打"
+ },
+ "minecraft:block.polished_tuff.place": {
+  "en": "Polished Tuff: Place",
+  "zh": "磨制凝灰岩：放置"
+ },
+ "minecraft:block.polished_tuff.step": {
+  "en": "Polished Tuff: Step",
+  "zh": "磨制凝灰岩：脚步"
+ },
+ "minecraft:block.portal.ambient": {
+  "en": "Portal whooshes",
+  "zh": "传送门：呼啸"
+ },
+ "minecraft:block.portal.travel": {
+  "en": "Portal noise fades",
+  "zh": "传送门：噪声消散"
+ },
+ "minecraft:block.portal.trigger": {
+  "en": "Portal noise intensifies",
+  "zh": "传送门：噪声渐响"
+ },
+ "minecraft:block.potent_sulfur.break": {
+  "en": "Potent Sulfur: Break",
+  "zh": "烈性硫黄：破坏"
+ },
+ "minecraft:block.potent_sulfur.fall": {
+  "en": "Potent Sulfur: Fall",
+  "zh": "烈性硫黄：下落"
+ },
+ "minecraft:block.potent_sulfur.geyser_continuous_eruption": {
+  "en": "Sulfur spring bursts",
+  "zh": "硫黄涌泉：喷涌"
+ },
+ "minecraft:block.potent_sulfur.geyser_continuous_eruption_active": {
+  "en": "Potent Sulfur: Continuous Eruption (Active)",
+  "zh": "烈性硫黄：持续喷发（活跃）"
+ },
+ "minecraft:block.potent_sulfur.geyser_eruption": {
+  "en": "Sulfur spring bursts",
+  "zh": "硫黄涌泉：喷涌"
+ },
+ "minecraft:block.potent_sulfur.geyser_eruption_active": {
+  "en": "Potent Sulfur: Geyser Eruption (Active)",
+  "zh": "烈性硫黄：间歇泉喷发（活跃）"
+ },
+ "minecraft:block.potent_sulfur.hit": {
+  "en": "Potent Sulfur: Hit",
+  "zh": "烈性硫黄：击打"
+ },
+ "minecraft:block.potent_sulfur.noxious_gas": {
+  "en": "Noxious gas appears",
+  "zh": "有毒气体：冒出"
+ },
+ "minecraft:block.potent_sulfur.place": {
+  "en": "Potent Sulfur: Place",
+  "zh": "烈性硫黄：放置"
+ },
+ "minecraft:block.potent_sulfur.step": {
+  "en": "Potent Sulfur: Step",
+  "zh": "烈性硫黄：脚步"
+ },
+ "minecraft:block.powder_snow.break": {
+  "en": "Powder Snow: Break",
+  "zh": "细雪：破坏"
+ },
+ "minecraft:block.powder_snow.fall": {
+  "en": "Powder Snow: Fall",
+  "zh": "细雪：下落"
+ },
+ "minecraft:block.powder_snow.hit": {
+  "en": "Powder Snow: Hit",
+  "zh": "细雪：击打"
+ },
+ "minecraft:block.powder_snow.place": {
+  "en": "Powder Snow: Place",
+  "zh": "细雪：放置"
+ },
+ "minecraft:block.powder_snow.step": {
+  "en": "Powder Snow: Step",
+  "zh": "细雪：脚步"
+ },
+ "minecraft:block.pumpkin.carve": {
+  "en": "Shears carve",
+  "zh": "剪刀：雕刻"
+ },
+ "minecraft:block.redstone_torch.burnout": {
+  "en": "Torch fizzes",
+  "zh": "红石火把：熄灭"
+ },
+ "minecraft:block.resin.break": {
+  "en": "Resin: Break",
+  "zh": "树脂：破坏"
+ },
+ "minecraft:block.resin.fall": {
+  "en": "Resin: Fall",
+  "zh": "树脂：下落"
+ },
+ "minecraft:block.resin.place": {
+  "en": "Resin: Place",
+  "zh": "树脂：放置"
+ },
+ "minecraft:block.resin.step": {
+  "en": "Resin: Step",
+  "zh": "树脂：脚步"
+ },
+ "minecraft:block.resin_bricks.break": {
+  "en": "Resin Bricks: Break",
+  "zh": "树脂砖块：破坏"
+ },
+ "minecraft:block.resin_bricks.fall": {
+  "en": "Resin Bricks: Fall",
+  "zh": "树脂砖块：下落"
+ },
+ "minecraft:block.resin_bricks.hit": {
+  "en": "Resin Bricks: Hit",
+  "zh": "树脂砖块：击打"
+ },
+ "minecraft:block.resin_bricks.place": {
+  "en": "Resin Bricks: Place",
+  "zh": "树脂砖块：放置"
+ },
+ "minecraft:block.resin_bricks.step": {
+  "en": "Resin Bricks: Step",
+  "zh": "树脂砖块：脚步"
+ },
+ "minecraft:block.respawn_anchor.ambient": {
+  "en": "Respawn Anchor whooshes",
+  "zh": "重生锚：呼啸"
+ },
+ "minecraft:block.respawn_anchor.charge": {
+  "en": "Respawn Anchor is charged",
+  "zh": "重生锚：充能"
+ },
+ "minecraft:block.respawn_anchor.deplete": {
+  "en": "Respawn Anchor depletes",
+  "zh": "重生锚：耗能"
+ },
+ "minecraft:block.respawn_anchor.set_spawn": {
+  "en": "Respawn Anchor sets spawn",
+  "zh": "重生锚：设置出生点"
+ },
+ "minecraft:block.rooted_dirt.break": {
+  "en": "Rooted Dirt: Break",
+  "zh": "缠根泥土：破坏"
+ },
+ "minecraft:block.rooted_dirt.fall": {
+  "en": "Rooted Dirt: Fall",
+  "zh": "缠根泥土：下落"
+ },
+ "minecraft:block.rooted_dirt.hit": {
+  "en": "Rooted Dirt: Hit",
+  "zh": "缠根泥土：击打"
+ },
+ "minecraft:block.rooted_dirt.place": {
+  "en": "Rooted Dirt: Place",
+  "zh": "缠根泥土：放置"
+ },
+ "minecraft:block.rooted_dirt.step": {
+  "en": "Rooted Dirt: Step",
+  "zh": "缠根泥土：脚步"
+ },
+ "minecraft:block.roots.break": {
+  "en": "Roots: Break",
+  "zh": "根：破坏"
+ },
+ "minecraft:block.roots.fall": {
+  "en": "Roots: Fall",
+  "zh": "根：下落"
+ },
+ "minecraft:block.roots.hit": {
+  "en": "Roots: Hit",
+  "zh": "根：击打"
+ },
+ "minecraft:block.roots.place": {
+  "en": "Roots: Place",
+  "zh": "根：放置"
+ },
+ "minecraft:block.roots.step": {
+  "en": "Roots: Step",
+  "zh": "根：脚步"
+ },
+ "minecraft:block.sand.break": {
+  "en": "Sand: Break",
+  "zh": "沙子：破坏"
+ },
+ "minecraft:block.sand.fall": {
+  "en": "Sand: Fall",
+  "zh": "沙子：下落"
+ },
+ "minecraft:block.sand.hit": {
+  "en": "Sand: Hit",
+  "zh": "沙子：击打"
+ },
+ "minecraft:block.sand.idle": {
+  "en": "Sandy sounds",
+  "zh": "沙沙声"
+ },
+ "minecraft:block.sand.place": {
+  "en": "Sand: Place",
+  "zh": "沙子：放置"
+ },
+ "minecraft:block.sand.step": {
+  "en": "Sand: Step",
+  "zh": "沙子：脚步"
+ },
+ "minecraft:block.scaffolding.break": {
+  "en": "Scaffolding: Break",
+  "zh": "脚手架：破坏"
+ },
+ "minecraft:block.scaffolding.fall": {
+  "en": "Scaffolding: Fall",
+  "zh": "脚手架：下落"
+ },
+ "minecraft:block.scaffolding.hit": {
+  "en": "Scaffolding: Hit",
+  "zh": "脚手架：击打"
+ },
+ "minecraft:block.scaffolding.place": {
+  "en": "Scaffolding: Place",
+  "zh": "脚手架：放置"
+ },
+ "minecraft:block.scaffolding.step": {
+  "en": "Scaffolding: Step",
+  "zh": "脚手架：脚步"
+ },
+ "minecraft:block.sculk.break": {
+  "en": "Sculk: Break",
+  "zh": "幽匿块：破坏"
+ },
+ "minecraft:block.sculk.charge": {
+  "en": "Sculk bubbles",
+  "zh": "幽匿块：冒泡"
+ },
+ "minecraft:block.sculk.fall": {
+  "en": "Sculk: Fall",
+  "zh": "幽匿块：下落"
+ },
+ "minecraft:block.sculk.hit": {
+  "en": "Sculk: Hit",
+  "zh": "幽匿块：击打"
+ },
+ "minecraft:block.sculk.place": {
+  "en": "Sculk: Place",
+  "zh": "幽匿块：放置"
+ },
+ "minecraft:block.sculk.spread": {
+  "en": "Sculk spreads",
+  "zh": "幽匿块：蔓延"
+ },
+ "minecraft:block.sculk.step": {
+  "en": "Sculk: Step",
+  "zh": "幽匿块：脚步"
+ },
+ "minecraft:block.sculk_catalyst.bloom": {
+  "en": "Sculk Catalyst blooms",
+  "zh": "幽匿催发体：催发"
+ },
+ "minecraft:block.sculk_catalyst.break": {
+  "en": "Sculk Catalyst: Break",
+  "zh": "幽匿催发体：破坏"
+ },
+ "minecraft:block.sculk_catalyst.fall": {
+  "en": "Sculk Catalyst: Fall",
+  "zh": "幽匿催发体：下落"
+ },
+ "minecraft:block.sculk_catalyst.hit": {
+  "en": "Sculk Catalyst: Hit",
+  "zh": "幽匿催发体：击打"
+ },
+ "minecraft:block.sculk_catalyst.place": {
+  "en": "Sculk Catalyst: Place",
+  "zh": "幽匿催发体：放置"
+ },
+ "minecraft:block.sculk_catalyst.step": {
+  "en": "Sculk Catalyst: Step",
+  "zh": "幽匿催发体：脚步"
+ },
+ "minecraft:block.sculk_sensor.break": {
+  "en": "Sculk Sensor: Break",
+  "zh": "幽匿感测体：破坏"
+ },
+ "minecraft:block.sculk_sensor.clicking": {
+  "en": "Sculk Sensor clicks",
+  "zh": "幽匿感测体：颤动"
+ },
+ "minecraft:block.sculk_sensor.clicking_stop": {
+  "en": "Sculk Sensor stops clicking",
+  "zh": "幽匿感测体：停息"
+ },
+ "minecraft:block.sculk_sensor.fall": {
+  "en": "Sculk Sensor: Fall",
+  "zh": "幽匿感测体：下落"
+ },
+ "minecraft:block.sculk_sensor.hit": {
+  "en": "Sculk Sensor: Hit",
+  "zh": "幽匿感测体：击打"
+ },
+ "minecraft:block.sculk_sensor.place": {
+  "en": "Sculk Sensor: Place",
+  "zh": "幽匿感测体：放置"
+ },
+ "minecraft:block.sculk_sensor.step": {
+  "en": "Sculk Sensor: Step",
+  "zh": "幽匿感测体：脚步"
+ },
+ "minecraft:block.sculk_shrieker.break": {
+  "en": "Sculk Shrieker: Break",
+  "zh": "幽匿尖啸体：破坏"
+ },
+ "minecraft:block.sculk_shrieker.fall": {
+  "en": "Sculk Shrieker: Fall",
+  "zh": "幽匿尖啸体：下落"
+ },
+ "minecraft:block.sculk_shrieker.hit": {
+  "en": "Sculk Shrieker: Hit",
+  "zh": "幽匿尖啸体：击打"
+ },
+ "minecraft:block.sculk_shrieker.place": {
+  "en": "Sculk Shrieker: Place",
+  "zh": "幽匿尖啸体：放置"
+ },
+ "minecraft:block.sculk_shrieker.shriek": {
+  "en": "Sculk Shrieker shrieks",
+  "zh": "幽匿尖啸体：尖啸"
+ },
+ "minecraft:block.sculk_shrieker.step": {
+  "en": "Sculk Shrieker: Step",
+  "zh": "幽匿尖啸体：脚步"
+ },
+ "minecraft:block.sculk_vein.break": {
+  "en": "Sculk Vein: Break",
+  "zh": "幽匿脉络：破坏"
+ },
+ "minecraft:block.sculk_vein.fall": {
+  "en": "Sculk Vein: Fall",
+  "zh": "幽匿脉络：下落"
+ },
+ "minecraft:block.sculk_vein.hit": {
+  "en": "Sculk Vein: Hit",
+  "zh": "幽匿脉络：击打"
+ },
+ "minecraft:block.sculk_vein.place": {
+  "en": "Sculk Vein: Place",
+  "zh": "幽匿脉络：放置"
+ },
+ "minecraft:block.sculk_vein.step": {
+  "en": "Sculk Vein: Step",
+  "zh": "幽匿脉络：脚步"
+ },
+ "minecraft:block.shelf.activate": {
+  "en": "Shelf activates",
+  "zh": "展示架：激活"
+ },
+ "minecraft:block.shelf.break": {
+  "en": "Shelf: Break",
+  "zh": "架子：破坏"
+ },
+ "minecraft:block.shelf.deactivate": {
+  "en": "Shelf deactivates",
+  "zh": "展示架：取消激活"
+ },
+ "minecraft:block.shelf.fall": {
+  "en": "Shelf: Fall",
+  "zh": "架子：下落"
+ },
+ "minecraft:block.shelf.hit": {
+  "en": "Shelf: Hit",
+  "zh": "架子：击打"
+ },
+ "minecraft:block.shelf.multi_swap": {
+  "en": "Items swap",
+  "zh": "物品：交换"
+ },
+ "minecraft:block.shelf.place": {
+  "en": "Shelf: Place",
+  "zh": "架子：放置"
+ },
+ "minecraft:block.shelf.place_item": {
+  "en": "Item placed",
+  "zh": "物品：放置"
+ },
+ "minecraft:block.shelf.single_swap": {
+  "en": "Item swaps",
+  "zh": "物品：交换"
+ },
+ "minecraft:block.shelf.step": {
+  "en": "Shelf: Step",
+  "zh": "架子：脚步"
+ },
+ "minecraft:block.shelf.take_item": {
+  "en": "Item taken",
+  "zh": "物品：被取出"
+ },
+ "minecraft:block.shroomlight.break": {
+  "en": "Shroomlight: Break",
+  "zh": "菌光体：破坏"
+ },
+ "minecraft:block.shroomlight.fall": {
+  "en": "Shroomlight: Fall",
+  "zh": "菌光体：下落"
+ },
+ "minecraft:block.shroomlight.hit": {
+  "en": "Shroomlight: Hit",
+  "zh": "菌光体：击打"
+ },
+ "minecraft:block.shroomlight.place": {
+  "en": "Shroomlight: Place",
+  "zh": "菌光体：放置"
+ },
+ "minecraft:block.shroomlight.step": {
+  "en": "Shroomlight: Step",
+  "zh": "菌光体：脚步"
+ },
+ "minecraft:block.shulker_box.close": {
+  "en": "Shulker box closes",
+  "zh": "潜影盒：关闭"
+ },
+ "minecraft:block.shulker_box.open": {
+  "en": "Shulker box opens",
+  "zh": "潜影盒：开启"
+ },
+ "minecraft:block.sign.waxed_interact_fail": {
+  "en": "Sign wobbles",
+  "zh": "告示牌：晃动"
+ },
+ "minecraft:block.slime_block.break": {
+  "en": "Slime Block: Break",
+  "zh": "黏液块：破坏"
+ },
+ "minecraft:block.slime_block.fall": {
+  "en": "Slime Block: Fall",
+  "zh": "黏液块：下落"
+ },
+ "minecraft:block.slime_block.hit": {
+  "en": "Slime Block: Hit",
+  "zh": "黏液块：击打"
+ },
+ "minecraft:block.slime_block.place": {
+  "en": "Slime Block: Place",
+  "zh": "黏液块：放置"
+ },
+ "minecraft:block.slime_block.step": {
+  "en": "Slime Block: Step",
+  "zh": "黏液块：脚步"
+ },
+ "minecraft:block.small_amethyst_bud.break": {
+  "en": "Small Amethyst Bud: Break",
+  "zh": "小型紫晶芽：破坏"
+ },
+ "minecraft:block.small_amethyst_bud.place": {
+  "en": "Small Amethyst Bud: Place",
+  "zh": "小型紫晶芽：放置"
+ },
+ "minecraft:block.small_dripleaf.break": {
+  "en": "Small Dripleaf: Break",
+  "zh": "小型垂滴叶：破坏"
+ },
+ "minecraft:block.small_dripleaf.fall": {
+  "en": "Small Dripleaf: Fall",
+  "zh": "小型垂滴叶：下落"
+ },
+ "minecraft:block.small_dripleaf.hit": {
+  "en": "Small Dripleaf: Hit",
+  "zh": "小型垂滴叶：击打"
+ },
+ "minecraft:block.small_dripleaf.place": {
+  "en": "Small Dripleaf: Place",
+  "zh": "小型垂滴叶：放置"
+ },
+ "minecraft:block.small_dripleaf.step": {
+  "en": "Small Dripleaf: Step",
+  "zh": "小型垂滴叶：脚步"
+ },
+ "minecraft:block.smithing_table.use": {
+  "en": "Smithing Table used",
+  "zh": "锻造台：使用"
+ },
+ "minecraft:block.smoker.smoke": {
+  "en": "Smoker smokes",
+  "zh": "烟熏炉：烟熏"
+ },
+ "minecraft:block.sniffer_egg.crack": {
+  "en": "Sniffer Egg cracks",
+  "zh": "嗅探兽蛋：裂开"
+ },
+ "minecraft:block.sniffer_egg.hatch": {
+  "en": "Sniffer Egg hatches",
+  "zh": "嗅探兽蛋：孵化"
+ },
+ "minecraft:block.sniffer_egg.plop": {
+  "en": "Sniffer plops",
+  "zh": "嗅探兽：下蛋"
+ },
+ "minecraft:block.snow.break": {
+  "en": "Snow: Break",
+  "zh": "雪：破坏"
+ },
+ "minecraft:block.snow.fall": {
+  "en": "Snow: Fall",
+  "zh": "雪：下落"
+ },
+ "minecraft:block.snow.hit": {
+  "en": "Snow: Hit",
+  "zh": "雪：击打"
+ },
+ "minecraft:block.snow.place": {
+  "en": "Snow: Place",
+  "zh": "雪：放置"
+ },
+ "minecraft:block.snow.step": {
+  "en": "Snow: Step",
+  "zh": "雪：脚步"
+ },
+ "minecraft:block.soul_sand.break": {
+  "en": "Soul Sand: Break",
+  "zh": "灵魂沙：破坏"
+ },
+ "minecraft:block.soul_sand.fall": {
+  "en": "Soul Sand: Fall",
+  "zh": "灵魂沙：下落"
+ },
+ "minecraft:block.soul_sand.hit": {
+  "en": "Soul Sand: Hit",
+  "zh": "灵魂沙：击打"
+ },
+ "minecraft:block.soul_sand.place": {
+  "en": "Soul Sand: Place",
+  "zh": "灵魂沙：放置"
+ },
+ "minecraft:block.soul_sand.step": {
+  "en": "Soul Sand: Step",
+  "zh": "灵魂沙：脚步"
+ },
+ "minecraft:block.soul_soil.break": {
+  "en": "Soul Soil: Break",
+  "zh": "灵魂土：破坏"
+ },
+ "minecraft:block.soul_soil.fall": {
+  "en": "Soul Soil: Fall",
+  "zh": "灵魂土：下落"
+ },
+ "minecraft:block.soul_soil.hit": {
+  "en": "Soul Soil: Hit",
+  "zh": "灵魂土：击打"
+ },
+ "minecraft:block.soul_soil.place": {
+  "en": "Soul Soil: Place",
+  "zh": "灵魂土：放置"
+ },
+ "minecraft:block.soul_soil.step": {
+  "en": "Soul Soil: Step",
+  "zh": "灵魂土：脚步"
+ },
+ "minecraft:block.spawner.break": {
+  "en": "Monster Spawner: Break",
+  "zh": "刷怪笼：破坏"
+ },
+ "minecraft:block.spawner.fall": {
+  "en": "Monster Spawner: Fall",
+  "zh": "刷怪笼：下落"
+ },
+ "minecraft:block.spawner.hit": {
+  "en": "Monster Spawner: Hit",
+  "zh": "刷怪笼：击打"
+ },
+ "minecraft:block.spawner.place": {
+  "en": "Monster Spawner: Place",
+  "zh": "刷怪笼：放置"
+ },
+ "minecraft:block.spawner.step": {
+  "en": "Monster Spawner: Step",
+  "zh": "刷怪笼：脚步"
+ },
+ "minecraft:block.sponge.absorb": {
+  "en": "Sponge sucks",
+  "zh": "海绵：吸水"
+ },
+ "minecraft:block.sponge.break": {
+  "en": "Sponge: Break",
+  "zh": "海绵：破坏"
+ },
+ "minecraft:block.sponge.fall": {
+  "en": "Sponge: Fall",
+  "zh": "海绵：下落"
+ },
+ "minecraft:block.sponge.hit": {
+  "en": "Sponge: Hit",
+  "zh": "海绵：击打"
+ },
+ "minecraft:block.sponge.place": {
+  "en": "Sponge: Place",
+  "zh": "海绵：放置"
+ },
+ "minecraft:block.sponge.step": {
+  "en": "Sponge: Step",
+  "zh": "海绵：脚步"
+ },
+ "minecraft:block.spore_blossom.break": {
+  "en": "Spore Blossom: Break",
+  "zh": "孢子花：破坏"
+ },
+ "minecraft:block.spore_blossom.fall": {
+  "en": "Spore Blossom: Fall",
+  "zh": "孢子花：下落"
+ },
+ "minecraft:block.spore_blossom.hit": {
+  "en": "Spore Blossom: Hit",
+  "zh": "孢子花：击打"
+ },
+ "minecraft:block.spore_blossom.place": {
+  "en": "Spore Blossom: Place",
+  "zh": "孢子花：放置"
+ },
+ "minecraft:block.spore_blossom.step": {
+  "en": "Spore Blossom: Step",
+  "zh": "孢子花：脚步"
+ },
+ "minecraft:block.stem.break": {
+  "en": "Stem: Break",
+  "zh": "菌柄：破坏"
+ },
+ "minecraft:block.stem.fall": {
+  "en": "Stem: Fall",
+  "zh": "菌柄：下落"
+ },
+ "minecraft:block.stem.hit": {
+  "en": "Stem: Hit",
+  "zh": "菌柄：击打"
+ },
+ "minecraft:block.stem.place": {
+  "en": "Stem: Place",
+  "zh": "菌柄：放置"
+ },
+ "minecraft:block.stem.step": {
+  "en": "Stem: Step",
+  "zh": "菌柄：脚步"
+ },
+ "minecraft:block.stone.break": {
+  "en": "Stone: Break",
+  "zh": "石头：破坏"
+ },
+ "minecraft:block.stone.fall": {
+  "en": "Stone: Fall",
+  "zh": "石头：下落"
+ },
+ "minecraft:block.stone.hit": {
+  "en": "Stone: Hit",
+  "zh": "石头：击打"
+ },
+ "minecraft:block.stone.place": {
+  "en": "Stone: Place",
+  "zh": "石头：放置"
+ },
+ "minecraft:block.stone.step": {
+  "en": "Stone: Step",
+  "zh": "石头：脚步"
+ },
+ "minecraft:block.stone_button.click_off": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.stone_button.click_on": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.stone_pressure_plate.click_off": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.stone_pressure_plate.click_on": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.sulfur.break": {
+  "en": "Sulfur: Break",
+  "zh": "硫黄：破坏"
+ },
+ "minecraft:block.sulfur.fall": {
+  "en": "Sulfur: Fall",
+  "zh": "硫黄：下落"
+ },
+ "minecraft:block.sulfur.hit": {
+  "en": "Sulfur: Hit",
+  "zh": "硫黄：击打"
+ },
+ "minecraft:block.sulfur.place": {
+  "en": "Sulfur: Place",
+  "zh": "硫黄：放置"
+ },
+ "minecraft:block.sulfur.step": {
+  "en": "Sulfur: Step",
+  "zh": "硫黄：脚步"
+ },
+ "minecraft:block.sulfur_spike.break": {
+  "en": "Sulfur Spike: Break",
+  "zh": "硫黄尖锥：破坏"
+ },
+ "minecraft:block.sulfur_spike.fall": {
+  "en": "Sulfur Spike: Fall",
+  "zh": "硫黄尖锥：下落"
+ },
+ "minecraft:block.sulfur_spike.hit": {
+  "en": "Sulfur Spike: Hit",
+  "zh": "硫黄尖锥：击打"
+ },
+ "minecraft:block.sulfur_spike.land": {
+  "en": "Sulfur Spike: Land",
+  "zh": "硫黄尖锥：落地"
+ },
+ "minecraft:block.sulfur_spike.place": {
+  "en": "Sulfur Spike: Place",
+  "zh": "硫黄尖锥：放置"
+ },
+ "minecraft:block.sulfur_spike.step": {
+  "en": "Sulfur Spike: Step",
+  "zh": "硫黄尖锥：脚步"
+ },
+ "minecraft:block.suspicious_gravel.break": {
+  "en": "Suspicious Gravel: Break",
+  "zh": "可疑的沙砾：破坏"
+ },
+ "minecraft:block.suspicious_gravel.fall": {
+  "en": "Suspicious Gravel: Fall",
+  "zh": "可疑的沙砾：下落"
+ },
+ "minecraft:block.suspicious_gravel.hit": {
+  "en": "Suspicious Gravel: Hit",
+  "zh": "可疑的沙砾：击打"
+ },
+ "minecraft:block.suspicious_gravel.place": {
+  "en": "Suspicious Gravel: Place",
+  "zh": "可疑的沙砾：放置"
+ },
+ "minecraft:block.suspicious_gravel.step": {
+  "en": "Suspicious Gravel: Step",
+  "zh": "可疑的沙砾：脚步"
+ },
+ "minecraft:block.suspicious_sand.break": {
+  "en": "Suspicious Sand: Break",
+  "zh": "可疑的沙子：破坏"
+ },
+ "minecraft:block.suspicious_sand.fall": {
+  "en": "Suspicious Sand: Fall",
+  "zh": "可疑的沙子：下落"
+ },
+ "minecraft:block.suspicious_sand.hit": {
+  "en": "Suspicious Sand: Hit",
+  "zh": "可疑的沙子：击打"
+ },
+ "minecraft:block.suspicious_sand.place": {
+  "en": "Suspicious Sand: Place",
+  "zh": "可疑的沙子：放置"
+ },
+ "minecraft:block.suspicious_sand.step": {
+  "en": "Suspicious Sand: Step",
+  "zh": "可疑的沙子：脚步"
+ },
+ "minecraft:block.sweet_berry_bush.break": {
+  "en": "Sweet Berry Bush: Break",
+  "zh": "甜浆果丛：破坏"
+ },
+ "minecraft:block.sweet_berry_bush.pick_berries": {
+  "en": "Berries pop",
+  "zh": "浆果：弹出"
+ },
+ "minecraft:block.sweet_berry_bush.place": {
+  "en": "Sweet Berry Bush: Place",
+  "zh": "甜浆果丛：放置"
+ },
+ "minecraft:block.trial_spawner.about_to_spawn_item": {
+  "en": "Ominous item prepares",
+  "zh": "不祥之物：准备"
+ },
+ "minecraft:block.trial_spawner.ambient": {
+  "en": "Trial Spawner crackles",
+  "zh": "试炼刷怪笼：噼啪作响"
+ },
+ "minecraft:block.trial_spawner.ambient_ominous": {
+  "en": "Ominous crackling",
+  "zh": "不祥试炼刷怪笼：噼啪作响"
+ },
+ "minecraft:block.trial_spawner.break": {
+  "en": "Trial Spawner: Break",
+  "zh": "试炼刷怪笼：破坏"
+ },
+ "minecraft:block.trial_spawner.close_shutter": {
+  "en": "Trial Spawner closes",
+  "zh": "试炼刷怪笼：关闭"
+ },
+ "minecraft:block.trial_spawner.detect_player": {
+  "en": "Trial Spawner charges up",
+  "zh": "试炼刷怪笼：充能"
+ },
+ "minecraft:block.trial_spawner.eject_item": {
+  "en": "Trial Spawner ejects items",
+  "zh": "试炼刷怪笼：喷出物品"
+ },
+ "minecraft:block.trial_spawner.fall": {
+  "en": "Trial Spawner: Fall",
+  "zh": "试炼刷怪笼：下落"
+ },
+ "minecraft:block.trial_spawner.hit": {
+  "en": "Trial Spawner: Hit",
+  "zh": "试炼刷怪笼：击打"
+ },
+ "minecraft:block.trial_spawner.ominous_activate": {
+  "en": "Omen engulfs Trial Spawner",
+  "zh": "试炼刷怪笼：不祥涌动"
+ },
+ "minecraft:block.trial_spawner.open_shutter": {
+  "en": "Trial Spawner opens",
+  "zh": "试炼刷怪笼：开启"
+ },
+ "minecraft:block.trial_spawner.place": {
+  "en": "Trial Spawner: Place",
+  "zh": "试炼刷怪笼：放置"
+ },
+ "minecraft:block.trial_spawner.spawn_item": {
+  "en": "Ominous item drops",
+  "zh": "不祥之物：掉落"
+ },
+ "minecraft:block.trial_spawner.spawn_item_begin": {
+  "en": "Ominous item appears",
+  "zh": "不祥之物：出现"
+ },
+ "minecraft:block.trial_spawner.spawn_mob": {
+  "en": "Trial Spawner spawns a mob",
+  "zh": "试炼刷怪笼：生成生物"
+ },
+ "minecraft:block.trial_spawner.step": {
+  "en": "Trial Spawner: Step",
+  "zh": "试炼刷怪笼：脚步"
+ },
+ "minecraft:block.tripwire.attach": {
+  "en": "Tripwire attaches",
+  "zh": "绊线：连接"
+ },
+ "minecraft:block.tripwire.click_off": {
+  "en": "Tripwire clicks",
+  "zh": "绊线：咔哒"
+ },
+ "minecraft:block.tripwire.click_on": {
+  "en": "Tripwire clicks",
+  "zh": "绊线：咔哒"
+ },
+ "minecraft:block.tripwire.detach": {
+  "en": "Tripwire detaches",
+  "zh": "绊线：断开"
+ },
+ "minecraft:block.tuff.break": {
+  "en": "Tuff: Break",
+  "zh": "凝灰岩：破坏"
+ },
+ "minecraft:block.tuff.fall": {
+  "en": "Tuff: Fall",
+  "zh": "凝灰岩：下落"
+ },
+ "minecraft:block.tuff.hit": {
+  "en": "Tuff: Hit",
+  "zh": "凝灰岩：击打"
+ },
+ "minecraft:block.tuff.place": {
+  "en": "Tuff: Place",
+  "zh": "凝灰岩：放置"
+ },
+ "minecraft:block.tuff.step": {
+  "en": "Tuff: Step",
+  "zh": "凝灰岩：脚步"
+ },
+ "minecraft:block.tuff_bricks.break": {
+  "en": "Tuff Bricks: Break",
+  "zh": "凝灰岩砖：破坏"
+ },
+ "minecraft:block.tuff_bricks.fall": {
+  "en": "Tuff Bricks: Fall",
+  "zh": "凝灰岩砖：下落"
+ },
+ "minecraft:block.tuff_bricks.hit": {
+  "en": "Tuff Bricks: Hit",
+  "zh": "凝灰岩砖：击打"
+ },
+ "minecraft:block.tuff_bricks.place": {
+  "en": "Tuff Bricks: Place",
+  "zh": "凝灰岩砖：放置"
+ },
+ "minecraft:block.tuff_bricks.step": {
+  "en": "Tuff Bricks: Step",
+  "zh": "凝灰岩砖：脚步"
+ },
+ "minecraft:block.vault.activate": {
+  "en": "Vault ignites",
+  "zh": "宝库：燃起"
+ },
+ "minecraft:block.vault.ambient": {
+  "en": "Vault crackles",
+  "zh": "宝库：噼啪作响"
+ },
+ "minecraft:block.vault.break": {
+  "en": "Vault: Break",
+  "zh": "宝库：破坏"
+ },
+ "minecraft:block.vault.close_shutter": {
+  "en": "Vault closes",
+  "zh": "宝库：关闭"
+ },
+ "minecraft:block.vault.deactivate": {
+  "en": "Vault extinguishes",
+  "zh": "宝库：熄灭"
+ },
+ "minecraft:block.vault.eject_item": {
+  "en": "Vault ejects item",
+  "zh": "宝库：喷出物品"
+ },
+ "minecraft:block.vault.fall": {
+  "en": "Vault: Fall",
+  "zh": "宝库：下落"
+ },
+ "minecraft:block.vault.hit": {
+  "en": "Vault: Hit",
+  "zh": "宝库：击打"
+ },
+ "minecraft:block.vault.insert_item": {
+  "en": "Vault unlocks",
+  "zh": "宝库：解锁"
+ },
+ "minecraft:block.vault.insert_item_fail": {
+  "en": "Vault rejects item",
+  "zh": "宝库：解锁失败"
+ },
+ "minecraft:block.vault.open_shutter": {
+  "en": "Vault opens",
+  "zh": "宝库：打开"
+ },
+ "minecraft:block.vault.place": {
+  "en": "Vault: Place",
+  "zh": "宝库：放置"
+ },
+ "minecraft:block.vault.reject_rewarded_player": {
+  "en": "Vault rejects player",
+  "zh": "宝库：拒绝已奖励玩家"
+ },
+ "minecraft:block.vault.step": {
+  "en": "Vault: Step",
+  "zh": "宝库：脚步"
+ },
+ "minecraft:block.vine.break": {
+  "en": "Vines: Break",
+  "zh": "藤蔓：破坏"
+ },
+ "minecraft:block.vine.fall": {
+  "en": "Vines: Fall",
+  "zh": "藤蔓：下落"
+ },
+ "minecraft:block.vine.hit": {
+  "en": "Vines: Hit",
+  "zh": "藤蔓：击打"
+ },
+ "minecraft:block.vine.place": {
+  "en": "Vines: Place",
+  "zh": "藤蔓：放置"
+ },
+ "minecraft:block.vine.step": {
+  "en": "Vines: Step",
+  "zh": "藤蔓：脚步"
+ },
+ "minecraft:block.wart_block.break": {
+  "en": "Wart Block: Break",
+  "zh": "疣块：破坏"
+ },
+ "minecraft:block.wart_block.fall": {
+  "en": "Wart Block: Fall",
+  "zh": "疣块：下落"
+ },
+ "minecraft:block.wart_block.hit": {
+  "en": "Wart Block: Hit",
+  "zh": "疣块：击打"
+ },
+ "minecraft:block.wart_block.place": {
+  "en": "Wart Block: Place",
+  "zh": "疣块：放置"
+ },
+ "minecraft:block.wart_block.step": {
+  "en": "Wart Block: Step",
+  "zh": "疣块：脚步"
+ },
+ "minecraft:block.water.ambient": {
+  "en": "Water flows",
+  "zh": "水：流动"
+ },
+ "minecraft:block.weeping_vines.break": {
+  "en": "Weeping Vines: Break",
+  "zh": "垂泪藤：破坏"
+ },
+ "minecraft:block.weeping_vines.fall": {
+  "en": "Weeping Vines: Fall",
+  "zh": "垂泪藤：下落"
+ },
+ "minecraft:block.weeping_vines.hit": {
+  "en": "Weeping Vines: Hit",
+  "zh": "垂泪藤：击打"
+ },
+ "minecraft:block.weeping_vines.place": {
+  "en": "Weeping Vines: Place",
+  "zh": "垂泪藤：放置"
+ },
+ "minecraft:block.weeping_vines.step": {
+  "en": "Weeping Vines: Step",
+  "zh": "垂泪藤：脚步"
+ },
+ "minecraft:block.wet_grass.break": {
+  "en": "Wet Grass: Break",
+  "zh": "湿草：破坏"
+ },
+ "minecraft:block.wet_grass.fall": {
+  "en": "Wet Grass: Fall",
+  "zh": "湿草：下落"
+ },
+ "minecraft:block.wet_grass.hit": {
+  "en": "Wet Grass: Hit",
+  "zh": "湿草：击打"
+ },
+ "minecraft:block.wet_grass.place": {
+  "en": "Wet Grass: Place",
+  "zh": "湿草：放置"
+ },
+ "minecraft:block.wet_grass.step": {
+  "en": "Wet Grass: Step",
+  "zh": "湿草：脚步"
+ },
+ "minecraft:block.wet_sponge.break": {
+  "en": "Wet Sponge: Break",
+  "zh": "湿海绵：破坏"
+ },
+ "minecraft:block.wet_sponge.dries": {
+  "en": "Sponge dries",
+  "zh": "海绵：烘干"
+ },
+ "minecraft:block.wet_sponge.fall": {
+  "en": "Wet Sponge: Fall",
+  "zh": "湿海绵：下落"
+ },
+ "minecraft:block.wet_sponge.hit": {
+  "en": "Wet Sponge: Hit",
+  "zh": "湿海绵：击打"
+ },
+ "minecraft:block.wet_sponge.place": {
+  "en": "Wet Sponge: Place",
+  "zh": "湿海绵：放置"
+ },
+ "minecraft:block.wet_sponge.step": {
+  "en": "Wet Sponge: Step",
+  "zh": "湿海绵：脚步"
+ },
+ "minecraft:block.wood.break": {
+  "en": "Wood: Break",
+  "zh": "木头：破坏"
+ },
+ "minecraft:block.wood.fall": {
+  "en": "Wood: Fall",
+  "zh": "木头：下落"
+ },
+ "minecraft:block.wood.hit": {
+  "en": "Wood: Hit",
+  "zh": "木头：击打"
+ },
+ "minecraft:block.wood.place": {
+  "en": "Wood: Place",
+  "zh": "木头：放置"
+ },
+ "minecraft:block.wood.step": {
+  "en": "Wood: Step",
+  "zh": "木头：脚步"
+ },
+ "minecraft:block.wooden_button.click_off": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.wooden_button.click_on": {
+  "en": "Button clicks",
+  "zh": "按钮：咔哒"
+ },
+ "minecraft:block.wooden_door.close": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.wooden_door.open": {
+  "en": "Door creaks",
+  "zh": "门：嘎吱作响"
+ },
+ "minecraft:block.wooden_pressure_plate.click_off": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.wooden_pressure_plate.click_on": {
+  "en": "Pressure Plate clicks",
+  "zh": "压力板：咔哒"
+ },
+ "minecraft:block.wooden_trapdoor.close": {
+  "en": "Trapdoor closes",
+  "zh": "活板门：关闭"
+ },
+ "minecraft:block.wooden_trapdoor.open": {
+  "en": "Trapdoor opens",
+  "zh": "活板门：打开"
+ },
+ "minecraft:block.wool.break": {
+  "en": "Wool: Break",
+  "zh": "羊毛：破坏"
+ },
+ "minecraft:block.wool.fall": {
+  "en": "Wool: Fall",
+  "zh": "羊毛：下落"
+ },
+ "minecraft:block.wool.hit": {
+  "en": "Wool: Hit",
+  "zh": "羊毛：击打"
+ },
+ "minecraft:block.wool.place": {
+  "en": "Wool: Place",
+  "zh": "羊毛：放置"
+ },
+ "minecraft:block.wool.step": {
+  "en": "Wool: Step",
+  "zh": "羊毛：脚步"
+ },
+ "minecraft:enchant.thorns.hit": {
+  "en": "Thorns prick",
+  "zh": "荆棘：反刺"
+ },
+ "minecraft:entity.allay.ambient_with_item": {
+  "en": "Allay seeks",
+  "zh": "悦灵：搜寻"
+ },
+ "minecraft:entity.allay.ambient_without_item": {
+  "en": "Allay yearns",
+  "zh": "悦灵：渴求"
+ },
+ "minecraft:entity.allay.death": {
+  "en": "Allay dies",
+  "zh": "悦灵：死亡"
+ },
+ "minecraft:entity.allay.hurt": {
+  "en": "Allay hurts",
+  "zh": "悦灵：受伤"
+ },
+ "minecraft:entity.allay.item_given": {
+  "en": "Allay chortles",
+  "zh": "悦灵：嬉笑"
+ },
+ "minecraft:entity.allay.item_taken": {
+  "en": "Allay allays",
+  "zh": "悦灵：愉悦"
+ },
+ "minecraft:entity.allay.item_thrown": {
+  "en": "Allay tosses",
+  "zh": "悦灵：投掷"
+ },
+ "minecraft:entity.armadillo.ambient": {
+  "en": "Armadillo grunts",
+  "zh": "犰狳：呼噜"
+ },
+ "minecraft:entity.armadillo.brush": {
+  "en": "Scute is brushed off",
+  "zh": "鳞甲：被刷落"
+ },
+ "minecraft:entity.armadillo.death": {
+  "en": "Armadillo dies",
+  "zh": "犰狳：死亡"
+ },
+ "minecraft:entity.armadillo.eat": {
+  "en": "Armadillo eats",
+  "zh": "犰狳：进食"
+ },
+ "minecraft:entity.armadillo.hurt": {
+  "en": "Armadillo hurts",
+  "zh": "犰狳：受伤"
+ },
+ "minecraft:entity.armadillo.hurt_reduced": {
+  "en": "Armadillo shields itself",
+  "zh": "犰狳：自卫"
+ },
+ "minecraft:entity.armadillo.land": {
+  "en": "Armadillo lands",
+  "zh": "犰狳：着陆"
+ },
+ "minecraft:entity.armadillo.peek": {
+  "en": "Armadillo peeks",
+  "zh": "犰狳：窥视"
+ },
+ "minecraft:entity.armadillo.roll": {
+  "en": "Armadillo rolls up",
+  "zh": "犰狳：蜷缩"
+ },
+ "minecraft:entity.armadillo.scute_drop": {
+  "en": "Armadillo sheds scute",
+  "zh": "犰狳：脱落鳞甲"
+ },
+ "minecraft:entity.armadillo.step": {
+  "en": "Armadillo: Step",
+  "zh": "犰狳：脚步"
+ },
+ "minecraft:entity.armadillo.unroll_finish": {
+  "en": "Armadillo unrolls",
+  "zh": "犰狳：伸展"
+ },
+ "minecraft:entity.armadillo.unroll_start": {
+  "en": "Armadillo peeks",
+  "zh": "犰狳：窥视"
+ },
+ "minecraft:entity.armor_stand.break": {
+  "en": "Block broken",
+  "zh": "方块：被破坏"
+ },
+ "minecraft:entity.armor_stand.fall": {
+  "en": "Something fell",
+  "zh": "某物：着地"
+ },
+ "minecraft:entity.armor_stand.hit": {
+  "en": "Block breaking",
+  "zh": "方块：损坏中"
+ },
+ "minecraft:entity.armor_stand.place": {
+  "en": "Block placed",
+  "zh": "方块：被放置"
+ },
+ "minecraft:entity.arrow.hit": {
+  "en": "Arrow hits",
+  "zh": "箭：击中"
+ },
+ "minecraft:entity.arrow.hit_player": {
+  "en": "Player hit",
+  "zh": "箭：击中玩家"
+ },
+ "minecraft:entity.arrow.shoot": {
+  "en": "Arrow fired",
+  "zh": "箭：被射出"
+ },
+ "minecraft:entity.axolotl.attack": {
+  "en": "Axolotl attacks",
+  "zh": "美西螈：攻击"
+ },
+ "minecraft:entity.axolotl.death": {
+  "en": "Axolotl dies",
+  "zh": "美西螈：死亡"
+ },
+ "minecraft:entity.axolotl.hurt": {
+  "en": "Axolotl hurts",
+  "zh": "美西螈：受伤"
+ },
+ "minecraft:entity.axolotl.idle_air": {
+  "en": "Axolotl chirps",
+  "zh": "美西螈：啾啾"
+ },
+ "minecraft:entity.axolotl.idle_water": {
+  "en": "Axolotl chirps",
+  "zh": "美西螈：啾啾"
+ },
+ "minecraft:entity.axolotl.splash": {
+  "en": "Axolotl splashes",
+  "zh": "美西螈：溅起水花"
+ },
+ "minecraft:entity.axolotl.swim": {
+  "en": "Axolotl swims",
+  "zh": "美西螈：游泳"
+ },
+ "minecraft:entity.baby_cat.ambient": {
+  "en": "Kitten meows",
+  "zh": "幼年猫：喵~"
+ },
+ "minecraft:entity.baby_cat.beg_for_food": {
+  "en": "Kitten begs",
+  "zh": "幼年猫：求食"
+ },
+ "minecraft:entity.baby_cat.death": {
+  "en": "Kitten dies",
+  "zh": "幼年猫：死亡"
+ },
+ "minecraft:entity.baby_cat.eat": {
+  "en": "Kitten eats",
+  "zh": "幼年猫：进食"
+ },
+ "minecraft:entity.baby_cat.hiss": {
+  "en": "Kitten hisses",
+  "zh": "幼年猫：嘶嘶声"
+ },
+ "minecraft:entity.baby_cat.hurt": {
+  "en": "Kitten hurts",
+  "zh": "幼年猫：受伤"
+ },
+ "minecraft:entity.baby_cat.purr": {
+  "en": "Kitten purrs",
+  "zh": "幼年猫：呼噜声"
+ },
+ "minecraft:entity.baby_cat.purreow": {
+  "en": "Kitten meows",
+  "zh": "幼年猫：喵~"
+ },
+ "minecraft:entity.baby_cat.stray_ambient": {
+  "en": "Kitten meows",
+  "zh": "幼年猫：喵~"
+ },
+ "minecraft:entity.baby_chicken.ambient": {
+  "en": "Chick peeps",
+  "zh": "幼年鸡：叽叽叫"
+ },
+ "minecraft:entity.baby_chicken.death": {
+  "en": "Chick dies",
+  "zh": "幼年鸡：死亡"
+ },
+ "minecraft:entity.baby_chicken.hurt": {
+  "zh": "幼年鸡：受伤",
+  "en": "Baby Chicken: Hurt"
+ },
+ "minecraft:entity.baby_chicken.step": {
+  "en": "Baby Chicken: Step",
+  "zh": "幼年鸡：脚步"
+ },
+ "minecraft:entity.baby_horse.ambient": {
+  "en": "Foal neighs",
+  "zh": "幼年马：嘶鸣"
+ },
+ "minecraft:entity.baby_horse.angry": {
+  "en": "Foal neighs",
+  "zh": "幼年马：嘶鸣"
+ },
+ "minecraft:entity.baby_horse.breathe": {
+  "en": "Foal breathes",
+  "zh": "幼年马：呼吸"
+ },
+ "minecraft:entity.baby_horse.death": {
+  "en": "Foal dies",
+  "zh": "幼年马：死亡"
+ },
+ "minecraft:entity.baby_horse.eat": {
+  "en": "Foal eats",
+  "zh": "幼年马：进食"
+ },
+ "minecraft:entity.baby_horse.hurt": {
+  "en": "Foal hurts",
+  "zh": "幼年马：受伤"
+ },
+ "minecraft:entity.baby_horse.land": {
+  "en": "Something fell",
+  "zh": "某物：着地"
+ },
+ "minecraft:entity.baby_horse.step": {
+  "en": "Baby Horse: Step",
+  "zh": "幼年马：脚步"
+ },
+ "minecraft:entity.baby_nautilus.ambient": {
+  "en": "Baby Nautilus chitters",
+  "zh": "幼年鹦鹉螺：啾啾"
+ },
+ "minecraft:entity.baby_nautilus.ambient_land": {
+  "en": "Baby Nautilus chitters",
+  "zh": "幼年鹦鹉螺：啾啾"
+ },
+ "minecraft:entity.baby_nautilus.death": {
+  "en": "Baby Nautilus dies",
+  "zh": "幼年鹦鹉螺：死亡"
+ },
+ "minecraft:entity.baby_nautilus.death_land": {
+  "en": "Baby Nautilus dies",
+  "zh": "幼年鹦鹉螺：死亡"
+ },
+ "minecraft:entity.baby_nautilus.eat": {
+  "en": "Baby Nautilus eats",
+  "zh": "幼年鹦鹉螺：进食"
+ },
+ "minecraft:entity.baby_nautilus.hurt": {
+  "en": "Baby Nautilus hurts",
+  "zh": "幼年鹦鹉螺：受伤"
+ },
+ "minecraft:entity.baby_nautilus.hurt_land": {
+  "en": "Baby Nautilus hurts",
+  "zh": "幼年鹦鹉螺：受伤"
+ },
+ "minecraft:entity.baby_nautilus.swim": {
+  "en": "Baby Nautilus swims",
+  "zh": "幼年鹦鹉螺：游泳"
+ },
+ "minecraft:entity.baby_pig.ambient": {
+  "en": "Baby Pig oinks",
+  "zh": "幼年猪：哼叫"
+ },
+ "minecraft:entity.baby_pig.death": {
+  "en": "Baby Pig dies",
+  "zh": "幼年猪：死亡"
+ },
+ "minecraft:entity.baby_pig.eat": {
+  "en": "Baby Pig eats",
+  "zh": "幼年猪：进食"
+ },
+ "minecraft:entity.baby_pig.hurt": {
+  "en": "Baby Pig hurts",
+  "zh": "幼年猪：受伤"
+ },
+ "minecraft:entity.baby_pig.step": {
+  "en": "Baby Pig: Step",
+  "zh": "幼年猪：脚步"
+ },
+ "minecraft:entity.baby_wolf.ambient": {
+  "en": "Puppy yips",
+  "zh": "幼年狼：嗷~"
+ },
+ "minecraft:entity.baby_wolf.death": {
+  "en": "Puppy dies",
+  "zh": "幼年狼：死亡"
+ },
+ "minecraft:entity.baby_wolf.growl": {
+  "en": "Puppy growls",
+  "zh": "幼年狼：嚎叫"
+ },
+ "minecraft:entity.baby_wolf.hurt": {
+  "en": "Puppy hurts",
+  "zh": "幼年狼：受伤"
+ },
+ "minecraft:entity.baby_wolf.pant": {
+  "en": "Puppy pants",
+  "zh": "幼年狼：喘息"
+ },
+ "minecraft:entity.baby_wolf.step": {
+  "en": "Baby Wolf: Step",
+  "zh": "幼年狼：脚步"
+ },
+ "minecraft:entity.baby_wolf.whine": {
+  "en": "Puppy whines",
+  "zh": "幼年狼：呜咽"
+ },
+ "minecraft:entity.bat.ambient": {
+  "en": "Bat screeches",
+  "zh": "蝙蝠：尖声叫"
+ },
+ "minecraft:entity.bat.death": {
+  "en": "Bat dies",
+  "zh": "蝙蝠：死亡"
+ },
+ "minecraft:entity.bat.hurt": {
+  "en": "Bat hurts",
+  "zh": "蝙蝠：受伤"
+ },
+ "minecraft:entity.bat.loop": {
+  "en": "Bat: Loop",
+  "zh": "蝙蝠：循环"
+ },
+ "minecraft:entity.bat.takeoff": {
+  "en": "Bat takes off",
+  "zh": "蝙蝠：起飞"
+ },
+ "minecraft:entity.bee.death": {
+  "en": "Bee dies",
+  "zh": "蜜蜂：死亡"
+ },
+ "minecraft:entity.bee.hurt": {
+  "en": "Bee hurts",
+  "zh": "蜜蜂：受伤"
+ },
+ "minecraft:entity.bee.loop": {
+  "en": "Bee buzzes",
+  "zh": "蜜蜂：嗡嗡"
+ },
+ "minecraft:entity.bee.loop_aggressive": {
+  "en": "Bee buzzes angrily",
+  "zh": "蜜蜂：愤怒地嗡嗡叫"
+ },
+ "minecraft:entity.bee.pollinate": {
+  "en": "Bee buzzes happily",
+  "zh": "蜜蜂：高兴地嗡嗡叫"
+ },
+ "minecraft:entity.bee.sting": {
+  "en": "Bee stings",
+  "zh": "蜜蜂：刺蜇"
+ },
+ "minecraft:entity.blaze.ambient": {
+  "en": "Blaze breathes",
+  "zh": "烈焰人：呼吸"
+ },
+ "minecraft:entity.blaze.burn": {
+  "en": "Blaze crackles",
+  "zh": "烈焰人：噼啪作响"
+ },
+ "minecraft:entity.blaze.death": {
+  "en": "Blaze dies",
+  "zh": "烈焰人：死亡"
+ },
+ "minecraft:entity.blaze.hurt": {
+  "en": "Blaze hurts",
+  "zh": "烈焰人：受伤"
+ },
+ "minecraft:entity.blaze.shoot": {
+  "zh": "烈焰人发射火球",
+  "en": "Blaze Shoots"
+ },
+ "minecraft:entity.boat.paddle_land": {
+  "en": "Rowing",
+  "zh": "划船"
+ },
+ "minecraft:entity.boat.paddle_water": {
+  "en": "Rowing",
+  "zh": "划船"
+ },
+ "minecraft:entity.bogged.ambient": {
+  "en": "Bogged rattles",
+  "zh": "沼骸：咯咯声"
+ },
+ "minecraft:entity.bogged.death": {
+  "en": "Bogged dies",
+  "zh": "沼骸：死亡"
+ },
+ "minecraft:entity.bogged.hurt": {
+  "en": "Bogged hurts",
+  "zh": "沼骸：受伤"
+ },
+ "minecraft:entity.bogged.shear": {
+  "en": "Shears click",
+  "zh": "剪刀：咔嚓"
+ },
+ "minecraft:entity.bogged.step": {
+  "en": "Bogged: Step",
+  "zh": "沼骸：脚步"
+ },
+ "minecraft:entity.breeze.charge": {
+  "en": "Breeze charges",
+  "zh": "旋风人：蓄力"
+ },
+ "minecraft:entity.breeze.death": {
+  "en": "Breeze dies",
+  "zh": "旋风人：死亡"
+ },
+ "minecraft:entity.breeze.deflect": {
+  "en": "Breeze deflects",
+  "zh": "旋风人：反弹"
+ },
+ "minecraft:entity.breeze.hurt": {
+  "en": "Breeze hurts",
+  "zh": "旋风人：受伤"
+ },
+ "minecraft:entity.breeze.idle_air": {
+  "en": "Breeze flies",
+  "zh": "旋风人：飞行"
+ },
+ "minecraft:entity.breeze.idle_ground": {
+  "en": "Breeze whirs",
+  "zh": "旋风人：呼啸"
+ },
+ "minecraft:entity.breeze.inhale": {
+  "en": "Breeze inhales",
+  "zh": "旋风人：吸气"
+ },
+ "minecraft:entity.breeze.jump": {
+  "en": "Breeze jumps",
+  "zh": "旋风人：跳跃"
+ },
+ "minecraft:entity.breeze.land": {
+  "en": "Breeze lands",
+  "zh": "旋风人：着陆"
+ },
+ "minecraft:entity.breeze.shoot": {
+  "en": "Breeze shoots",
+  "zh": "旋风人：射击"
+ },
+ "minecraft:entity.breeze.slide": {
+  "en": "Breeze slides",
+  "zh": "旋风人：滑行"
+ },
+ "minecraft:entity.breeze.whirl": {
+  "en": "Breeze whirls",
+  "zh": "旋风人：旋转"
+ },
+ "minecraft:entity.breeze.wind_burst": {
+  "en": "Wind Charge bursts",
+  "zh": "风弹：爆裂"
+ },
+ "minecraft:entity.camel.ambient": {
+  "en": "Camel grunts",
+  "zh": "骆驼：呼噜"
+ },
+ "minecraft:entity.camel.dash": {
+  "en": "Camel yeets",
+  "zh": "骆驼：冲刺"
+ },
+ "minecraft:entity.camel.dash_ready": {
+  "en": "Camel recovers",
+  "zh": "骆驼：恢复体力"
+ },
+ "minecraft:entity.camel.death": {
+  "en": "Camel dies",
+  "zh": "骆驼：死亡"
+ },
+ "minecraft:entity.camel.eat": {
+  "en": "Camel eats",
+  "zh": "骆驼：进食"
+ },
+ "minecraft:entity.camel.hurt": {
+  "en": "Camel hurts",
+  "zh": "骆驼：受伤"
+ },
+ "minecraft:entity.camel.saddle": {
+  "en": "Saddle equips",
+  "zh": "鞍：装备"
+ },
+ "minecraft:entity.camel.sit": {
+  "en": "Camel sits down",
+  "zh": "骆驼：坐下"
+ },
+ "minecraft:entity.camel.stand": {
+  "en": "Camel stands up",
+  "zh": "骆驼：站起"
+ },
+ "minecraft:entity.camel.step": {
+  "en": "Camel: Step",
+  "zh": "骆驼：脚步"
+ },
+ "minecraft:entity.camel.step_sand": {
+  "en": "Footsteps",
+  "zh": "脚步声"
+ },
+ "minecraft:entity.camel_husk.ambient": {
+  "en": "Camel Husk grumphs",
+  "zh": "骆驼尸壳：咕哝"
+ },
+ "minecraft:entity.camel_husk.dash": {
+  "en": "Camel Husk yeets",
+  "zh": "骆驼尸壳：冲刺"
+ },
+ "minecraft:entity.camel_husk.dash_ready": {
+  "en": "Camel Husk recovers",
+  "zh": "骆驼尸壳：恢复体力"
+ },
+ "minecraft:entity.camel_husk.death": {
+  "en": "Camel Husk dies",
+  "zh": "骆驼尸壳：死亡"
+ },
+ "minecraft:entity.camel_husk.eat": {
+  "en": "Camel Husk eats",
+  "zh": "骆驼尸壳：进食"
+ },
+ "minecraft:entity.camel_husk.hurt": {
+  "en": "Camel Husk hurts",
+  "zh": "骆驼尸壳：受伤"
+ },
+ "minecraft:entity.camel_husk.saddle": {
+  "en": "Saddle equips",
+  "zh": "鞍：装备"
+ },
+ "minecraft:entity.camel_husk.sit": {
+  "en": "Camel Husk sits down",
+  "zh": "骆驼尸壳：坐下"
+ },
+ "minecraft:entity.camel_husk.stand": {
+  "en": "Camel Husk stands up",
+  "zh": "骆驼尸壳：站起"
+ },
+ "minecraft:entity.camel_husk.step": {
+  "en": "Camel Husk: Step",
+  "zh": "骆驼尸壳：脚步"
+ },
+ "minecraft:entity.camel_husk.step_sand": {
+  "en": "Footsteps",
+  "zh": "脚步声"
+ },
+ "minecraft:entity.cat.ambient": {
+  "en": "Cat meows",
+  "zh": "猫：喵~"
+ },
+ "minecraft:entity.cat.beg_for_food": {
+  "en": "Cat begs",
+  "zh": "猫：求食"
+ },
+ "minecraft:entity.cat.death": {
+  "en": "Cat dies",
+  "zh": "猫：死亡"
+ },
+ "minecraft:entity.cat.eat": {
+  "en": "Cat eats",
+  "zh": "猫：进食"
+ },
+ "minecraft:entity.cat.hiss": {
+  "en": "Cat hisses",
+  "zh": "猫：嘶嘶声"
+ },
+ "minecraft:entity.cat.hurt": {
+  "en": "Cat hurts",
+  "zh": "猫：受伤"
+ },
+ "minecraft:entity.cat.purr": {
+  "en": "Cat purrs",
+  "zh": "猫：呼噜声"
+ },
+ "minecraft:entity.cat.purreow": {
+  "en": "Cat meows",
+  "zh": "猫：喵~"
+ },
+ "minecraft:entity.cat.stray_ambient": {
+  "en": "Cat meows",
+  "zh": "猫：喵~"
+ },
+ "minecraft:entity.cat_royal.ambient": {
+  "en": "Cat meows",
+  "zh": "猫：喵~"
+ },
+ "minecraft:entity.cat_royal.beg_for_food": {
+  "en": "Cat begs",
+  "zh": "猫：求食"
+ },
+ "minecraft:entity.cat_royal.death": {
+  "en": "Cat dies",
+  "zh": "猫：死亡"
+ },
+ "minecraft:entity.cat_royal.eat": {
+  "en": "Cat eats",
+  "zh": "猫：进食"
+ },
+ "minecraft:entity.cat_royal.hiss": {
+  "en": "Cat hisses",
+  "zh": "猫：嘶嘶声"
+ },
+ "minecraft:entity.cat_royal.hurt": {
+  "en": "Cat hurts",
+  "zh": "猫：受伤"
+ },
+ "minecraft:entity.cat_royal.purr": {
+  "en": "Cat purrs",
+  "zh": "猫：呼噜声"
+ },
+ "minecraft:entity.cat_royal.purreow": {
+  "en": "Cat meows",
+  "zh": "猫：喵~"
+ },
+ "minecraft:entity.cat_royal.stray_ambient": {
+  "en": "Cat meows",
+  "zh": "猫：喵~"
+ },
+ "minecraft:entity.chicken.ambient": {
+  "en": "Chicken clucks",
+  "zh": "鸡：咯咯叫"
+ },
+ "minecraft:entity.chicken.death": {
+  "en": "Chicken dies",
+  "zh": "鸡：死亡"
+ },
+ "minecraft:entity.chicken.egg": {
+  "en": "Chicken plops",
+  "zh": "鸡：下蛋"
+ },
+ "minecraft:entity.chicken.hurt": {
+  "en": "Chicken hurts",
+  "zh": "鸡：受伤"
+ },
+ "minecraft:entity.chicken.step": {
+  "en": "Chicken: Step",
+  "zh": "鸡：脚步"
+ },
+ "minecraft:entity.chicken_picky.ambient": {
+  "en": "Chicken clucks",
+  "zh": "鸡：咯咯叫"
+ },
+ "minecraft:entity.chicken_picky.death": {
+  "en": "Chicken dies",
+  "zh": "鸡：死亡"
+ },
+ "minecraft:entity.chicken_picky.hurt": {
+  "en": "Chicken hurts",
+  "zh": "鸡：受伤"
+ },
+ "minecraft:entity.chicken_picky.step": {
+  "en": "Chicken Picky: Step",
+  "zh": "挑食鸡：脚步"
+ },
+ "minecraft:entity.cod.ambient": {
+  "en": "Cod: Ambience",
+  "zh": "鳕鱼：环境音"
+ },
+ "minecraft:entity.cod.death": {
+  "en": "Cod dies",
+  "zh": "鳕鱼：死亡"
+ },
+ "minecraft:entity.cod.flop": {
+  "en": "Cod flops",
+  "zh": "鳕鱼：扑腾"
+ },
+ "minecraft:entity.cod.hurt": {
+  "en": "Cod hurts",
+  "zh": "鳕鱼：受伤"
+ },
+ "minecraft:entity.copper_golem.death": {
+  "en": "Copper Golem dies",
+  "zh": "铜傀儡：死亡"
+ },
+ "minecraft:entity.copper_golem.hurt": {
+  "en": "Copper Golem hurts",
+  "zh": "铜傀儡：受伤"
+ },
+ "minecraft:entity.copper_golem.item_drop": {
+  "en": "Copper Golem is placing an item",
+  "zh": "铜傀儡：放置物品"
+ },
+ "minecraft:entity.copper_golem.item_no_drop": {
+  "en": "Copper Golem can't place item",
+  "zh": "铜傀儡：无法放置物品"
+ },
+ "minecraft:entity.copper_golem.no_item_get": {
+  "en": "Copper Golem is picking up item",
+  "zh": "铜傀儡：取出物品"
+ },
+ "minecraft:entity.copper_golem.no_item_no_get": {
+  "en": "Copper Golem can't pick up item",
+  "zh": "铜傀儡：无法取出物品"
+ },
+ "minecraft:entity.copper_golem.shear": {
+  "en": "Shears click",
+  "zh": "剪刀：咔嚓"
+ },
+ "minecraft:entity.copper_golem.spawn": {
+  "en": "Copper Golem appears",
+  "zh": "铜傀儡：出现"
+ },
+ "minecraft:entity.copper_golem.spin": {
+  "en": "Copper Golem's head spins",
+  "zh": "铜傀儡：旋转头部"
+ },
+ "minecraft:entity.copper_golem.step": {
+  "en": "Copper Golem: Step",
+  "zh": "铜傀儡：脚步"
+ },
+ "minecraft:entity.copper_golem_become_statue": {
+  "en": "Copper Golem is petrified",
+  "zh": "铜傀儡：固定"
+ },
+ "minecraft:entity.copper_golem_oxidized.death": {
+  "en": "Copper Golem dies",
+  "zh": "铜傀儡：死亡"
+ },
+ "minecraft:entity.copper_golem_oxidized.hurt": {
+  "en": "Copper Golem hurts",
+  "zh": "铜傀儡：受伤"
+ },
+ "minecraft:entity.copper_golem_oxidized.spin": {
+  "en": "Copper Golem's head spins",
+  "zh": "铜傀儡：旋转头部"
+ },
+ "minecraft:entity.copper_golem_oxidized.step": {
+  "en": "Copper Golem Oxidized: Step",
+  "zh": "氧化铜傀儡：脚步"
+ },
+ "minecraft:entity.copper_golem_weathered.death": {
+  "en": "Copper Golem dies",
+  "zh": "铜傀儡：死亡"
+ },
+ "minecraft:entity.copper_golem_weathered.hurt": {
+  "en": "Copper Golem hurts",
+  "zh": "铜傀儡：受伤"
+ },
+ "minecraft:entity.copper_golem_weathered.spin": {
+  "en": "Copper Golem's head spins",
+  "zh": "铜傀儡：旋转头部"
+ },
+ "minecraft:entity.copper_golem_weathered.step": {
+  "en": "Copper Golem Weathered: Step",
+  "zh": "风化铜傀儡：脚步"
+ },
+ "minecraft:entity.cow.ambient": {
+  "en": "Cow moos",
+  "zh": "牛：哞~"
+ },
+ "minecraft:entity.cow.death": {
+  "en": "Cow dies",
+  "zh": "牛：死亡"
+ },
+ "minecraft:entity.cow.hurt": {
+  "en": "Cow hurts",
+  "zh": "牛：受伤"
+ },
+ "minecraft:entity.cow.milk": {
+  "en": "Cow gets milked",
+  "zh": "牛：被挤奶"
+ },
+ "minecraft:entity.cow.step": {
+  "en": "Cow: Step",
+  "zh": "牛：脚步"
+ },
+ "minecraft:entity.cow_moody.ambient": {
+  "en": "Cow moos",
+  "zh": "牛：哞~"
+ },
+ "minecraft:entity.cow_moody.death": {
+  "en": "Cow dies",
+  "zh": "牛：死亡"
+ },
+ "minecraft:entity.cow_moody.hurt": {
+  "en": "Cow hurts",
+  "zh": "牛：受伤"
+ },
+ "minecraft:entity.cow_moody.step": {
+  "en": "Cow Moody: Step",
+  "zh": "暴躁牛：脚步"
+ },
+ "minecraft:entity.creaking.activate": {
+  "en": "Creaking watches",
+  "zh": "嘎枝：注视"
+ },
+ "minecraft:entity.creaking.ambient": {
+  "en": "Creaking creaks",
+  "zh": "嘎枝：嘎吱作响"
+ },
+ "minecraft:entity.creaking.attack": {
+  "en": "Creaking attacks",
+  "zh": "嘎枝：攻击"
+ },
+ "minecraft:entity.creaking.deactivate": {
+  "en": "Creaking calms",
+  "zh": "嘎枝：静息"
+ },
+ "minecraft:entity.creaking.death": {
+  "en": "Creaking crumbles",
+  "zh": "嘎枝：碎裂"
+ },
+ "minecraft:entity.creaking.freeze": {
+  "en": "Creaking stops",
+  "zh": "嘎枝：驻足"
+ },
+ "minecraft:entity.creaking.spawn": {
+  "en": "Creaking manifests",
+  "zh": "嘎枝：显现"
+ },
+ "minecraft:entity.creaking.step": {
+  "en": "Creaking: Step",
+  "zh": "嘎枝：脚步"
+ },
+ "minecraft:entity.creaking.sway": {
+  "en": "Creaking is hit",
+  "zh": "嘎枝：被击打"
+ },
+ "minecraft:entity.creaking.twitch": {
+  "en": "Creaking twitches",
+  "zh": "嘎枝：抽搐"
+ },
+ "minecraft:entity.creaking.unfreeze": {
+  "en": "Creaking moves",
+  "zh": "嘎枝：移动"
+ },
+ "minecraft:entity.creeper.death": {
+  "en": "Creeper dies",
+  "zh": "苦力怕：死亡"
+ },
+ "minecraft:entity.creeper.hurt": {
+  "en": "Creeper hurts",
+  "zh": "苦力怕：受伤"
+ },
+ "minecraft:entity.creeper.primed": {
+  "zh": "苦力怕嘶嘶声",
+  "en": "Creeper Hisses"
+ },
+ "minecraft:entity.dolphin.ambient": {
+  "en": "Dolphin chirps",
+  "zh": "海豚：啾啾"
+ },
+ "minecraft:entity.dolphin.ambient_water": {
+  "en": "Dolphin whistles",
+  "zh": "海豚：吹口哨"
+ },
+ "minecraft:entity.dolphin.attack": {
+  "en": "Dolphin attacks",
+  "zh": "海豚：攻击"
+ },
+ "minecraft:entity.dolphin.death": {
+  "en": "Dolphin dies",
+  "zh": "海豚：死亡"
+ },
+ "minecraft:entity.dolphin.eat": {
+  "en": "Dolphin eats",
+  "zh": "海豚：进食"
+ },
+ "minecraft:entity.dolphin.hurt": {
+  "en": "Dolphin hurts",
+  "zh": "海豚：受伤"
+ },
+ "minecraft:entity.dolphin.jump": {
+  "en": "Dolphin jumps",
+  "zh": "海豚：跃起"
+ },
+ "minecraft:entity.dolphin.play": {
+  "en": "Dolphin plays",
+  "zh": "海豚：嬉戏"
+ },
+ "minecraft:entity.dolphin.splash": {
+  "en": "Dolphin splashes",
+  "zh": "海豚：溅起水花"
+ },
+ "minecraft:entity.dolphin.swim": {
+  "en": "Dolphin swims",
+  "zh": "海豚：游泳"
+ },
+ "minecraft:entity.donkey.ambient": {
+  "en": "Donkey hee-haws",
+  "zh": "驴：嘶叫"
+ },
+ "minecraft:entity.donkey.angry": {
+  "en": "Donkey neighs",
+  "zh": "驴：嘶鸣"
+ },
+ "minecraft:entity.donkey.chest": {
+  "en": "Donkey Chest equips",
+  "zh": "驴：装备箱子"
+ },
+ "minecraft:entity.donkey.death": {
+  "en": "Donkey dies",
+  "zh": "驴：死亡"
+ },
+ "minecraft:entity.donkey.eat": {
+  "en": "Donkey eats",
+  "zh": "驴：进食"
+ },
+ "minecraft:entity.donkey.hurt": {
+  "en": "Donkey hurts",
+  "zh": "驴：受伤"
+ },
+ "minecraft:entity.donkey.jump": {
+  "en": "Donkey jumps",
+  "zh": "驴：跳跃"
+ },
+ "minecraft:entity.dragon_fireball.explode": {
+  "en": "Explosion",
+  "zh": "爆炸"
+ },
+ "minecraft:entity.drowned.ambient": {
+  "en": "Drowned gurgles",
+  "zh": "溺尸：呻吟"
+ },
+ "minecraft:entity.drowned.ambient_water": {
+  "en": "Drowned gurgles",
+  "zh": "溺尸：呻吟"
+ },
+ "minecraft:entity.drowned.death": {
+  "en": "Drowned dies",
+  "zh": "溺尸：死亡"
+ },
+ "minecraft:entity.drowned.death_water": {
+  "en": "Drowned dies",
+  "zh": "溺尸：死亡"
+ },
+ "minecraft:entity.drowned.hurt": {
+  "en": "Drowned hurts",
+  "zh": "溺尸：受伤"
+ },
+ "minecraft:entity.drowned.hurt_water": {
+  "en": "Drowned hurts",
+  "zh": "溺尸：受伤"
+ },
+ "minecraft:entity.drowned.shoot": {
+  "en": "Drowned throws Trident",
+  "zh": "溺尸：投掷三叉戟"
+ },
+ "minecraft:entity.drowned.step": {
+  "en": "Drowned: Step",
+  "zh": "溺尸：脚步"
+ },
+ "minecraft:entity.drowned.swim": {
+  "en": "Drowned swims",
+  "zh": "溺尸：游泳"
+ },
+ "minecraft:entity.egg.throw": {
+  "en": "Egg flies",
+  "zh": "鸡蛋：飞出"
+ },
+ "minecraft:entity.elder_guardian.ambient": {
+  "en": "Elder Guardian moans",
+  "zh": "远古守卫者：低鸣"
+ },
+ "minecraft:entity.elder_guardian.ambient_land": {
+  "en": "Elder Guardian flaps",
+  "zh": "远古守卫者：弹跳"
+ },
+ "minecraft:entity.elder_guardian.curse": {
+  "en": "Elder Guardian curses",
+  "zh": "远古守卫者：诅咒"
+ },
+ "minecraft:entity.elder_guardian.death": {
+  "en": "Elder Guardian dies",
+  "zh": "远古守卫者：死亡"
+ },
+ "minecraft:entity.elder_guardian.death_land": {
+  "en": "Elder Guardian dies",
+  "zh": "远古守卫者：死亡"
+ },
+ "minecraft:entity.elder_guardian.flop": {
+  "en": "Elder Guardian flops",
+  "zh": "远古守卫者：扑腾"
+ },
+ "minecraft:entity.elder_guardian.hurt": {
+  "en": "Elder Guardian hurts",
+  "zh": "远古守卫者：受伤"
+ },
+ "minecraft:entity.elder_guardian.hurt_land": {
+  "en": "Elder Guardian hurts",
+  "zh": "远古守卫者：受伤"
+ },
+ "minecraft:entity.ender_dragon.ambient": {
+  "en": "Dragon roars",
+  "zh": "末影龙：咆哮"
+ },
+ "minecraft:entity.ender_dragon.death": {
+  "en": "Dragon dies",
+  "zh": "末影龙：死亡"
+ },
+ "minecraft:entity.ender_dragon.flap": {
+  "en": "Dragon flaps",
+  "zh": "末影龙：拍打翅膀"
+ },
+ "minecraft:entity.ender_dragon.growl": {
+  "en": "Dragon growls",
+  "zh": "末影龙：吼叫"
+ },
+ "minecraft:entity.ender_dragon.hurt": {
+  "en": "Dragon hurts",
+  "zh": "末影龙：受伤"
+ },
+ "minecraft:entity.ender_dragon.shoot": {
+  "en": "Dragon shoots",
+  "zh": "末影龙：射击"
+ },
+ "minecraft:entity.ender_eye.death": {
+  "en": "Eye of Ender falls",
+  "zh": "末影之眼：掉落"
+ },
+ "minecraft:entity.ender_eye.launch": {
+  "en": "Eye of Ender shoots",
+  "zh": "末影之眼：射出"
+ },
+ "minecraft:entity.ender_pearl.throw": {
+  "en": "Ender Pearl flies",
+  "zh": "末影珍珠：飞出"
+ },
+ "minecraft:entity.enderman.ambient": {
+  "en": "Enderman vwoops",
+  "zh": "末影人：低鸣"
+ },
+ "minecraft:entity.enderman.death": {
+  "en": "Enderman dies",
+  "zh": "末影人：死亡"
+ },
+ "minecraft:entity.enderman.hurt": {
+  "en": "Enderman hurts",
+  "zh": "末影人：受伤"
+ },
+ "minecraft:entity.enderman.scream": {
+  "en": "Enderman screams",
+  "zh": "末影人：尖叫"
+ },
+ "minecraft:entity.enderman.stare": {
+  "en": "Enderman cries out",
+  "zh": "末影人：喊叫"
+ },
+ "minecraft:entity.enderman.teleport": {
+  "en": "Enderman teleports",
+  "zh": "末影人：传送"
+ },
+ "minecraft:entity.endermite.ambient": {
+  "en": "Endermite scuttles",
+  "zh": "末影螨：窜动"
+ },
+ "minecraft:entity.endermite.death": {
+  "en": "Endermite dies",
+  "zh": "末影螨：死亡"
+ },
+ "minecraft:entity.endermite.hurt": {
+  "en": "Endermite hurts",
+  "zh": "末影螨：受伤"
+ },
+ "minecraft:entity.endermite.step": {
+  "en": "Endermite: Step",
+  "zh": "末影螨：脚步"
+ },
+ "minecraft:entity.evoker.ambient": {
+  "en": "Evoker murmurs",
+  "zh": "唤魔者：咕哝"
+ },
+ "minecraft:entity.evoker.cast_spell": {
+  "en": "Evoker casts spell",
+  "zh": "唤魔者：施法"
+ },
+ "minecraft:entity.evoker.celebrate": {
+  "en": "Evoker cheers",
+  "zh": "唤魔者：欢呼"
+ },
+ "minecraft:entity.evoker.death": {
+  "en": "Evoker dies",
+  "zh": "唤魔者：死亡"
+ },
+ "minecraft:entity.evoker.hurt": {
+  "en": "Evoker hurts",
+  "zh": "唤魔者：受伤"
+ },
+ "minecraft:entity.evoker.prepare_attack": {
+  "en": "Evoker prepares attack",
+  "zh": "唤魔者：准备攻击"
+ },
+ "minecraft:entity.evoker.prepare_summon": {
+  "en": "Evoker prepares summoning",
+  "zh": "唤魔者：准备召唤"
+ },
+ "minecraft:entity.evoker.prepare_wololo": {
+  "en": "Evoker prepares charming",
+  "zh": "唤魔者：准备施咒"
+ },
+ "minecraft:entity.evoker_fangs.attack": {
+  "en": "Fangs snap",
+  "zh": "尖牙：咬合"
+ },
+ "minecraft:entity.experience_bottle.throw": {
+  "en": "Bottle thrown",
+  "zh": "玻璃瓶：扔出"
+ },
+ "minecraft:entity.experience_orb.pickup": {
+  "en": "Experience gained",
+  "zh": "获得经验"
+ },
+ "minecraft:entity.firework_rocket.blast": {
+  "en": "Firework blasts",
+  "zh": "烟花：爆裂"
+ },
+ "minecraft:entity.firework_rocket.blast_far": {
+  "en": "Firework blasts",
+  "zh": "烟花：爆裂"
+ },
+ "minecraft:entity.firework_rocket.large_blast": {
+  "en": "Firework blasts",
+  "zh": "烟花：爆裂"
+ },
+ "minecraft:entity.firework_rocket.large_blast_far": {
+  "en": "Firework blasts",
+  "zh": "烟花：爆裂"
+ },
+ "minecraft:entity.firework_rocket.launch": {
+  "en": "Firework launches",
+  "zh": "烟花：发射"
+ },
+ "minecraft:entity.firework_rocket.shoot": {
+  "en": "Firework launches",
+  "zh": "烟花：发射"
+ },
+ "minecraft:entity.firework_rocket.twinkle": {
+  "en": "Firework twinkles",
+  "zh": "烟花：闪烁"
+ },
+ "minecraft:entity.firework_rocket.twinkle_far": {
+  "en": "Firework twinkles",
+  "zh": "烟花：闪烁"
+ },
+ "minecraft:entity.fish.swim": {
+  "en": "Splashes",
+  "zh": "溅起水花"
+ },
+ "minecraft:entity.fishing_bobber.retrieve": {
+  "en": "Bobber retrieved",
+  "zh": "浮漂：收回"
+ },
+ "minecraft:entity.fishing_bobber.splash": {
+  "en": "Fishing Bobber splashes",
+  "zh": "浮漂：溅起水花"
+ },
+ "minecraft:entity.fishing_bobber.throw": {
+  "en": "Bobber thrown",
+  "zh": "浮漂：甩出"
+ },
+ "minecraft:entity.fox.aggro": {
+  "en": "Fox angers",
+  "zh": "狐狸：愤怒"
+ },
+ "minecraft:entity.fox.ambient": {
+  "en": "Fox squeaks",
+  "zh": "狐狸：吱吱叫"
+ },
+ "minecraft:entity.fox.bite": {
+  "en": "Fox bites",
+  "zh": "狐狸：撕咬"
+ },
+ "minecraft:entity.fox.death": {
+  "en": "Fox dies",
+  "zh": "狐狸：死亡"
+ },
+ "minecraft:entity.fox.eat": {
+  "en": "Fox eats",
+  "zh": "狐狸：进食"
+ },
+ "minecraft:entity.fox.hurt": {
+  "en": "Fox hurts",
+  "zh": "狐狸：受伤"
+ },
+ "minecraft:entity.fox.screech": {
+  "en": "Fox screeches",
+  "zh": "狐狸：尖声叫"
+ },
+ "minecraft:entity.fox.sleep": {
+  "en": "Fox snores",
+  "zh": "狐狸：打鼾"
+ },
+ "minecraft:entity.fox.sniff": {
+  "en": "Fox sniffs",
+  "zh": "狐狸：嗅探"
+ },
+ "minecraft:entity.fox.spit": {
+  "en": "Fox spits",
+  "zh": "狐狸：吐出"
+ },
+ "minecraft:entity.fox.teleport": {
+  "en": "Fox teleports",
+  "zh": "狐狸：传送"
+ },
+ "minecraft:entity.frog.ambient": {
+  "en": "Frog croaks",
+  "zh": "青蛙：咕呱"
+ },
+ "minecraft:entity.frog.death": {
+  "en": "Frog dies",
+  "zh": "青蛙：死亡"
+ },
+ "minecraft:entity.frog.eat": {
+  "en": "Frog eats",
+  "zh": "青蛙：进食"
+ },
+ "minecraft:entity.frog.hurt": {
+  "en": "Frog hurts",
+  "zh": "青蛙：受伤"
+ },
+ "minecraft:entity.frog.lay_spawn": {
+  "en": "Frog lays spawn",
+  "zh": "青蛙：产卵"
+ },
+ "minecraft:entity.frog.long_jump": {
+  "en": "Frog jumps",
+  "zh": "青蛙：跳跃"
+ },
+ "minecraft:entity.frog.step": {
+  "en": "Frog: Step",
+  "zh": "青蛙：脚步"
+ },
+ "minecraft:entity.frog.tongue": {
+  "en": "Frog: Tongue",
+  "zh": "青蛙：舌头"
+ },
+ "minecraft:entity.generic.big_fall": {
+  "en": "Something fell",
+  "zh": "某物：着地"
+ },
+ "minecraft:entity.generic.burn": {
+  "en": "Burning",
+  "zh": "燃烧"
+ },
+ "minecraft:entity.generic.death": {
+  "zh": "实体死亡",
+  "en": "Entity dies"
+ },
+ "minecraft:entity.generic.drink": {
+  "en": "Sipping",
+  "zh": "啜饮"
+ },
+ "minecraft:entity.generic.eat": {
+  "en": "Eating",
+  "zh": "进食"
+ },
+ "minecraft:entity.generic.explode": {
+  "zh": "爆炸",
+  "en": "Explosion"
+ },
+ "minecraft:entity.generic.extinguish_fire": {
+  "en": "Fire extinguishes",
+  "zh": "火：熄灭"
+ },
+ "minecraft:entity.generic.hurt": {
+  "zh": "实体受伤",
+  "en": "Entity hurts"
+ },
+ "minecraft:entity.generic.small_fall": {
+  "en": "Something trips",
+  "zh": "某物：摔倒"
+ },
+ "minecraft:entity.generic.splash": {
+  "en": "Splashing",
+  "zh": "溅起水花"
+ },
+ "minecraft:entity.generic.swim": {
+  "en": "Swimming",
+  "zh": "游泳"
+ },
+ "minecraft:entity.ghast.ambient": {
+  "en": "Ghast cries",
+  "zh": "恶魂：哭泣"
+ },
+ "minecraft:entity.ghast.death": {
+  "en": "Ghast dies",
+  "zh": "恶魂：死亡"
+ },
+ "minecraft:entity.ghast.hurt": {
+  "en": "Ghast hurts",
+  "zh": "恶魂：受伤"
+ },
+ "minecraft:entity.ghast.scream": {
+  "en": "Ghast: Scream",
+  "zh": "恶魂：尖叫"
+ },
+ "minecraft:entity.ghast.shoot": {
+  "en": "Ghast shoots",
+  "zh": "恶魂：射击"
+ },
+ "minecraft:entity.ghast.warn": {
+  "en": "Ghast shoots",
+  "zh": "恶魂：射击"
+ },
+ "minecraft:entity.ghastling.ambient": {
+  "en": "Ghastling coos",
+  "zh": "小恶魂：咕咕"
+ },
+ "minecraft:entity.ghastling.death": {
+  "en": "Ghastling dies",
+  "zh": "小恶魂：死亡"
+ },
+ "minecraft:entity.ghastling.hurt": {
+  "en": "Ghastling hurts",
+  "zh": "小恶魂：受伤"
+ },
+ "minecraft:entity.ghastling.spawn": {
+  "en": "Ghastling appears",
+  "zh": "小恶魂：出现"
+ },
+ "minecraft:entity.glow_item_frame.add_item": {
+  "en": "Glow Item Frame fills",
+  "zh": "荧光物品展示框：填充"
+ },
+ "minecraft:entity.glow_item_frame.break": {
+  "en": "Glow Item Frame broken",
+  "zh": "荧光物品展示框：被破坏"
+ },
+ "minecraft:entity.glow_item_frame.place": {
+  "en": "Glow Item Frame placed",
+  "zh": "荧光物品展示框：被放置"
+ },
+ "minecraft:entity.glow_item_frame.remove_item": {
+  "en": "Glow Item Frame empties",
+  "zh": "荧光物品展示框：清空"
+ },
+ "minecraft:entity.glow_item_frame.rotate_item": {
+  "en": "Glow Item Frame clicks",
+  "zh": "荧光物品展示框：转动"
+ },
+ "minecraft:entity.glow_squid.ambient": {
+  "en": "Glow Squid swims",
+  "zh": "发光鱿鱼：游泳"
+ },
+ "minecraft:entity.glow_squid.death": {
+  "en": "Glow Squid dies",
+  "zh": "发光鱿鱼：死亡"
+ },
+ "minecraft:entity.glow_squid.hurt": {
+  "en": "Glow Squid hurts",
+  "zh": "发光鱿鱼：受伤"
+ },
+ "minecraft:entity.glow_squid.squirt": {
+  "en": "Glow Squid shoots ink",
+  "zh": "发光鱿鱼：喷墨"
+ },
+ "minecraft:entity.goat.ambient": {
+  "en": "Goat bleats",
+  "zh": "山羊：咩~"
+ },
+ "minecraft:entity.goat.death": {
+  "en": "Goat dies",
+  "zh": "山羊：死亡"
+ },
+ "minecraft:entity.goat.eat": {
+  "en": "Goat eats",
+  "zh": "山羊：进食"
+ },
+ "minecraft:entity.goat.horn_break": {
+  "en": "Goat Horn breaks off",
+  "zh": "山羊：断角"
+ },
+ "minecraft:entity.goat.hurt": {
+  "en": "Goat hurts",
+  "zh": "山羊：受伤"
+ },
+ "minecraft:entity.goat.long_jump": {
+  "en": "Goat leaps",
+  "zh": "山羊：跳跃"
+ },
+ "minecraft:entity.goat.milk": {
+  "en": "Goat gets milked",
+  "zh": "山羊：被挤奶"
+ },
+ "minecraft:entity.goat.prepare_ram": {
+  "en": "Goat stomps",
+  "zh": "山羊：跺脚"
+ },
+ "minecraft:entity.goat.ram_impact": {
+  "en": "Goat rams",
+  "zh": "山羊：冲撞"
+ },
+ "minecraft:entity.goat.screaming.ambient": {
+  "en": "Goat bellows",
+  "zh": "山羊：喊叫"
+ },
+ "minecraft:entity.goat.screaming.death": {
+  "en": "Goat dies",
+  "zh": "山羊：死亡"
+ },
+ "minecraft:entity.goat.screaming.eat": {
+  "en": "Goat eats",
+  "zh": "山羊：进食"
+ },
+ "minecraft:entity.goat.screaming.hurt": {
+  "en": "Goat hurts",
+  "zh": "山羊：受伤"
+ },
+ "minecraft:entity.goat.screaming.long_jump": {
+  "en": "Goat leaps",
+  "zh": "山羊：跳跃"
+ },
+ "minecraft:entity.goat.screaming.milk": {
+  "en": "Goat gets milked",
+  "zh": "山羊：被挤奶"
+ },
+ "minecraft:entity.goat.screaming.prepare_ram": {
+  "en": "Goat stomps",
+  "zh": "山羊：跺脚"
+ },
+ "minecraft:entity.goat.screaming.ram_impact": {
+  "en": "Goat rams",
+  "zh": "山羊：冲撞"
+ },
+ "minecraft:entity.goat.step": {
+  "en": "Goat: Step",
+  "zh": "山羊：脚步"
+ },
+ "minecraft:entity.guardian.ambient": {
+  "en": "Guardian moans",
+  "zh": "守卫者：低鸣"
+ },
+ "minecraft:entity.guardian.ambient_land": {
+  "en": "Guardian flaps",
+  "zh": "守卫者：弹跳"
+ },
+ "minecraft:entity.guardian.attack": {
+  "en": "Guardian shoots",
+  "zh": "守卫者：射击"
+ },
+ "minecraft:entity.guardian.death": {
+  "en": "Guardian dies",
+  "zh": "守卫者：死亡"
+ },
+ "minecraft:entity.guardian.death_land": {
+  "en": "Guardian dies",
+  "zh": "守卫者：死亡"
+ },
+ "minecraft:entity.guardian.flop": {
+  "en": "Guardian flops",
+  "zh": "守卫者：扑腾"
+ },
+ "minecraft:entity.guardian.hurt": {
+  "en": "Guardian hurts",
+  "zh": "守卫者：受伤"
+ },
+ "minecraft:entity.guardian.hurt_land": {
+  "en": "Guardian hurts",
+  "zh": "守卫者：受伤"
+ },
+ "minecraft:entity.happy_ghast.ambient": {
+  "en": "Happy Ghast croons",
+  "zh": "快乐恶魂：哼唱"
+ },
+ "minecraft:entity.happy_ghast.death": {
+  "en": "Happy Ghast dies",
+  "zh": "快乐恶魂：死亡"
+ },
+ "minecraft:entity.happy_ghast.equip": {
+  "en": "Harness equips",
+  "zh": "挽具：装备"
+ },
+ "minecraft:entity.happy_ghast.harness_goggles_down": {
+  "en": "Happy Ghast is ready",
+  "zh": "快乐恶魂：就绪"
+ },
+ "minecraft:entity.happy_ghast.harness_goggles_up": {
+  "en": "Happy Ghast stops",
+  "zh": "快乐恶魂：停下"
+ },
+ "minecraft:entity.happy_ghast.hurt": {
+  "en": "Happy Ghast hurts",
+  "zh": "快乐恶魂：受伤"
+ },
+ "minecraft:entity.happy_ghast.riding": {
+  "en": "Happy Ghast: Riding",
+  "zh": "快乐恶魂：骑乘"
+ },
+ "minecraft:entity.happy_ghast.unequip": {
+  "en": "Harness unequips",
+  "zh": "挽具：卸下"
+ },
+ "minecraft:entity.hoglin.ambient": {
+  "en": "Hoglin growls",
+  "zh": "疣猪兽：咆哮"
+ },
+ "minecraft:entity.hoglin.angry": {
+  "en": "Hoglin growls angrily",
+  "zh": "疣猪兽：怒吼"
+ },
+ "minecraft:entity.hoglin.attack": {
+  "en": "Hoglin attacks",
+  "zh": "疣猪兽：攻击"
+ },
+ "minecraft:entity.hoglin.converted_to_zombified": {
+  "en": "Hoglin converts to Zoglin",
+  "zh": "疣猪兽：转化为僵尸疣猪兽"
+ },
+ "minecraft:entity.hoglin.death": {
+  "en": "Hoglin dies",
+  "zh": "疣猪兽：死亡"
+ },
+ "minecraft:entity.hoglin.hurt": {
+  "en": "Hoglin hurts",
+  "zh": "疣猪兽：受伤"
+ },
+ "minecraft:entity.hoglin.retreat": {
+  "en": "Hoglin retreats",
+  "zh": "疣猪兽：退缩"
+ },
+ "minecraft:entity.hoglin.step": {
+  "en": "Hoglin: Step",
+  "zh": "疣猪兽：脚步"
+ },
+ "minecraft:entity.horse.ambient": {
+  "en": "Horse neighs",
+  "zh": "马：嘶鸣"
+ },
+ "minecraft:entity.horse.angry": {
+  "en": "Horse neighs",
+  "zh": "马：嘶鸣"
+ },
+ "minecraft:entity.horse.armor": {
+  "en": "Horse armor equips",
+  "zh": "马铠：装备"
+ },
+ "minecraft:entity.horse.breathe": {
+  "en": "Horse breathes",
+  "zh": "马：呼吸"
+ },
+ "minecraft:entity.horse.death": {
+  "en": "Horse dies",
+  "zh": "马：死亡"
+ },
+ "minecraft:entity.horse.eat": {
+  "en": "Horse eats",
+  "zh": "马：进食"
+ },
+ "minecraft:entity.horse.gallop": {
+  "en": "Horse gallops",
+  "zh": "马：奔腾"
+ },
+ "minecraft:entity.horse.hurt": {
+  "en": "Horse hurts",
+  "zh": "马：受伤"
+ },
+ "minecraft:entity.horse.jump": {
+  "en": "Horse jumps",
+  "zh": "马：跳跃"
+ },
+ "minecraft:entity.horse.land": {
+  "en": "Something fell",
+  "zh": "某物：着地"
+ },
+ "minecraft:entity.horse.saddle": {
+  "en": "Saddle equips",
+  "zh": "鞍：装备"
+ },
+ "minecraft:entity.horse.step": {
+  "en": "Horse: Step",
+  "zh": "马：脚步"
+ },
+ "minecraft:entity.horse.step_wood": {
+  "en": "Footsteps",
+  "zh": "脚步声"
+ },
+ "minecraft:entity.hostile.big_fall": {
+  "en": "Something fell",
+  "zh": "某物：着地"
+ },
+ "minecraft:entity.hostile.death": {
+  "en": "Dying",
+  "zh": "死亡"
+ },
+ "minecraft:entity.hostile.hurt": {
+  "en": "Something hurts",
+  "zh": "某物：受伤"
+ },
+ "minecraft:entity.hostile.small_fall": {
+  "en": "Something trips",
+  "zh": "某物：摔倒"
+ },
+ "minecraft:entity.hostile.splash": {
+  "en": "Splashing",
+  "zh": "溅起水花"
+ },
+ "minecraft:entity.hostile.swim": {
+  "en": "Swimming",
+  "zh": "游泳"
+ },
+ "minecraft:entity.husk.ambient": {
+  "en": "Husk groans",
+  "zh": "尸壳：低吼"
+ },
+ "minecraft:entity.husk.converted_to_zombie": {
+  "en": "Husk converts to Zombie",
+  "zh": "尸壳：转化为僵尸"
+ },
+ "minecraft:entity.husk.death": {
+  "en": "Husk dies",
+  "zh": "尸壳：死亡"
+ },
+ "minecraft:entity.husk.hurt": {
+  "en": "Husk hurts",
+  "zh": "尸壳：受伤"
+ },
+ "minecraft:entity.husk.step": {
+  "en": "Husk: Step",
+  "zh": "尸壳：脚步"
+ },
+ "minecraft:entity.illusioner.ambient": {
+  "en": "Illusioner murmurs",
+  "zh": "幻术师：咕哝"
+ },
+ "minecraft:entity.illusioner.cast_spell": {
+  "en": "Illusioner casts spell",
+  "zh": "幻术师：施法"
+ },
+ "minecraft:entity.illusioner.death": {
+  "en": "Illusioner dies",
+  "zh": "幻术师：死亡"
+ },
+ "minecraft:entity.illusioner.hurt": {
+  "en": "Illusioner hurts",
+  "zh": "幻术师：受伤"
+ },
+ "minecraft:entity.illusioner.mirror_move": {
+  "en": "Illusioner displaces",
+  "zh": "幻术师：分影"
+ },
+ "minecraft:entity.illusioner.prepare_blindness": {
+  "en": "Illusioner prepares blindness",
+  "zh": "幻术师：准备失明法术"
+ },
+ "minecraft:entity.illusioner.prepare_mirror": {
+  "en": "Illusioner prepares mirror image",
+  "zh": "幻术师：准备分影法术"
+ },
+ "minecraft:entity.iron_golem.attack": {
+  "en": "Iron Golem attacks",
+  "zh": "铁傀儡：攻击"
+ },
+ "minecraft:entity.iron_golem.damage": {
+  "en": "Iron Golem breaks",
+  "zh": "铁傀儡：受损"
+ },
+ "minecraft:entity.iron_golem.death": {
+  "en": "Iron Golem dies",
+  "zh": "铁傀儡：死亡"
+ },
+ "minecraft:entity.iron_golem.hurt": {
+  "en": "Iron Golem hurts",
+  "zh": "铁傀儡：受伤"
+ },
+ "minecraft:entity.iron_golem.repair": {
+  "en": "Iron Golem repaired",
+  "zh": "铁傀儡：修复"
+ },
+ "minecraft:entity.iron_golem.step": {
+  "en": "Iron Golem: Step",
+  "zh": "铁傀儡：脚步"
+ },
+ "minecraft:entity.item.break": {
+  "en": "Item breaks",
+  "zh": "物品：损坏"
+ },
+ "minecraft:entity.item.pickup": {
+  "en": "Item plops",
+  "zh": "物品：被拾起"
+ },
+ "minecraft:entity.item_frame.add_item": {
+  "en": "Item Frame fills",
+  "zh": "物品展示框：填充"
+ },
+ "minecraft:entity.item_frame.break": {
+  "en": "Item Frame broken",
+  "zh": "物品展示框：被破坏"
+ },
+ "minecraft:entity.item_frame.place": {
+  "en": "Item Frame placed",
+  "zh": "物品展示框：被放置"
+ },
+ "minecraft:entity.item_frame.remove_item": {
+  "en": "Item Frame empties",
+  "zh": "物品展示框：清空"
+ },
+ "minecraft:entity.item_frame.rotate_item": {
+  "en": "Item Frame clicks",
+  "zh": "物品展示框：转动"
+ },
+ "minecraft:entity.lightning_bolt.impact": {
+  "en": "Lightning strikes",
+  "zh": "电闪"
+ },
+ "minecraft:entity.lightning_bolt.thunder": {
+  "en": "Thunder roars",
+  "zh": "雷鸣"
+ },
+ "minecraft:entity.lingering_potion.throw": {
+  "en": "Bottle thrown",
+  "zh": "玻璃瓶：扔出"
+ },
+ "minecraft:entity.llama.ambient": {
+  "en": "Llama bleats",
+  "zh": "羊驼：吼叫"
+ },
+ "minecraft:entity.llama.angry": {
+  "en": "Llama bleats angrily",
+  "zh": "羊驼：怒吼"
+ },
+ "minecraft:entity.llama.chest": {
+  "en": "Llama Chest equips",
+  "zh": "羊驼：装备箱子"
+ },
+ "minecraft:entity.llama.death": {
+  "en": "Llama dies",
+  "zh": "羊驼：死亡"
+ },
+ "minecraft:entity.llama.eat": {
+  "en": "Llama eats",
+  "zh": "羊驼：进食"
+ },
+ "minecraft:entity.llama.hurt": {
+  "en": "Llama hurts",
+  "zh": "羊驼：受伤"
+ },
+ "minecraft:entity.llama.spit": {
+  "en": "Llama spits",
+  "zh": "羊驼：喷射唾沫"
+ },
+ "minecraft:entity.llama.step": {
+  "en": "Llama: Step",
+  "zh": "羊驼：脚步"
+ },
+ "minecraft:entity.llama.swag": {
+  "en": "Llama is decorated",
+  "zh": "羊驼：被装饰"
+ },
+ "minecraft:entity.magma_cube.death": {
+  "en": "Magma Cube dies",
+  "zh": "岩浆怪：死亡"
+ },
+ "minecraft:entity.magma_cube.death_small": {
+  "en": "Magma Cube dies",
+  "zh": "岩浆怪：死亡"
+ },
+ "minecraft:entity.magma_cube.hurt": {
+  "en": "Magma Cube hurts",
+  "zh": "岩浆怪：受伤"
+ },
+ "minecraft:entity.magma_cube.hurt_small": {
+  "en": "Magma Cube hurts",
+  "zh": "岩浆怪：受伤"
+ },
+ "minecraft:entity.magma_cube.jump": {
+  "en": "Magma Cube squishes",
+  "zh": "岩浆怪：挤压"
+ },
+ "minecraft:entity.magma_cube.squish": {
+  "en": "Magma Cube squishes",
+  "zh": "岩浆怪：挤压"
+ },
+ "minecraft:entity.magma_cube.squish_small": {
+  "en": "Magma Cube squishes",
+  "zh": "岩浆怪：挤压"
+ },
+ "minecraft:entity.minecart.inside": {
+  "en": "Minecart: Inside",
+  "zh": "矿车：内部"
+ },
+ "minecraft:entity.minecart.inside.underwater": {
+  "zh": "矿车：水下内部",
+  "en": "Minecart: Underwater Inside"
+ },
+ "minecraft:entity.minecart.riding": {
+  "en": "Minecart rolls",
+  "zh": "矿车：行进"
+ },
+ "minecraft:entity.mooshroom.convert": {
+  "en": "Mooshroom transforms",
+  "zh": "哞菇：转化"
+ },
+ "minecraft:entity.mooshroom.eat": {
+  "en": "Mooshroom eats",
+  "zh": "哞菇：进食"
+ },
+ "minecraft:entity.mooshroom.milk": {
+  "en": "Mooshroom gets milked",
+  "zh": "哞菇：被挤奶"
+ },
+ "minecraft:entity.mooshroom.shear": {
+  "en": "Shears click",
+  "zh": "剪刀：咔嚓"
+ },
+ "minecraft:entity.mooshroom.suspicious_milk": {
+  "en": "Mooshroom gets milked suspiciously",
+  "zh": "哞菇：被挤出谜之炖菜"
+ },
+ "minecraft:entity.mule.ambient": {
+  "en": "Mule hee-haws",
+  "zh": "骡：鸣叫"
+ },
+ "minecraft:entity.mule.angry": {
+  "en": "Mule neighs",
+  "zh": "骡：嘶鸣"
+ },
+ "minecraft:entity.mule.chest": {
+  "en": "Mule Chest equips",
+  "zh": "骡：装备箱子"
+ },
+ "minecraft:entity.mule.death": {
+  "en": "Mule dies",
+  "zh": "骡：死亡"
+ },
+ "minecraft:entity.mule.eat": {
+  "en": "Mule eats",
+  "zh": "骡：进食"
+ },
+ "minecraft:entity.mule.hurt": {
+  "en": "Mule hurts",
+  "zh": "骡：受伤"
+ },
+ "minecraft:entity.mule.jump": {
+  "en": "Mule jumps",
+  "zh": "骡：跳跃"
+ },
+ "minecraft:entity.nautilus.ambient": {
+  "en": "Nautilus clacks",
+  "zh": "鹦鹉螺：咔哒"
+ },
+ "minecraft:entity.nautilus.ambient_land": {
+  "en": "Nautilus clacks",
+  "zh": "鹦鹉螺：咔哒"
+ },
+ "minecraft:entity.nautilus.dash": {
+  "en": "Nautilus jets",
+  "zh": "鹦鹉螺：喷进"
+ },
+ "minecraft:entity.nautilus.dash_land": {
+  "en": "Nautilus jets",
+  "zh": "鹦鹉螺：喷进"
+ },
+ "minecraft:entity.nautilus.dash_ready": {
+  "en": "Nautilus recovers",
+  "zh": "鹦鹉螺：恢复体力"
+ },
+ "minecraft:entity.nautilus.dash_ready_land": {
+  "en": "Nautilus recovers",
+  "zh": "鹦鹉螺：恢复体力"
+ },
+ "minecraft:entity.nautilus.death": {
+  "en": "Nautilus dies",
+  "zh": "鹦鹉螺：死亡"
+ },
+ "minecraft:entity.nautilus.death_land": {
+  "en": "Nautilus dies",
+  "zh": "鹦鹉螺：死亡"
+ },
+ "minecraft:entity.nautilus.eat": {
+  "en": "Nautilus eats",
+  "zh": "鹦鹉螺：进食"
+ },
+ "minecraft:entity.nautilus.hurt": {
+  "en": "Nautilus hurts",
+  "zh": "鹦鹉螺：受伤"
+ },
+ "minecraft:entity.nautilus.hurt_land": {
+  "en": "Nautilus hurts",
+  "zh": "鹦鹉螺：受伤"
+ },
+ "minecraft:entity.nautilus.riding": {
+  "en": "Nautilus: Riding",
+  "zh": "鹦鹉螺：骑乘"
+ },
+ "minecraft:entity.nautilus.swim": {
+  "en": "Nautilus swims",
+  "zh": "鹦鹉螺：游泳"
+ },
+ "minecraft:entity.ocelot.ambient": {
+  "en": "Cat meows",
+  "zh": "猫：喵~"
+ },
+ "minecraft:entity.ocelot.death": {
+  "en": "Cat dies",
+  "zh": "猫：死亡"
+ },
+ "minecraft:entity.ocelot.hurt": {
+  "en": "Cat hurts",
+  "zh": "猫：受伤"
+ },
+ "minecraft:entity.painting.break": {
+  "en": "Painting broken",
+  "zh": "画：被破坏"
+ },
+ "minecraft:entity.painting.place": {
+  "en": "Painting placed",
+  "zh": "画：被放置"
+ },
+ "minecraft:entity.panda.aggressive_ambient": {
+  "en": "Panda huffs",
+  "zh": "熊猫：发怒"
+ },
+ "minecraft:entity.panda.ambient": {
+  "en": "Panda pants",
+  "zh": "熊猫：喘息"
+ },
+ "minecraft:entity.panda.bite": {
+  "en": "Panda bites",
+  "zh": "熊猫：撕咬"
+ },
+ "minecraft:entity.panda.cant_breed": {
+  "en": "Panda bleats",
+  "zh": "熊猫：哀鸣"
+ },
+ "minecraft:entity.panda.death": {
+  "en": "Panda dies",
+  "zh": "熊猫：死亡"
+ },
+ "minecraft:entity.panda.eat": {
+  "en": "Panda eats",
+  "zh": "熊猫：进食"
+ },
+ "minecraft:entity.panda.hurt": {
+  "en": "Panda hurts",
+  "zh": "熊猫：受伤"
+ },
+ "minecraft:entity.panda.pre_sneeze": {
+  "en": "Panda's nose tickles",
+  "zh": "熊猫：鼻痒"
+ },
+ "minecraft:entity.panda.sneeze": {
+  "en": "Panda sneezes",
+  "zh": "熊猫：打喷嚏"
+ },
+ "minecraft:entity.panda.step": {
+  "en": "Panda: Step",
+  "zh": "熊猫：脚步"
+ },
+ "minecraft:entity.panda.worried_ambient": {
+  "en": "Panda whimpers",
+  "zh": "熊猫：呜咽"
+ },
+ "minecraft:entity.parched.ambient": {
+  "en": "Parched crackles",
+  "zh": "焦骸：咯咯声"
+ },
+ "minecraft:entity.parched.death": {
+  "en": "Parched dies",
+  "zh": "焦骸：死亡"
+ },
+ "minecraft:entity.parched.hurt": {
+  "en": "Parched hurts",
+  "zh": "焦骸：受伤"
+ },
+ "minecraft:entity.parched.step": {
+  "en": "Parched: Step",
+  "zh": "焦骸：脚步"
+ },
+ "minecraft:entity.parrot.ambient": {
+  "en": "Parrot talks",
+  "zh": "鹦鹉：说话"
+ },
+ "minecraft:entity.parrot.death": {
+  "en": "Parrot dies",
+  "zh": "鹦鹉：死亡"
+ },
+ "minecraft:entity.parrot.eat": {
+  "en": "Parrot eats",
+  "zh": "鹦鹉：进食"
+ },
+ "minecraft:entity.parrot.fly": {
+  "en": "Parrot flutters",
+  "zh": "鹦鹉：扑翼"
+ },
+ "minecraft:entity.parrot.hurt": {
+  "en": "Parrot hurts",
+  "zh": "鹦鹉：受伤"
+ },
+ "minecraft:entity.parrot.imitate.blaze": {
+  "en": "Parrot breathes",
+  "zh": "鹦鹉：呼吸"
+ },
+ "minecraft:entity.parrot.imitate.bogged": {
+  "en": "Parrot rattles",
+  "zh": "鹦鹉：咯咯声"
+ },
+ "minecraft:entity.parrot.imitate.breeze": {
+  "en": "Parrot whirs",
+  "zh": "鹦鹉：呼啸"
+ },
+ "minecraft:entity.parrot.imitate.camel_husk": {
+  "en": "Parrot grumphs",
+  "zh": "鹦鹉：咕哝"
+ },
+ "minecraft:entity.parrot.imitate.creaking": {
+  "en": "Parrot creaks",
+  "zh": "鹦鹉：嘎吱作响"
+ },
+ "minecraft:entity.parrot.imitate.creeper": {
+  "en": "Parrot hisses",
+  "zh": "鹦鹉：嘶~"
+ },
+ "minecraft:entity.parrot.imitate.drowned": {
+  "en": "Parrot gurgles",
+  "zh": "鹦鹉：呻吟"
+ },
+ "minecraft:entity.parrot.imitate.elder_guardian": {
+  "en": "Parrot moans",
+  "zh": "鹦鹉：低鸣"
+ },
+ "minecraft:entity.parrot.imitate.ender_dragon": {
+  "en": "Parrot roars",
+  "zh": "鹦鹉：咆哮"
+ },
+ "minecraft:entity.parrot.imitate.endermite": {
+  "en": "Parrot scuttles",
+  "zh": "鹦鹉：窜动"
+ },
+ "minecraft:entity.parrot.imitate.evoker": {
+  "en": "Parrot murmurs",
+  "zh": "鹦鹉：咕哝"
+ },
+ "minecraft:entity.parrot.imitate.ghast": {
+  "en": "Parrot cries",
+  "zh": "鹦鹉：哭泣"
+ },
+ "minecraft:entity.parrot.imitate.guardian": {
+  "en": "Parrot moans",
+  "zh": "鹦鹉：低鸣"
+ },
+ "minecraft:entity.parrot.imitate.hoglin": {
+  "en": "Parrot growls",
+  "zh": "鹦鹉：咆哮"
+ },
+ "minecraft:entity.parrot.imitate.husk": {
+  "en": "Parrot groans",
+  "zh": "鹦鹉：低吼"
+ },
+ "minecraft:entity.parrot.imitate.illusioner": {
+  "en": "Parrot murmurs",
+  "zh": "鹦鹉：咕哝"
+ },
+ "minecraft:entity.parrot.imitate.magma_cube": {
+  "en": "Parrot squishes",
+  "zh": "鹦鹉：挤压"
+ },
+ "minecraft:entity.parrot.imitate.parched": {
+  "en": "Parrot crackles",
+  "zh": "鹦鹉：咯咯声"
+ },
+ "minecraft:entity.parrot.imitate.phantom": {
+  "en": "Parrot screeches",
+  "zh": "鹦鹉：尖声叫"
+ },
+ "minecraft:entity.parrot.imitate.piglin": {
+  "en": "Parrot snorts",
+  "zh": "鹦鹉：哼叫"
+ },
+ "minecraft:entity.parrot.imitate.piglin_brute": {
+  "en": "Parrot snorts",
+  "zh": "鹦鹉：哼叫"
+ },
+ "minecraft:entity.parrot.imitate.pillager": {
+  "en": "Parrot murmurs",
+  "zh": "鹦鹉：咕哝"
+ },
+ "minecraft:entity.parrot.imitate.ravager": {
+  "en": "Parrot grunts",
+  "zh": "鹦鹉：呼噜"
+ },
+ "minecraft:entity.parrot.imitate.shulker": {
+  "en": "Parrot lurks",
+  "zh": "鹦鹉：窥视"
+ },
+ "minecraft:entity.parrot.imitate.silverfish": {
+  "en": "Parrot hisses",
+  "zh": "鹦鹉：嘶嘶"
+ },
+ "minecraft:entity.parrot.imitate.skeleton": {
+  "en": "Parrot rattles",
+  "zh": "鹦鹉：咯咯声"
+ },
+ "minecraft:entity.parrot.imitate.slime": {
+  "en": "Parrot squishes",
+  "zh": "鹦鹉：挤压"
+ },
+ "minecraft:entity.parrot.imitate.spider": {
+  "en": "Parrot hisses",
+  "zh": "鹦鹉：嘶嘶"
+ },
+ "minecraft:entity.parrot.imitate.stray": {
+  "en": "Parrot rattles",
+  "zh": "鹦鹉：咯咯声"
+ },
+ "minecraft:entity.parrot.imitate.vex": {
+  "en": "Parrot vexes",
+  "zh": "鹦鹉：恼人"
+ },
+ "minecraft:entity.parrot.imitate.vindicator": {
+  "en": "Parrot mutters",
+  "zh": "鹦鹉：低语"
+ },
+ "minecraft:entity.parrot.imitate.warden": {
+  "en": "Parrot whines",
+  "zh": "鹦鹉：呻吟"
+ },
+ "minecraft:entity.parrot.imitate.witch": {
+  "en": "Parrot giggles",
+  "zh": "鹦鹉：暗笑"
+ },
+ "minecraft:entity.parrot.imitate.wither": {
+  "en": "Parrot angers",
+  "zh": "鹦鹉：愤怒"
+ },
+ "minecraft:entity.parrot.imitate.wither_skeleton": {
+  "en": "Parrot rattles",
+  "zh": "鹦鹉：咯咯声"
+ },
+ "minecraft:entity.parrot.imitate.zoglin": {
+  "en": "Parrot growls",
+  "zh": "鹦鹉：咆哮"
+ },
+ "minecraft:entity.parrot.imitate.zombie": {
+  "en": "Parrot groans",
+  "zh": "鹦鹉：低吼"
+ },
+ "minecraft:entity.parrot.imitate.zombie_horse": {
+  "en": "Parrot groans",
+  "zh": "鹦鹉：低吼"
+ },
+ "minecraft:entity.parrot.imitate.zombie_nautilus": {
+  "en": "Parrot gargles",
+  "zh": "鹦鹉：咕噜"
+ },
+ "minecraft:entity.parrot.imitate.zombie_villager": {
+  "en": "Parrot groans",
+  "zh": "鹦鹉：低吼"
+ },
+ "minecraft:entity.parrot.step": {
+  "en": "Parrot: Step",
+  "zh": "鹦鹉：脚步"
+ },
+ "minecraft:entity.phantom.ambient": {
+  "en": "Phantom screeches",
+  "zh": "幻翼：尖声叫"
+ },
+ "minecraft:entity.phantom.bite": {
+  "en": "Phantom bites",
+  "zh": "幻翼：撕咬"
+ },
+ "minecraft:entity.phantom.death": {
+  "en": "Phantom dies",
+  "zh": "幻翼：死亡"
+ },
+ "minecraft:entity.phantom.flap": {
+  "en": "Phantom flaps",
+  "zh": "幻翼：振翅"
+ },
+ "minecraft:entity.phantom.hurt": {
+  "en": "Phantom hurts",
+  "zh": "幻翼：受伤"
+ },
+ "minecraft:entity.phantom.swoop": {
+  "en": "Phantom swoops",
+  "zh": "幻翼：俯冲"
+ },
+ "minecraft:entity.pig.ambient": {
+  "en": "Pig oinks",
+  "zh": "猪：哼叫"
+ },
+ "minecraft:entity.pig.death": {
+  "en": "Pig dies",
+  "zh": "猪：死亡"
+ },
+ "minecraft:entity.pig.eat": {
+  "en": "Pig eats",
+  "zh": "猪：进食"
+ },
+ "minecraft:entity.pig.hurt": {
+  "en": "Pig hurts",
+  "zh": "猪：受伤"
+ },
+ "minecraft:entity.pig.saddle": {
+  "en": "Saddle equips",
+  "zh": "鞍：装备"
+ },
+ "minecraft:entity.pig.step": {
+  "en": "Pig: Step",
+  "zh": "猪：脚步"
+ },
+ "minecraft:entity.pig_big.ambient": {
+  "en": "Pig oinks",
+  "zh": "猪：哼叫"
+ },
+ "minecraft:entity.pig_big.death": {
+  "en": "Pig dies",
+  "zh": "猪：死亡"
+ },
+ "minecraft:entity.pig_big.eat": {
+  "en": "Pig eats",
+  "zh": "猪：进食"
+ },
+ "minecraft:entity.pig_big.hurt": {
+  "en": "Pig hurts",
+  "zh": "猪：受伤"
+ },
+ "minecraft:entity.pig_mini.ambient": {
+  "en": "Pig oinks",
+  "zh": "猪：哼叫"
+ },
+ "minecraft:entity.pig_mini.death": {
+  "en": "Pig dies",
+  "zh": "猪：死亡"
+ },
+ "minecraft:entity.pig_mini.eat": {
+  "en": "Pig eats",
+  "zh": "猪：进食"
+ },
+ "minecraft:entity.pig_mini.hurt": {
+  "en": "Pig hurts",
+  "zh": "猪：受伤"
+ },
+ "minecraft:entity.piglin.admiring_item": {
+  "en": "Piglin admires item",
+  "zh": "猪灵：端详物品"
+ },
+ "minecraft:entity.piglin.ambient": {
+  "en": "Piglin snorts",
+  "zh": "猪灵：哼叫"
+ },
+ "minecraft:entity.piglin.angry": {
+  "en": "Piglin snorts angrily",
+  "zh": "猪灵：愤怒地哼叫"
+ },
+ "minecraft:entity.piglin.celebrate": {
+  "en": "Piglin celebrates",
+  "zh": "猪灵：庆祝"
+ },
+ "minecraft:entity.piglin.converted_to_zombified": {
+  "en": "Piglin converts to Zombified Piglin",
+  "zh": "猪灵：转化为僵尸猪灵"
+ },
+ "minecraft:entity.piglin.death": {
+  "en": "Piglin dies",
+  "zh": "猪灵：死亡"
+ },
+ "minecraft:entity.piglin.hurt": {
+  "en": "Piglin hurts",
+  "zh": "猪灵：受伤"
+ },
+ "minecraft:entity.piglin.jealous": {
+  "en": "Piglin snorts enviously",
+  "zh": "猪灵：羡慕地哼叫"
+ },
+ "minecraft:entity.piglin.retreat": {
+  "en": "Piglin retreats",
+  "zh": "猪灵：退缩"
+ },
+ "minecraft:entity.piglin.step": {
+  "en": "Piglin: Step",
+  "zh": "猪灵：脚步"
+ },
+ "minecraft:entity.piglin_brute.ambient": {
+  "en": "Piglin Brute snorts",
+  "zh": "猪灵蛮兵：哼叫"
+ },
+ "minecraft:entity.piglin_brute.angry": {
+  "en": "Piglin Brute snorts angrily",
+  "zh": "猪灵蛮兵：愤怒地哼叫"
+ },
+ "minecraft:entity.piglin_brute.converted_to_zombified": {
+  "en": "Piglin Brute converts to Zombified Piglin",
+  "zh": "猪灵蛮兵：转化为僵尸猪灵"
+ },
+ "minecraft:entity.piglin_brute.death": {
+  "en": "Piglin Brute dies",
+  "zh": "猪灵蛮兵：死亡"
+ },
+ "minecraft:entity.piglin_brute.hurt": {
+  "en": "Piglin Brute hurts",
+  "zh": "猪灵蛮兵：受伤"
+ },
+ "minecraft:entity.piglin_brute.step": {
+  "en": "Piglin Brute: Step",
+  "zh": "猪灵蛮兵：脚步"
+ },
+ "minecraft:entity.pillager.ambient": {
+  "en": "Pillager murmurs",
+  "zh": "掠夺者：咕哝"
+ },
+ "minecraft:entity.pillager.celebrate": {
+  "en": "Pillager cheers",
+  "zh": "掠夺者：欢呼"
+ },
+ "minecraft:entity.pillager.death": {
+  "en": "Pillager dies",
+  "zh": "掠夺者：死亡"
+ },
+ "minecraft:entity.pillager.hurt": {
+  "en": "Pillager hurts",
+  "zh": "掠夺者：受伤"
+ },
+ "minecraft:entity.player.attack.crit": {
+  "en": "Critical attack",
+  "zh": "暴击"
+ },
+ "minecraft:entity.player.attack.knockback": {
+  "en": "Knockback attack",
+  "zh": "击退攻击"
+ },
+ "minecraft:entity.player.attack.nodamage": {
+  "en": "Weak attack",
+  "zh": "轻击"
+ },
+ "minecraft:entity.player.attack.strong": {
+  "en": "Strong attack",
+  "zh": "重击"
+ },
+ "minecraft:entity.player.attack.sweep": {
+  "en": "Sweeping attack",
+  "zh": "横扫攻击"
+ },
+ "minecraft:entity.player.attack.weak": {
+  "en": "Weak attack",
+  "zh": "轻击"
+ },
+ "minecraft:entity.player.big_fall": {
+  "en": "Something fell",
+  "zh": "某物：着地"
+ },
+ "minecraft:entity.player.breath": {
+  "en": "Player: Breath",
+  "zh": "玩家：呼吸"
+ },
+ "minecraft:entity.player.burp": {
+  "en": "Burp",
+  "zh": "打嗝"
+ },
+ "minecraft:entity.player.death": {
+  "zh": "玩家死亡",
+  "en": "Player dies"
+ },
+ "minecraft:entity.player.hurt": {
+  "zh": "玩家受伤",
+  "en": "Player hurts"
+ },
+ "minecraft:entity.player.hurt_drown": {
+  "en": "Player drowning",
+  "zh": "玩家：溺水"
+ },
+ "minecraft:entity.player.hurt_freeze": {
+  "en": "Player freezes",
+  "zh": "玩家：冻伤"
+ },
+ "minecraft:entity.player.hurt_on_fire": {
+  "en": "Player burns",
+  "zh": "玩家：燃烧"
+ },
+ "minecraft:entity.player.hurt_sweet_berry_bush": {
+  "en": "Player hurts",
+  "zh": "玩家：受伤"
+ },
+ "minecraft:entity.player.levelup": {
+  "en": "Player dings",
+  "zh": "玩家：升级"
+ },
+ "minecraft:entity.player.small_fall": {
+  "en": "Something trips",
+  "zh": "某物：摔倒"
+ },
+ "minecraft:entity.player.splash": {
+  "en": "Splashing",
+  "zh": "溅起水花"
+ },
+ "minecraft:entity.player.splash.high_speed": {
+  "en": "Splashing",
+  "zh": "溅起水花"
+ },
+ "minecraft:entity.player.swim": {
+  "en": "Swimming",
+  "zh": "游泳"
+ },
+ "minecraft:entity.player.teleport": {
+  "en": "Player teleports",
+  "zh": "玩家：传送"
+ },
+ "minecraft:entity.polar_bear.ambient": {
+  "en": "Polar Bear groans",
+  "zh": "北极熊：低吼"
+ },
+ "minecraft:entity.polar_bear.ambient_baby": {
+  "en": "Baby Polar Bear hums",
+  "zh": "幼年北极熊：哼哼"
+ },
+ "minecraft:entity.polar_bear.death": {
+  "en": "Polar Bear dies",
+  "zh": "北极熊：死亡"
+ },
+ "minecraft:entity.polar_bear.hurt": {
+  "en": "Polar Bear hurts",
+  "zh": "北极熊：受伤"
+ },
+ "minecraft:entity.polar_bear.step": {
+  "en": "Polar Bear: Step",
+  "zh": "北极熊：脚步"
+ },
+ "minecraft:entity.polar_bear.warning": {
+  "en": "Polar Bear roars",
+  "zh": "北极熊：咆哮"
+ },
+ "minecraft:entity.puffer_fish.blow_out": {
+  "en": "Pufferfish deflates",
+  "zh": "河豚：收缩"
+ },
+ "minecraft:entity.puffer_fish.blow_up": {
+  "en": "Pufferfish inflates",
+  "zh": "河豚：膨胀"
+ },
+ "minecraft:entity.puffer_fish.death": {
+  "en": "Pufferfish dies",
+  "zh": "河豚：死亡"
+ },
+ "minecraft:entity.puffer_fish.flop": {
+  "en": "Pufferfish flops",
+  "zh": "河豚：扑腾"
+ },
+ "minecraft:entity.puffer_fish.hurt": {
+  "en": "Pufferfish hurts",
+  "zh": "河豚：受伤"
+ },
+ "minecraft:entity.puffer_fish.sting": {
+  "en": "Pufferfish stings",
+  "zh": "河豚：刺蜇"
+ },
+ "minecraft:entity.rabbit.ambient": {
+  "en": "Rabbit squeaks",
+  "zh": "兔子：吱吱叫"
+ },
+ "minecraft:entity.rabbit.attack": {
+  "en": "Rabbit attacks",
+  "zh": "兔子：攻击"
+ },
+ "minecraft:entity.rabbit.death": {
+  "en": "Rabbit dies",
+  "zh": "兔子：死亡"
+ },
+ "minecraft:entity.rabbit.hurt": {
+  "en": "Rabbit hurts",
+  "zh": "兔子：受伤"
+ },
+ "minecraft:entity.rabbit.jump": {
+  "en": "Rabbit hops",
+  "zh": "兔子：跳动"
+ },
+ "minecraft:entity.ravager.ambient": {
+  "en": "Ravager grunts",
+  "zh": "劫掠兽：呼噜"
+ },
+ "minecraft:entity.ravager.attack": {
+  "en": "Ravager bites",
+  "zh": "劫掠兽：撕咬"
+ },
+ "minecraft:entity.ravager.celebrate": {
+  "en": "Ravager cheers",
+  "zh": "劫掠兽：欢呼"
+ },
+ "minecraft:entity.ravager.death": {
+  "en": "Ravager dies",
+  "zh": "劫掠兽：死亡"
+ },
+ "minecraft:entity.ravager.hurt": {
+  "en": "Ravager hurts",
+  "zh": "劫掠兽：受伤"
+ },
+ "minecraft:entity.ravager.roar": {
+  "en": "Ravager roars",
+  "zh": "劫掠兽：咆哮"
+ },
+ "minecraft:entity.ravager.step": {
+  "en": "Ravager: Step",
+  "zh": "劫掠兽：脚步"
+ },
+ "minecraft:entity.ravager.stunned": {
+  "en": "Ravager stunned",
+  "zh": "劫掠兽：眩晕"
+ },
+ "minecraft:entity.salmon.ambient": {
+  "en": "Salmon: Ambience",
+  "zh": "鲑鱼：环境音"
+ },
+ "minecraft:entity.salmon.death": {
+  "en": "Salmon dies",
+  "zh": "鲑鱼：死亡"
+ },
+ "minecraft:entity.salmon.flop": {
+  "en": "Salmon flops",
+  "zh": "鲑鱼：扑腾"
+ },
+ "minecraft:entity.salmon.hurt": {
+  "en": "Salmon hurts",
+  "zh": "鲑鱼：受伤"
+ },
+ "minecraft:entity.sheep.ambient": {
+  "en": "Sheep baahs",
+  "zh": "绵羊：咩~"
+ },
+ "minecraft:entity.sheep.death": {
+  "en": "Sheep dies",
+  "zh": "绵羊：死亡"
+ },
+ "minecraft:entity.sheep.hurt": {
+  "en": "Sheep hurts",
+  "zh": "绵羊：受伤"
+ },
+ "minecraft:entity.sheep.shear": {
+  "en": "Shears click",
+  "zh": "剪刀：咔嚓"
+ },
+ "minecraft:entity.sheep.step": {
+  "en": "Sheep: Step",
+  "zh": "绵羊：脚步"
+ },
+ "minecraft:entity.shulker.ambient": {
+  "en": "Shulker lurks",
+  "zh": "潜影贝：窥视"
+ },
+ "minecraft:entity.shulker.close": {
+  "en": "Shulker closes",
+  "zh": "潜影贝：闭合"
+ },
+ "minecraft:entity.shulker.death": {
+  "en": "Shulker dies",
+  "zh": "潜影贝：死亡"
+ },
+ "minecraft:entity.shulker.hurt": {
+  "en": "Shulker hurts",
+  "zh": "潜影贝：受伤"
+ },
+ "minecraft:entity.shulker.hurt_closed": {
+  "en": "Shulker hurts",
+  "zh": "潜影贝：受伤"
+ },
+ "minecraft:entity.shulker.open": {
+  "en": "Shulker opens",
+  "zh": "潜影贝：打开"
+ },
+ "minecraft:entity.shulker.shoot": {
+  "en": "Shulker shoots",
+  "zh": "潜影贝：射击"
+ },
+ "minecraft:entity.shulker.teleport": {
+  "en": "Shulker teleports",
+  "zh": "潜影贝：传送"
+ },
+ "minecraft:entity.shulker_bullet.hit": {
+  "en": "Shulker Bullet explodes",
+  "zh": "潜影弹：爆炸"
+ },
+ "minecraft:entity.shulker_bullet.hurt": {
+  "en": "Shulker Bullet breaks",
+  "zh": "潜影弹：碎裂"
+ },
+ "minecraft:entity.silverfish.ambient": {
+  "en": "Silverfish hisses",
+  "zh": "蠹虫：嘶嘶"
+ },
+ "minecraft:entity.silverfish.death": {
+  "en": "Silverfish dies",
+  "zh": "蠹虫：死亡"
+ },
+ "minecraft:entity.silverfish.hurt": {
+  "en": "Silverfish hurts",
+  "zh": "蠹虫：受伤"
+ },
+ "minecraft:entity.silverfish.step": {
+  "en": "Silverfish: Step",
+  "zh": "蠹虫：脚步"
+ },
+ "minecraft:entity.skeleton.ambient": {
+  "en": "Skeleton rattles",
+  "zh": "骷髅：咯咯声"
+ },
+ "minecraft:entity.skeleton.converted_to_stray": {
+  "en": "Skeleton converts to Stray",
+  "zh": "骷髅：转化为流浪者"
+ },
+ "minecraft:entity.skeleton.death": {
+  "en": "Skeleton dies",
+  "zh": "骷髅：死亡"
+ },
+ "minecraft:entity.skeleton.hurt": {
+  "en": "Skeleton hurts",
+  "zh": "骷髅：受伤"
+ },
+ "minecraft:entity.skeleton.shoot": {
+  "en": "Skeleton shoots",
+  "zh": "骷髅：射击"
+ },
+ "minecraft:entity.skeleton.step": {
+  "en": "Skeleton: Step",
+  "zh": "骷髅：脚步"
+ },
+ "minecraft:entity.skeleton_horse.ambient": {
+  "en": "Skeleton Horse cries",
+  "zh": "骷髅马：嘶叫"
+ },
+ "minecraft:entity.skeleton_horse.ambient_water": {
+  "en": "Skeleton Horse cries",
+  "zh": "骷髅马：嘶叫"
+ },
+ "minecraft:entity.skeleton_horse.death": {
+  "en": "Skeleton Horse dies",
+  "zh": "骷髅马：死亡"
+ },
+ "minecraft:entity.skeleton_horse.gallop_water": {
+  "en": "Horse gallops",
+  "zh": "马：奔腾"
+ },
+ "minecraft:entity.skeleton_horse.hurt": {
+  "en": "Skeleton Horse hurts",
+  "zh": "骷髅马：受伤"
+ },
+ "minecraft:entity.skeleton_horse.jump_water": {
+  "en": "Skeleton Horse jumps",
+  "zh": "骷髅马：跳跃"
+ },
+ "minecraft:entity.skeleton_horse.step_water": {
+  "en": "Footsteps",
+  "zh": "脚步声"
+ },
+ "minecraft:entity.skeleton_horse.swim": {
+  "en": "Skeleton Horse swims",
+  "zh": "骷髅马：游泳"
+ },
+ "minecraft:entity.slime.attack": {
+  "en": "Slime attacks",
+  "zh": "史莱姆：攻击"
+ },
+ "minecraft:entity.slime.death": {
+  "en": "Slime dies",
+  "zh": "史莱姆：死亡"
+ },
+ "minecraft:entity.slime.death_small": {
+  "en": "Slime dies",
+  "zh": "史莱姆：死亡"
+ },
+ "minecraft:entity.slime.hurt": {
+  "en": "Slime hurts",
+  "zh": "史莱姆：受伤"
+ },
+ "minecraft:entity.slime.hurt_small": {
+  "en": "Slime hurts",
+  "zh": "史莱姆：受伤"
+ },
+ "minecraft:entity.slime.jump": {
+  "en": "Slime squishes",
+  "zh": "史莱姆：挤压"
+ },
+ "minecraft:entity.slime.jump_small": {
+  "en": "Slime squishes",
+  "zh": "史莱姆：挤压"
+ },
+ "minecraft:entity.slime.squish": {
+  "en": "Slime squishes",
+  "zh": "史莱姆：挤压"
+ },
+ "minecraft:entity.slime.squish_small": {
+  "en": "Slime squishes",
+  "zh": "史莱姆：挤压"
+ },
+ "minecraft:entity.small_sulfur_cube.death": {
+  "en": "Small Sulfur Cube dies",
+  "zh": "小型硫方怪：死亡"
+ },
+ "minecraft:entity.small_sulfur_cube.eat": {
+  "en": "Small Sulfur Cube puts on mass",
+  "zh": "小型硫方怪：增加质量"
+ },
+ "minecraft:entity.small_sulfur_cube.hurt": {
+  "en": "Small Sulfur Cube hurts",
+  "zh": "小型硫方怪：受伤"
+ },
+ "minecraft:entity.small_sulfur_cube.jump": {
+  "en": "Small Sulfur Cube bounces",
+  "zh": "小型硫方怪：弹起"
+ },
+ "minecraft:entity.small_sulfur_cube.squish": {
+  "en": "Small Sulfur Cube: Squish",
+  "zh": "小型硫磺立方：挤压"
+ },
+ "minecraft:entity.sniffer.death": {
+  "en": "Sniffer dies",
+  "zh": "嗅探兽：死亡"
+ },
+ "minecraft:entity.sniffer.digging": {
+  "en": "Sniffer digs",
+  "zh": "嗅探兽：挖掘"
+ },
+ "minecraft:entity.sniffer.digging_stop": {
+  "en": "Sniffer stands up",
+  "zh": "嗅探兽：站起"
+ },
+ "minecraft:entity.sniffer.drop_seed": {
+  "en": "Sniffer drops seed",
+  "zh": "嗅探兽：丢下种子"
+ },
+ "minecraft:entity.sniffer.eat": {
+  "en": "Sniffer eats",
+  "zh": "嗅探兽：进食"
+ },
+ "minecraft:entity.sniffer.happy": {
+  "en": "Sniffer delights",
+  "zh": "嗅探兽：愉悦"
+ },
+ "minecraft:entity.sniffer.hurt": {
+  "en": "Sniffer hurts",
+  "zh": "嗅探兽：受伤"
+ },
+ "minecraft:entity.sniffer.idle": {
+  "en": "Sniffer grunts",
+  "zh": "嗅探兽：呼噜"
+ },
+ "minecraft:entity.sniffer.scenting": {
+  "en": "Sniffer scents",
+  "zh": "嗅探兽：嗅闻"
+ },
+ "minecraft:entity.sniffer.searching": {
+  "en": "Sniffer searches",
+  "zh": "嗅探兽：搜寻"
+ },
+ "minecraft:entity.sniffer.sniffing": {
+  "en": "Sniffer sniffs",
+  "zh": "嗅探兽：嗅探"
+ },
+ "minecraft:entity.sniffer.step": {
+  "en": "Sniffer: Step",
+  "zh": "嗅探兽：脚步"
+ },
+ "minecraft:entity.snow_golem.ambient": {
+  "en": "Snow Golem: Ambience",
+  "zh": "雪傀儡：环境音"
+ },
+ "minecraft:entity.snow_golem.death": {
+  "en": "Snow Golem dies",
+  "zh": "雪傀儡：死亡"
+ },
+ "minecraft:entity.snow_golem.hurt": {
+  "en": "Snow Golem hurts",
+  "zh": "雪傀儡：受伤"
+ },
+ "minecraft:entity.snow_golem.shear": {
+  "en": "Shears click",
+  "zh": "剪刀：咔嚓"
+ },
+ "minecraft:entity.snow_golem.shoot": {
+  "en": "Snowball flies",
+  "zh": "雪球：飞出"
+ },
+ "minecraft:entity.snowball.throw": {
+  "en": "Snowball flies",
+  "zh": "雪球：飞出"
+ },
+ "minecraft:entity.spider.ambient": {
+  "en": "Spider hisses",
+  "zh": "蜘蛛：嘶嘶"
+ },
+ "minecraft:entity.spider.death": {
+  "en": "Spider dies",
+  "zh": "蜘蛛：死亡"
+ },
+ "minecraft:entity.spider.hurt": {
+  "en": "Spider hurts",
+  "zh": "蜘蛛：受伤"
+ },
+ "minecraft:entity.spider.step": {
+  "en": "Spider: Step",
+  "zh": "蜘蛛：脚步"
+ },
+ "minecraft:entity.splash_potion.break": {
+  "en": "Bottle smashes",
+  "zh": "玻璃瓶：碎裂"
+ },
+ "minecraft:entity.splash_potion.throw": {
+  "en": "Bottle thrown",
+  "zh": "玻璃瓶：扔出"
+ },
+ "minecraft:entity.squid.ambient": {
+  "en": "Squid swims",
+  "zh": "鱿鱼：游泳"
+ },
+ "minecraft:entity.squid.death": {
+  "en": "Squid dies",
+  "zh": "鱿鱼：死亡"
+ },
+ "minecraft:entity.squid.hurt": {
+  "en": "Squid hurts",
+  "zh": "鱿鱼：受伤"
+ },
+ "minecraft:entity.squid.squirt": {
+  "en": "Squid shoots ink",
+  "zh": "鱿鱼：喷墨"
+ },
+ "minecraft:entity.stray.ambient": {
+  "en": "Stray rattles",
+  "zh": "流浪者：咯咯声"
+ },
+ "minecraft:entity.stray.death": {
+  "en": "Stray dies",
+  "zh": "流浪者：死亡"
+ },
+ "minecraft:entity.stray.hurt": {
+  "en": "Stray hurts",
+  "zh": "流浪者：受伤"
+ },
+ "minecraft:entity.stray.step": {
+  "en": "Stray: Step",
+  "zh": "流浪者：脚步"
+ },
+ "minecraft:entity.strider.ambient": {
+  "en": "Strider chirps",
+  "zh": "炽足兽：啾啾"
+ },
+ "minecraft:entity.strider.death": {
+  "en": "Strider dies",
+  "zh": "炽足兽：死亡"
+ },
+ "minecraft:entity.strider.eat": {
+  "en": "Strider eats",
+  "zh": "炽足兽：进食"
+ },
+ "minecraft:entity.strider.happy": {
+  "en": "Strider warbles",
+  "zh": "炽足兽：颤鸣"
+ },
+ "minecraft:entity.strider.hurt": {
+  "en": "Strider hurts",
+  "zh": "炽足兽：受伤"
+ },
+ "minecraft:entity.strider.retreat": {
+  "en": "Strider retreats",
+  "zh": "炽足兽：退缩"
+ },
+ "minecraft:entity.strider.saddle": {
+  "en": "Strider: Saddle",
+  "zh": "炽足兽：鞍"
+ },
+ "minecraft:entity.strider.step": {
+  "en": "Strider: Step",
+  "zh": "炽足兽：脚步"
+ },
+ "minecraft:entity.strider.step_lava": {
+  "en": "Footsteps",
+  "zh": "脚步声"
+ },
+ "minecraft:entity.sulfur_cube.absorb": {
+  "en": "Sulfur Cube full",
+  "zh": "硫方怪：填充"
+ },
+ "minecraft:entity.sulfur_cube.bounce": {
+  "en": "Sulfur Cube bounces",
+  "zh": "硫方怪：弹起"
+ },
+ "minecraft:entity.sulfur_cube.bouncy.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.bouncy.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.death": {
+  "en": "Sulfur Cube dies",
+  "zh": "硫方怪：死亡"
+ },
+ "minecraft:entity.sulfur_cube.eject": {
+  "en": "Block removed",
+  "zh": "方块：被移除"
+ },
+ "minecraft:entity.sulfur_cube.explosive.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.explosive.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.fast_flat.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.fast_flat.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.fast_sliding.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.fast_sliding.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.high_resistance.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.high_resistance.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.hot.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.hot.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.hurt": {
+  "en": "Sulfur Cube hurts",
+  "zh": "硫方怪：受伤"
+ },
+ "minecraft:entity.sulfur_cube.jump": {
+  "en": "Sulfur Cube bounces",
+  "zh": "硫方怪：弹起"
+ },
+ "minecraft:entity.sulfur_cube.light.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.light.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.regular.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.regular.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.slow_bouncy.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.slow_bouncy.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.slow_flat.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.slow_flat.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.slow_sliding.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.slow_sliding.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.sulfur_cube.squish": {
+  "en": "Sulfur Cube: Squish",
+  "zh": "硫方怪：挤压"
+ },
+ "minecraft:entity.sulfur_cube.sticky.hit": {
+  "en": "Sulfur Cube hit",
+  "zh": "硫方怪：受击"
+ },
+ "minecraft:entity.sulfur_cube.sticky.push": {
+  "en": "Sulfur Cube pushed",
+  "zh": "硫方怪：被推动"
+ },
+ "minecraft:entity.tadpole.death": {
+  "en": "Tadpole dies",
+  "zh": "蝌蚪：死亡"
+ },
+ "minecraft:entity.tadpole.flop": {
+  "en": "Tadpole flops",
+  "zh": "蝌蚪：扑腾"
+ },
+ "minecraft:entity.tadpole.grow_up": {
+  "en": "Tadpole grows up",
+  "zh": "蝌蚪：成长"
+ },
+ "minecraft:entity.tadpole.hurt": {
+  "en": "Tadpole hurts",
+  "zh": "蝌蚪：受伤"
+ },
+ "minecraft:entity.tnt.primed": {
+  "zh": "TNT 被点燃",
+  "en": "TNT Fizzes"
+ },
+ "minecraft:entity.tropical_fish.ambient": {
+  "en": "Tropical Fish: Ambience",
+  "zh": "热带鱼：环境音"
+ },
+ "minecraft:entity.tropical_fish.death": {
+  "en": "Tropical Fish dies",
+  "zh": "热带鱼：死亡"
+ },
+ "minecraft:entity.tropical_fish.flop": {
+  "en": "Tropical Fish flops",
+  "zh": "热带鱼：扑腾"
+ },
+ "minecraft:entity.tropical_fish.hurt": {
+  "en": "Tropical Fish hurts",
+  "zh": "热带鱼：受伤"
+ },
+ "minecraft:entity.turtle.ambient_land": {
+  "en": "Turtle chirps",
+  "zh": "海龟：啾啾"
+ },
+ "minecraft:entity.turtle.death": {
+  "en": "Turtle dies",
+  "zh": "海龟：死亡"
+ },
+ "minecraft:entity.turtle.death_baby": {
+  "en": "Baby Turtle dies",
+  "zh": "幼年海龟：死亡"
+ },
+ "minecraft:entity.turtle.egg_break": {
+  "en": "Turtle Egg breaks",
+  "zh": "海龟蛋：破裂"
+ },
+ "minecraft:entity.turtle.egg_crack": {
+  "en": "Turtle Egg cracks",
+  "zh": "海龟蛋：裂开"
+ },
+ "minecraft:entity.turtle.egg_hatch": {
+  "en": "Turtle Egg hatches",
+  "zh": "海龟蛋：孵化"
+ },
+ "minecraft:entity.turtle.hurt": {
+  "en": "Turtle hurts",
+  "zh": "海龟：受伤"
+ },
+ "minecraft:entity.turtle.hurt_baby": {
+  "en": "Baby Turtle hurts",
+  "zh": "幼年海龟：受伤"
+ },
+ "minecraft:entity.turtle.lay_egg": {
+  "en": "Turtle lays egg",
+  "zh": "海龟：产卵"
+ },
+ "minecraft:entity.turtle.shamble": {
+  "en": "Turtle shambles",
+  "zh": "海龟：爬行"
+ },
+ "minecraft:entity.turtle.shamble_baby": {
+  "en": "Baby Turtle shambles",
+  "zh": "幼年海龟：爬行"
+ },
+ "minecraft:entity.turtle.swim": {
+  "en": "Turtle swims",
+  "zh": "海龟：游泳"
+ },
+ "minecraft:entity.vex.ambient": {
+  "en": "Vex vexes",
+  "zh": "恼鬼：恼人"
+ },
+ "minecraft:entity.vex.charge": {
+  "en": "Vex shrieks",
+  "zh": "恼鬼：尖叫"
+ },
+ "minecraft:entity.vex.death": {
+  "en": "Vex dies",
+  "zh": "恼鬼：死亡"
+ },
+ "minecraft:entity.vex.hurt": {
+  "en": "Vex hurts",
+  "zh": "恼鬼：受伤"
+ },
+ "minecraft:entity.villager.ambient": {
+  "en": "Villager mumbles",
+  "zh": "村民：喃喃自语"
+ },
+ "minecraft:entity.villager.celebrate": {
+  "en": "Villager cheers",
+  "zh": "村民：欢呼"
+ },
+ "minecraft:entity.villager.death": {
+  "en": "Villager dies",
+  "zh": "村民：死亡"
+ },
+ "minecraft:entity.villager.hurt": {
+  "en": "Villager hurts",
+  "zh": "村民：受伤"
+ },
+ "minecraft:entity.villager.no": {
+  "en": "Villager disagrees",
+  "zh": "村民：拒绝"
+ },
+ "minecraft:entity.villager.trade": {
+  "en": "Villager trades",
+  "zh": "村民：交易"
+ },
+ "minecraft:entity.villager.work_armorer": {
+  "en": "Armorer works",
+  "zh": "盔甲匠：工作"
+ },
+ "minecraft:entity.villager.work_butcher": {
+  "en": "Butcher works",
+  "zh": "屠夫：工作"
+ },
+ "minecraft:entity.villager.work_cartographer": {
+  "en": "Cartographer works",
+  "zh": "制图师：工作"
+ },
+ "minecraft:entity.villager.work_cleric": {
+  "en": "Cleric works",
+  "zh": "牧师：工作"
+ },
+ "minecraft:entity.villager.work_farmer": {
+  "en": "Farmer works",
+  "zh": "农民：工作"
+ },
+ "minecraft:entity.villager.work_fisherman": {
+  "en": "Fisherman works",
+  "zh": "渔夫：工作"
+ },
+ "minecraft:entity.villager.work_fletcher": {
+  "en": "Fletcher works",
+  "zh": "制箭师：工作"
+ },
+ "minecraft:entity.villager.work_leatherworker": {
+  "en": "Leatherworker works",
+  "zh": "皮匠：工作"
+ },
+ "minecraft:entity.villager.work_librarian": {
+  "en": "Librarian works",
+  "zh": "图书管理员：工作"
+ },
+ "minecraft:entity.villager.work_mason": {
+  "en": "Mason works",
+  "zh": "石匠：工作"
+ },
+ "minecraft:entity.villager.work_shepherd": {
+  "en": "Shepherd works",
+  "zh": "牧羊人：工作"
+ },
+ "minecraft:entity.villager.work_toolsmith": {
+  "en": "Toolsmith works",
+  "zh": "工具匠：工作"
+ },
+ "minecraft:entity.villager.work_weaponsmith": {
+  "en": "Weaponsmith works",
+  "zh": "武器匠：工作"
+ },
+ "minecraft:entity.villager.yes": {
+  "en": "Villager agrees",
+  "zh": "村民：同意"
+ },
+ "minecraft:entity.vindicator.ambient": {
+  "en": "Vindicator mutters",
+  "zh": "卫道士：低语"
+ },
+ "minecraft:entity.vindicator.celebrate": {
+  "en": "Vindicator cheers",
+  "zh": "卫道士：欢呼"
+ },
+ "minecraft:entity.vindicator.death": {
+  "en": "Vindicator dies",
+  "zh": "卫道士：死亡"
+ },
+ "minecraft:entity.vindicator.hurt": {
+  "en": "Vindicator hurts",
+  "zh": "卫道士：受伤"
+ },
+ "minecraft:entity.wandering_trader.ambient": {
+  "en": "Wandering Trader mumbles",
+  "zh": "流浪商人：喃喃自语"
+ },
+ "minecraft:entity.wandering_trader.death": {
+  "en": "Wandering Trader dies",
+  "zh": "流浪商人：死亡"
+ },
+ "minecraft:entity.wandering_trader.disappeared": {
+  "en": "Wandering Trader disappears",
+  "zh": "流浪商人：隐身"
+ },
+ "minecraft:entity.wandering_trader.drink_milk": {
+  "en": "Wandering Trader drinks milk",
+  "zh": "流浪商人：喝奶"
+ },
+ "minecraft:entity.wandering_trader.drink_potion": {
+  "en": "Wandering Trader drinks potion",
+  "zh": "流浪商人：饮用药水"
+ },
+ "minecraft:entity.wandering_trader.hurt": {
+  "en": "Wandering Trader hurts",
+  "zh": "流浪商人：受伤"
+ },
+ "minecraft:entity.wandering_trader.no": {
+  "en": "Wandering Trader disagrees",
+  "zh": "流浪商人：拒绝"
+ },
+ "minecraft:entity.wandering_trader.reappeared": {
+  "en": "Wandering Trader appears",
+  "zh": "流浪商人：现身"
+ },
+ "minecraft:entity.wandering_trader.trade": {
+  "en": "Wandering Trader trades",
+  "zh": "流浪商人：交易"
+ },
+ "minecraft:entity.wandering_trader.yes": {
+  "en": "Wandering Trader agrees",
+  "zh": "流浪商人：同意"
+ },
+ "minecraft:entity.warden.agitated": {
+  "en": "Warden groans angrily",
+  "zh": "监守者：怒吼"
+ },
+ "minecraft:entity.warden.ambient": {
+  "en": "Warden whines",
+  "zh": "监守者：呻吟"
+ },
+ "minecraft:entity.warden.angry": {
+  "en": "Warden rages",
+  "zh": "监守者：狂怒"
+ },
+ "minecraft:entity.warden.attack_impact": {
+  "en": "Warden lands hit",
+  "zh": "监守者：击中"
+ },
+ "minecraft:entity.warden.death": {
+  "en": "Warden dies",
+  "zh": "监守者：死亡"
+ },
+ "minecraft:entity.warden.dig": {
+  "en": "Warden digs",
+  "zh": "监守者：掘地"
+ },
+ "minecraft:entity.warden.emerge": {
+  "en": "Warden emerges",
+  "zh": "监守者：现身"
+ },
+ "minecraft:entity.warden.heartbeat": {
+  "en": "Warden's heart beats",
+  "zh": "监守者：心跳声"
+ },
+ "minecraft:entity.warden.hurt": {
+  "en": "Warden hurts",
+  "zh": "监守者：受伤"
+ },
+ "minecraft:entity.warden.listening": {
+  "en": "Warden takes notice",
+  "zh": "监守者：察觉到某物"
+ },
+ "minecraft:entity.warden.listening_angry": {
+  "en": "Warden takes notice angrily",
+  "zh": "监守者：愤怒地察觉到某物"
+ },
+ "minecraft:entity.warden.nearby_close": {
+  "en": "Warden approaches",
+  "zh": "监守者：接近"
+ },
+ "minecraft:entity.warden.nearby_closer": {
+  "en": "Warden advances",
+  "zh": "监守者：逼近"
+ },
+ "minecraft:entity.warden.nearby_closest": {
+  "en": "Warden draws close",
+  "zh": "监守者：迫近"
+ },
+ "minecraft:entity.warden.roar": {
+  "en": "Warden roars",
+  "zh": "监守者：咆哮"
+ },
+ "minecraft:entity.warden.sniff": {
+  "en": "Warden sniffs",
+  "zh": "监守者：嗅闻"
+ },
+ "minecraft:entity.warden.sonic_boom": {
+  "en": "Warden booms",
+  "zh": "监守者：发射音波"
+ },
+ "minecraft:entity.warden.sonic_charge": {
+  "en": "Warden charges",
+  "zh": "监守者：蓄力"
+ },
+ "minecraft:entity.warden.step": {
+  "en": "Warden: Step",
+  "zh": "监守者：脚步"
+ },
+ "minecraft:entity.warden.tendril_clicks": {
+  "en": "Warden's tendrils click",
+  "zh": "监守者：卷须颤动"
+ },
+ "minecraft:entity.wind_charge.throw": {
+  "en": "Wind Charge flies",
+  "zh": "风弹：飞行"
+ },
+ "minecraft:entity.wind_charge.wind_burst": {
+  "en": "Wind Charge bursts",
+  "zh": "风弹：爆裂"
+ },
+ "minecraft:entity.witch.ambient": {
+  "en": "Witch giggles",
+  "zh": "女巫：暗笑"
+ },
+ "minecraft:entity.witch.celebrate": {
+  "en": "Witch cheers",
+  "zh": "女巫：欢呼"
+ },
+ "minecraft:entity.witch.death": {
+  "en": "Witch dies",
+  "zh": "女巫：死亡"
+ },
+ "minecraft:entity.witch.drink": {
+  "en": "Witch drinks",
+  "zh": "女巫：饮用药水"
+ },
+ "minecraft:entity.witch.hurt": {
+  "en": "Witch hurts",
+  "zh": "女巫：受伤"
+ },
+ "minecraft:entity.witch.throw": {
+  "en": "Witch throws",
+  "zh": "女巫：投掷"
+ },
+ "minecraft:entity.wither.ambient": {
+  "en": "Wither angers",
+  "zh": "凋灵：愤怒"
+ },
+ "minecraft:entity.wither.break_block": {
+  "en": "Wither attacks",
+  "zh": "凋灵：攻击"
+ },
+ "minecraft:entity.wither.death": {
+  "en": "Wither dies",
+  "zh": "凋灵：死亡"
+ },
+ "minecraft:entity.wither.hurt": {
+  "en": "Wither hurts",
+  "zh": "凋灵：受伤"
+ },
+ "minecraft:entity.wither.shoot": {
+  "en": "Wither attacks",
+  "zh": "凋灵：攻击"
+ },
+ "minecraft:entity.wither.spawn": {
+  "en": "Wither released",
+  "zh": "凋灵：解放"
+ },
+ "minecraft:entity.wither_skeleton.ambient": {
+  "en": "Wither Skeleton rattles",
+  "zh": "凋灵骷髅：咯咯声"
+ },
+ "minecraft:entity.wither_skeleton.death": {
+  "en": "Wither Skeleton dies",
+  "zh": "凋灵骷髅：死亡"
+ },
+ "minecraft:entity.wither_skeleton.hurt": {
+  "en": "Wither Skeleton hurts",
+  "zh": "凋灵骷髅：受伤"
+ },
+ "minecraft:entity.wither_skeleton.step": {
+  "en": "Wither Skeleton: Step",
+  "zh": "凋灵骷髅：脚步"
+ },
+ "minecraft:entity.wolf.ambient": {
+  "en": "Wolf barks",
+  "zh": "狼：吠叫"
+ },
+ "minecraft:entity.wolf.death": {
+  "en": "Wolf dies",
+  "zh": "狼：死亡"
+ },
+ "minecraft:entity.wolf.growl": {
+  "en": "Wolf growls",
+  "zh": "狼：嚎叫"
+ },
+ "minecraft:entity.wolf.hurt": {
+  "en": "Wolf hurts",
+  "zh": "狼：受伤"
+ },
+ "minecraft:entity.wolf.pant": {
+  "en": "Wolf pants",
+  "zh": "狼：喘息"
+ },
+ "minecraft:entity.wolf.shake": {
+  "en": "Wolf shakes",
+  "zh": "狼：摇动"
+ },
+ "minecraft:entity.wolf.step": {
+  "en": "Wolf: Step",
+  "zh": "狼：脚步"
+ },
+ "minecraft:entity.wolf.whine": {
+  "en": "Wolf whines",
+  "zh": "狼：呜咽"
+ },
+ "minecraft:entity.wolf_angry.ambient": {
+  "en": "Wolf barks",
+  "zh": "狼：吠叫"
+ },
+ "minecraft:entity.wolf_angry.death": {
+  "en": "Wolf dies",
+  "zh": "狼：死亡"
+ },
+ "minecraft:entity.wolf_angry.growl": {
+  "en": "Wolf growls",
+  "zh": "狼：嚎叫"
+ },
+ "minecraft:entity.wolf_angry.hurt": {
+  "en": "Wolf hurts",
+  "zh": "狼：受伤"
+ },
+ "minecraft:entity.wolf_angry.pant": {
+  "en": "Wolf pants",
+  "zh": "狼：喘息"
+ },
+ "minecraft:entity.wolf_angry.whine": {
+  "en": "Wolf whines",
+  "zh": "狼：呜咽"
+ },
+ "minecraft:entity.wolf_big.ambient": {
+  "en": "Wolf barks",
+  "zh": "狼：吠叫"
+ },
+ "minecraft:entity.wolf_big.death": {
+  "en": "Wolf dies",
+  "zh": "狼：死亡"
+ },
+ "minecraft:entity.wolf_big.growl": {
+  "en": "Wolf growls",
+  "zh": "狼：嚎叫"
+ },
+ "minecraft:entity.wolf_big.hurt": {
+  "en": "Wolf hurts",
+  "zh": "狼：受伤"
+ },
+ "minecraft:entity.wolf_big.pant": {
+  "en": "Wolf pants",
+  "zh": "狼：喘息"
+ },
+ "minecraft:entity.wolf_big.whine": {
+  "en": "Wolf whines",
+  "zh": "狼：呜咽"
+ },
+ "minecraft:entity.wolf_cute.ambient": {
+  "en": "Wolf barks",
+  "zh": "狼：吠叫"
+ },
+ "minecraft:entity.wolf_cute.death": {
+  "en": "Wolf dies",
+  "zh": "狼：死亡"
+ },
+ "minecraft:entity.wolf_cute.growl": {
+  "en": "Wolf growls",
+  "zh": "狼：嚎叫"
+ },
+ "minecraft:entity.wolf_cute.hurt": {
+  "en": "Wolf hurts",
+  "zh": "狼：受伤"
+ },
+ "minecraft:entity.wolf_cute.pant": {
+  "en": "Wolf pants",
+  "zh": "狼：喘息"
+ },
+ "minecraft:entity.wolf_cute.whine": {
+  "en": "Wolf whines",
+  "zh": "狼：呜咽"
+ },
+ "minecraft:entity.wolf_grumpy.ambient": {
+  "en": "Wolf barks",
+  "zh": "狼：吠叫"
+ },
+ "minecraft:entity.wolf_grumpy.death": {
+  "en": "Wolf dies",
+  "zh": "狼：死亡"
+ },
+ "minecraft:entity.wolf_grumpy.growl": {
+  "en": "Wolf growls",
+  "zh": "狼：嚎叫"
+ },
+ "minecraft:entity.wolf_grumpy.hurt": {
+  "en": "Wolf hurts",
+  "zh": "狼：受伤"
+ },
+ "minecraft:entity.wolf_grumpy.pant": {
+  "en": "Wolf pants",
+  "zh": "狼：喘息"
+ },
+ "minecraft:entity.wolf_grumpy.whine": {
+  "en": "Wolf whines",
+  "zh": "狼：呜咽"
+ },
+ "minecraft:entity.wolf_puglin.ambient": {
+  "en": "Wolf barks",
+  "zh": "狼：吠叫"
+ },
+ "minecraft:entity.wolf_puglin.death": {
+  "en": "Wolf dies",
+  "zh": "狼：死亡"
+ },
+ "minecraft:entity.wolf_puglin.growl": {
+  "en": "Wolf growls",
+  "zh": "狼：嚎叫"
+ },
+ "minecraft:entity.wolf_puglin.hurt": {
+  "en": "Wolf hurts",
+  "zh": "狼：受伤"
+ },
+ "minecraft:entity.wolf_puglin.pant": {
+  "en": "Wolf pants",
+  "zh": "狼：喘息"
+ },
+ "minecraft:entity.wolf_puglin.whine": {
+  "en": "Wolf whines",
+  "zh": "狼：呜咽"
+ },
+ "minecraft:entity.wolf_sad.ambient": {
+  "en": "Wolf barks",
+  "zh": "狼：吠叫"
+ },
+ "minecraft:entity.wolf_sad.death": {
+  "en": "Wolf dies",
+  "zh": "狼：死亡"
+ },
+ "minecraft:entity.wolf_sad.growl": {
+  "en": "Wolf growls",
+  "zh": "狼：嚎叫"
+ },
+ "minecraft:entity.wolf_sad.hurt": {
+  "en": "Wolf hurts",
+  "zh": "狼：受伤"
+ },
+ "minecraft:entity.wolf_sad.pant": {
+  "en": "Wolf pants",
+  "zh": "狼：喘息"
+ },
+ "minecraft:entity.wolf_sad.whine": {
+  "en": "Wolf whines",
+  "zh": "狼：呜咽"
+ },
+ "minecraft:entity.zoglin.ambient": {
+  "en": "Zoglin growls",
+  "zh": "僵尸疣猪兽：咆哮"
+ },
+ "minecraft:entity.zoglin.angry": {
+  "en": "Zoglin growls angrily",
+  "zh": "僵尸疣猪兽：怒吼"
+ },
+ "minecraft:entity.zoglin.attack": {
+  "en": "Zoglin attacks",
+  "zh": "僵尸疣猪兽：攻击"
+ },
+ "minecraft:entity.zoglin.death": {
+  "en": "Zoglin dies",
+  "zh": "僵尸疣猪兽：死亡"
+ },
+ "minecraft:entity.zoglin.hurt": {
+  "en": "Zoglin hurts",
+  "zh": "僵尸疣猪兽：受伤"
+ },
+ "minecraft:entity.zoglin.step": {
+  "en": "Zoglin: Step",
+  "zh": "僵尸疣猪兽：脚步"
+ },
+ "minecraft:entity.zombie.ambient": {
+  "en": "Zombie groans",
+  "zh": "僵尸：低吼"
+ },
+ "minecraft:entity.zombie.attack_iron_door": {
+  "en": "Block broken",
+  "zh": "方块：被破坏"
+ },
+ "minecraft:entity.zombie.attack_wooden_door": {
+  "en": "Door shakes",
+  "zh": "门：晃动"
+ },
+ "minecraft:entity.zombie.break_wooden_door": {
+  "en": "Door breaks",
+  "zh": "门：毁坏"
+ },
+ "minecraft:entity.zombie.converted_to_drowned": {
+  "en": "Zombie converts to Drowned",
+  "zh": "僵尸：转化为溺尸"
+ },
+ "minecraft:entity.zombie.death": {
+  "en": "Zombie dies",
+  "zh": "僵尸：死亡"
+ },
+ "minecraft:entity.zombie.destroy_egg": {
+  "en": "Turtle Egg stomped",
+  "zh": "海龟蛋：被踩踏"
+ },
+ "minecraft:entity.zombie.hurt": {
+  "en": "Zombie hurts",
+  "zh": "僵尸：受伤"
+ },
+ "minecraft:entity.zombie.infect": {
+  "en": "Zombie infects",
+  "zh": "僵尸：感染"
+ },
+ "minecraft:entity.zombie.step": {
+  "en": "Zombie: Step",
+  "zh": "僵尸：脚步"
+ },
+ "minecraft:entity.zombie_horse.ambient": {
+  "en": "Zombie Horse cries",
+  "zh": "僵尸马：嘶叫"
+ },
+ "minecraft:entity.zombie_horse.angry": {
+  "en": "Zombie Horse neighs",
+  "zh": "僵尸马：嘶鸣"
+ },
+ "minecraft:entity.zombie_horse.death": {
+  "en": "Zombie Horse dies",
+  "zh": "僵尸马：死亡"
+ },
+ "minecraft:entity.zombie_horse.eat": {
+  "en": "Zombie Horse eats",
+  "zh": "僵尸马：进食"
+ },
+ "minecraft:entity.zombie_horse.hurt": {
+  "en": "Zombie Horse hurts",
+  "zh": "僵尸马：受伤"
+ },
+ "minecraft:entity.zombie_nautilus.ambient": {
+  "en": "Zombie Nautilus burbles",
+  "zh": "僵尸鹦鹉螺：嗡嗡作响"
+ },
+ "minecraft:entity.zombie_nautilus.ambient_land": {
+  "en": "Zombie Nautilus burbles",
+  "zh": "僵尸鹦鹉螺：咕噜"
+ },
+ "minecraft:entity.zombie_nautilus.dash": {
+  "en": "Zombie Nautilus jets",
+  "zh": "僵尸鹦鹉螺：喷进"
+ },
+ "minecraft:entity.zombie_nautilus.dash_land": {
+  "en": "Zombie Nautilus jets",
+  "zh": "僵尸鹦鹉螺：喷进"
+ },
+ "minecraft:entity.zombie_nautilus.dash_ready": {
+  "en": "Zombie Nautilus recovers",
+  "zh": "僵尸鹦鹉螺：恢复体力"
+ },
+ "minecraft:entity.zombie_nautilus.dash_ready_land": {
+  "en": "Zombie Nautilus recovers",
+  "zh": "僵尸鹦鹉螺：恢复体力"
+ },
+ "minecraft:entity.zombie_nautilus.death": {
+  "en": "Zombie Nautilus dies",
+  "zh": "僵尸鹦鹉螺：死亡"
+ },
+ "minecraft:entity.zombie_nautilus.death_land": {
+  "en": "Zombie Nautilus dies",
+  "zh": "僵尸鹦鹉螺：死亡"
+ },
+ "minecraft:entity.zombie_nautilus.eat": {
+  "en": "Zombie Nautilus eats",
+  "zh": "僵尸鹦鹉螺：进食"
+ },
+ "minecraft:entity.zombie_nautilus.hurt": {
+  "en": "Zombie Nautilus hurts",
+  "zh": "僵尸鹦鹉螺：受伤"
+ },
+ "minecraft:entity.zombie_nautilus.hurt_land": {
+  "en": "Zombie Nautilus hurts",
+  "zh": "僵尸鹦鹉螺：受伤"
+ },
+ "minecraft:entity.zombie_nautilus.swim": {
+  "en": "Zombie Nautilus swims",
+  "zh": "僵尸鹦鹉螺：游泳"
+ },
+ "minecraft:entity.zombie_villager.ambient": {
+  "en": "Zombie Villager groans",
+  "zh": "僵尸村民：低吼"
+ },
+ "minecraft:entity.zombie_villager.converted": {
+  "en": "Zombie Villager vociferates",
+  "zh": "僵尸村民：哀嚎"
+ },
+ "minecraft:entity.zombie_villager.cure": {
+  "en": "Zombie Villager snuffles",
+  "zh": "僵尸村民：撕心裂肺"
+ },
+ "minecraft:entity.zombie_villager.death": {
+  "en": "Zombie Villager dies",
+  "zh": "僵尸村民：死亡"
+ },
+ "minecraft:entity.zombie_villager.hurt": {
+  "en": "Zombie Villager hurts",
+  "zh": "僵尸村民：受伤"
+ },
+ "minecraft:entity.zombie_villager.step": {
+  "en": "Zombie Villager: Step",
+  "zh": "僵尸村民：脚步"
+ },
+ "minecraft:entity.zombified_piglin.ambient": {
+  "en": "Zombified Piglin grunts",
+  "zh": "僵尸猪灵：呼噜"
+ },
+ "minecraft:entity.zombified_piglin.angry": {
+  "en": "Zombified Piglin grunts angrily",
+  "zh": "僵尸猪灵：愤怒地呼噜"
+ },
+ "minecraft:entity.zombified_piglin.death": {
+  "en": "Zombified Piglin dies",
+  "zh": "僵尸猪灵：死亡"
+ },
+ "minecraft:entity.zombified_piglin.hurt": {
+  "en": "Zombified Piglin hurts",
+  "zh": "僵尸猪灵：受伤"
+ },
+ "minecraft:event.mob_effect.bad_omen": {
+  "en": "Omen takes hold",
+  "zh": "不祥之兆：显现"
+ },
+ "minecraft:event.mob_effect.raid_omen": {
+  "en": "Raid looms nearby",
+  "zh": "袭击：迫在眉睫"
+ },
+ "minecraft:event.mob_effect.trial_omen": {
+  "en": "Ominous trial looms nearby",
+  "zh": "不祥试炼：迫在眉睫"
+ },
+ "minecraft:event.raid.horn": {
+  "en": "Ominous horn blares",
+  "zh": "不祥号角：鸣响"
+ },
+ "minecraft:item.armor.equip_chain": {
+  "en": "Chain armor jingles",
+  "zh": "锁链盔甲：碰擦"
+ },
+ "minecraft:item.armor.equip_copper": {
+  "en": "Copper armor clonks",
+  "zh": "铜盔甲：哐咚"
+ },
+ "minecraft:item.armor.equip_diamond": {
+  "en": "Diamond armor clangs",
+  "zh": "钻石盔甲：碰擦"
+ },
+ "minecraft:item.armor.equip_elytra": {
+  "en": "Elytra rustle",
+  "zh": "鞘翅：沙沙作响"
+ },
+ "minecraft:item.armor.equip_generic": {
+  "en": "Gear equips",
+  "zh": "盔甲：装备"
+ },
+ "minecraft:item.armor.equip_gold": {
+  "en": "Gold armor clinks",
+  "zh": "金盔甲：叮当"
+ },
+ "minecraft:item.armor.equip_iron": {
+  "en": "Iron armor clanks",
+  "zh": "铁盔甲：铿锵"
+ },
+ "minecraft:item.armor.equip_leather": {
+  "en": "Leather armor rustles",
+  "zh": "皮革盔甲：摩擦"
+ },
+ "minecraft:item.armor.equip_nautilus": {
+  "en": "Nautilus Armor equips",
+  "zh": "鹦鹉螺铠：装备"
+ },
+ "minecraft:item.armor.equip_netherite": {
+  "en": "Netherite armor clanks",
+  "zh": "下界合金盔甲：铿锵"
+ },
+ "minecraft:item.armor.equip_turtle": {
+  "en": "Turtle Shell thunks",
+  "zh": "海龟壳：咕咚"
+ },
+ "minecraft:item.armor.equip_wolf": {
+  "en": "Wolf Armor is fastened",
+  "zh": "狼铠：装备"
+ },
+ "minecraft:item.armor.unequip_nautilus": {
+  "en": "Nautilus Armor unequips",
+  "zh": "鹦鹉螺铠：卸下"
+ },
+ "minecraft:item.armor.unequip_wolf": {
+  "en": "Wolf Armor snips away",
+  "zh": "狼铠：滑落"
+ },
+ "minecraft:item.axe.scrape": {
+  "en": "Axe scrapes",
+  "zh": "斧：刮削"
+ },
+ "minecraft:item.axe.strip": {
+  "en": "Axe strips",
+  "zh": "斧：削皮"
+ },
+ "minecraft:item.axe.wax_off": {
+  "en": "Wax off",
+  "zh": "脱蜡"
+ },
+ "minecraft:item.bone_meal.use": {
+  "en": "Bone Meal crinkles",
+  "zh": "骨粉：沙沙作响"
+ },
+ "minecraft:item.book.page_turn": {
+  "en": "Page rustles",
+  "zh": "书页：沙沙作响"
+ },
+ "minecraft:item.book.put": {
+  "en": "Book thumps",
+  "zh": "书：放置"
+ },
+ "minecraft:item.bottle.empty": {
+  "en": "Bottle empties",
+  "zh": "玻璃瓶：倒空"
+ },
+ "minecraft:item.bottle.fill": {
+  "en": "Bottle fills",
+  "zh": "玻璃瓶：装满"
+ },
+ "minecraft:item.bottle.fill_dragonbreath": {
+  "en": "Bottle fills",
+  "zh": "玻璃瓶：装满"
+ },
+ "minecraft:item.brush.brushing.generic": {
+  "en": "Brushing",
+  "zh": "刷子：刷扫中"
+ },
+ "minecraft:item.brush.brushing.gravel": {
+  "en": "Brushing Gravel",
+  "zh": "刷子：刷扫沙砾中"
+ },
+ "minecraft:item.brush.brushing.gravel.complete": {
+  "en": "Brushing Gravel completed",
+  "zh": "刷子：刷扫沙砾完毕"
+ },
+ "minecraft:item.brush.brushing.sand": {
+  "en": "Brushing Sand",
+  "zh": "刷子：刷扫沙子中"
+ },
+ "minecraft:item.brush.brushing.sand.complete": {
+  "en": "Brushing Sand completed",
+  "zh": "刷子：刷扫沙子完毕"
+ },
+ "minecraft:item.bucket.empty": {
+  "en": "Bucket empties",
+  "zh": "铁桶：倒空"
+ },
+ "minecraft:item.bucket.empty_axolotl": {
+  "en": "Bucket empties",
+  "zh": "铁桶：倒空"
+ },
+ "minecraft:item.bucket.empty_fish": {
+  "en": "Bucket empties",
+  "zh": "铁桶：倒空"
+ },
+ "minecraft:item.bucket.empty_lava": {
+  "en": "Bucket empties",
+  "zh": "铁桶：倒空"
+ },
+ "minecraft:item.bucket.empty_powder_snow": {
+  "en": "Bucket empties",
+  "zh": "铁桶：倒空"
+ },
+ "minecraft:item.bucket.empty_sulfur_cube": {
+  "en": "Bucket empties",
+  "zh": "铁桶：倒空"
+ },
+ "minecraft:item.bucket.empty_tadpole": {
+  "en": "Bucket empties",
+  "zh": "铁桶：倒空"
+ },
+ "minecraft:item.bucket.fill": {
+  "en": "Bucket fills",
+  "zh": "铁桶：装满"
+ },
+ "minecraft:item.bucket.fill_axolotl": {
+  "en": "Axolotl scooped",
+  "zh": "美西螈：被装起"
+ },
+ "minecraft:item.bucket.fill_fish": {
+  "en": "Fish captured",
+  "zh": "鱼：被捕获"
+ },
+ "minecraft:item.bucket.fill_lava": {
+  "en": "Bucket fills",
+  "zh": "铁桶：装满"
+ },
+ "minecraft:item.bucket.fill_powder_snow": {
+  "en": "Bucket fills",
+  "zh": "铁桶：装满"
+ },
+ "minecraft:item.bucket.fill_sulfur_cube": {
+  "en": "Sulfur Cube scooped",
+  "zh": "硫方怪：被装起"
+ },
+ "minecraft:item.bucket.fill_tadpole": {
+  "en": "Tadpole captured",
+  "zh": "蝌蚪：被捕获"
+ },
+ "minecraft:item.bundle.drop_contents": {
+  "en": "Bundle empties",
+  "zh": "收纳袋：倒空"
+ },
+ "minecraft:item.bundle.insert": {
+  "en": "Item packed",
+  "zh": "物品：装入袋中"
+ },
+ "minecraft:item.bundle.insert_fail": {
+  "en": "Bundle full",
+  "zh": "收纳袋：已满"
+ },
+ "minecraft:item.bundle.remove_one": {
+  "en": "Item unpacked",
+  "zh": "物品：从袋中取出"
+ },
+ "minecraft:item.chorus_fruit.teleport": {
+  "en": "Player teleports",
+  "zh": "玩家：传送"
+ },
+ "minecraft:item.crop.plant": {
+  "en": "Block placed",
+  "zh": "方块：被放置"
+ },
+ "minecraft:item.crossbow.hit": {
+  "en": "Arrow hits",
+  "zh": "箭：击中"
+ },
+ "minecraft:item.crossbow.loading_end": {
+  "en": "Crossbow loads",
+  "zh": "弩：装填"
+ },
+ "minecraft:item.crossbow.loading_middle": {
+  "en": "Crossbow charges up",
+  "zh": "弩：蓄力"
+ },
+ "minecraft:item.crossbow.loading_start": {
+  "en": "Crossbow charges up",
+  "zh": "弩：蓄力"
+ },
+ "minecraft:item.crossbow.quick_charge_1": {
+  "en": "Crossbow charges up",
+  "zh": "弩：蓄力"
+ },
+ "minecraft:item.crossbow.quick_charge_2": {
+  "en": "Crossbow charges up",
+  "zh": "弩：蓄力"
+ },
+ "minecraft:item.crossbow.quick_charge_3": {
+  "en": "Crossbow charges up",
+  "zh": "弩：蓄力"
+ },
+ "minecraft:item.crossbow.shoot": {
+  "en": "Crossbow fires",
+  "zh": "弩：发射"
+ },
+ "minecraft:item.dye.use": {
+  "en": "Dye stains",
+  "zh": "染料：染色"
+ },
+ "minecraft:item.elytra.flying": {
+  "en": "Swoosh",
+  "zh": "呼啸声"
+ },
+ "minecraft:item.firecharge.use": {
+  "en": "Fireball whooshes",
+  "zh": "火焰弹：呼啸"
+ },
+ "minecraft:item.flintandsteel.use": {
+  "en": "Flint and Steel click",
+  "zh": "打火石：点火"
+ },
+ "minecraft:item.glow_ink_sac.use": {
+  "en": "Glow Ink Sac splotches",
+  "zh": "荧光墨囊：涂抹"
+ },
+ "minecraft:item.goat_horn.sound.0": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.goat_horn.sound.1": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.goat_horn.sound.2": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.goat_horn.sound.3": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.goat_horn.sound.4": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.goat_horn.sound.5": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.goat_horn.sound.6": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.goat_horn.sound.7": {
+  "en": "Goat Horn plays",
+  "zh": "山羊角：吹奏"
+ },
+ "minecraft:item.golden_dandelion.unuse": {
+  "en": "Golden Dandelion starts aging",
+  "zh": "金蒲公英：恢复生物成长"
+ },
+ "minecraft:item.golden_dandelion.use": {
+  "en": "Golden Dandelion halts aging",
+  "zh": "金蒲公英：中止生物成长"
+ },
+ "minecraft:item.hoe.till": {
+  "en": "Hoe tills",
+  "zh": "锄：犁地"
+ },
+ "minecraft:item.honey_bottle.drink": {
+  "en": "Gulping",
+  "zh": "吞咽"
+ },
+ "minecraft:item.honeycomb.wax_on": {
+  "en": "Wax on",
+  "zh": "涂蜡"
+ },
+ "minecraft:item.horse_armor.unequip": {
+  "en": "Horse Armor snips away",
+  "zh": "马铠：滑落"
+ },
+ "minecraft:item.ink_sac.use": {
+  "en": "Ink Sac splotches",
+  "zh": "墨囊：涂抹"
+ },
+ "minecraft:item.lead.break": {
+  "en": "Lead snaps",
+  "zh": "拴绳：断开"
+ },
+ "minecraft:item.lead.tied": {
+  "en": "Lead tied",
+  "zh": "拴绳：系上"
+ },
+ "minecraft:item.lead.untied": {
+  "en": "Lead untied",
+  "zh": "拴绳：解开"
+ },
+ "minecraft:item.llama_carpet.unequip": {
+  "en": "Carpet snips away",
+  "zh": "地毯：滑落"
+ },
+ "minecraft:item.lodestone_compass.lock": {
+  "en": "Lodestone Compass locks onto Lodestone",
+  "zh": "磁石指针：绑定磁石"
+ },
+ "minecraft:item.mace.smash_air": {
+  "en": "Mace smashes",
+  "zh": "重锤：猛击"
+ },
+ "minecraft:item.mace.smash_ground": {
+  "en": "Mace smashes",
+  "zh": "重锤：猛击"
+ },
+ "minecraft:item.mace.smash_ground_heavy": {
+  "en": "Mace smashes",
+  "zh": "重锤：猛击"
+ },
+ "minecraft:item.nautilus_saddle_equip": {
+  "en": "Saddle equips",
+  "zh": "鞍：装备"
+ },
+ "minecraft:item.nautilus_saddle_underwater_equip": {
+  "en": "Saddle equips",
+  "zh": "鞍：装备"
+ },
+ "minecraft:item.nether_wart.plant": {
+  "en": "Block placed",
+  "zh": "方块：被放置"
+ },
+ "minecraft:item.ominous_bottle.dispose": {
+  "en": "Bottle breaks",
+  "zh": "玻璃瓶：碎裂"
+ },
+ "minecraft:item.saddle.unequip": {
+  "en": "Saddle snips away",
+  "zh": "鞍：滑落"
+ },
+ "minecraft:item.shears.snip": {
+  "en": "Shears snip",
+  "zh": "剪刀：剪断"
+ },
+ "minecraft:item.shield.block": {
+  "en": "Shield blocks",
+  "zh": "盾牌：格挡"
+ },
+ "minecraft:item.shield.break": {
+  "en": "Item breaks",
+  "zh": "物品：损坏"
+ },
+ "minecraft:item.shovel.flatten": {
+  "en": "Shovel flattens",
+  "zh": "锹：压地"
+ },
+ "minecraft:item.spear.attack": {
+  "en": "Spear jabs",
+  "zh": "矛：戳刺"
+ },
+ "minecraft:item.spear.hit": {
+  "en": "Spear hits",
+  "zh": "矛：击中"
+ },
+ "minecraft:item.spear.lunge_1": {
+  "en": "Spear lunges",
+  "zh": "矛：突进"
+ },
+ "minecraft:item.spear.lunge_2": {
+  "en": "Spear lunges",
+  "zh": "矛：突进"
+ },
+ "minecraft:item.spear.lunge_3": {
+  "en": "Spear lunges",
+  "zh": "矛：突进"
+ },
+ "minecraft:item.spear.use": {
+  "en": "Charges with Spear",
+  "zh": "持矛冲锋"
+ },
+ "minecraft:item.spear_wood.attack": {
+  "en": "Spear jabs",
+  "zh": "矛：戳刺"
+ },
+ "minecraft:item.spear_wood.hit": {
+  "en": "Spear hits",
+  "zh": "矛：击中"
+ },
+ "minecraft:item.spear_wood.use": {
+  "en": "Charges with Spear",
+  "zh": "持矛冲锋"
+ },
+ "minecraft:item.spyglass.stop_using": {
+  "en": "Spyglass retracts",
+  "zh": "望远镜：缩小"
+ },
+ "minecraft:item.spyglass.use": {
+  "en": "Spyglass expands",
+  "zh": "望远镜：放大"
+ },
+ "minecraft:item.totem.use": {
+  "en": "Totem activates",
+  "zh": "图腾：发动"
+ },
+ "minecraft:item.trident.hit": {
+  "en": "Trident stabs",
+  "zh": "三叉戟：突刺"
+ },
+ "minecraft:item.trident.hit_ground": {
+  "en": "Trident vibrates",
+  "zh": "三叉戟：振动"
+ },
+ "minecraft:item.trident.return": {
+  "en": "Trident returns",
+  "zh": "三叉戟：收回"
+ },
+ "minecraft:item.trident.riptide_1": {
+  "en": "Trident zooms",
+  "zh": "三叉戟：突进"
+ },
+ "minecraft:item.trident.riptide_2": {
+  "en": "Trident zooms",
+  "zh": "三叉戟：突进"
+ },
+ "minecraft:item.trident.riptide_3": {
+  "en": "Trident zooms",
+  "zh": "三叉戟：突进"
+ },
+ "minecraft:item.trident.throw": {
+  "en": "Trident clangs",
+  "zh": "三叉戟：铿锵"
+ },
+ "minecraft:item.trident.thunder": {
+  "en": "Trident thunder cracks",
+  "zh": "三叉戟：电闪雷鸣"
+ },
+ "minecraft:item.wolf_armor.break": {
+  "en": "Wolf Armor breaks",
+  "zh": "狼铠：损坏"
+ },
+ "minecraft:item.wolf_armor.crack": {
+  "en": "Wolf Armor cracks",
+  "zh": "狼铠：裂开"
+ },
+ "minecraft:item.wolf_armor.damage": {
+  "en": "Wolf Armor takes damage",
+  "zh": "狼铠：受损"
+ },
+ "minecraft:item.wolf_armor.repair": {
+  "en": "Wolf Armor is repaired",
+  "zh": "狼铠：被修复"
+ },
+ "minecraft:music.creative": {
+  "en": "Music: Creative",
+  "zh": "背景音乐：创造模式"
+ },
+ "minecraft:music.credits": {
+  "en": "Music: Credits",
+  "zh": "背景音乐：制作人员名单"
+ },
+ "minecraft:music.dragon": {
+  "en": "Music: Ender Dragon",
+  "zh": "背景音乐：末影龙"
+ },
+ "minecraft:music.end": {
+  "en": "Music: The End",
+  "zh": "背景音乐：末地"
+ },
+ "minecraft:music.game": {
+  "en": "Music: Game",
+  "zh": "背景音乐：游戏"
+ },
+ "minecraft:music.menu": {
+  "en": "Music: Menu",
+  "zh": "背景音乐：菜单"
+ },
+ "minecraft:music.nether.basalt_deltas": {
+  "en": "Music: Nether - Basalt Deltas",
+  "zh": "背景音乐：下界 - 玄武岩三角洲"
+ },
+ "minecraft:music.nether.crimson_forest": {
+  "en": "Music: Nether - Crimson Forest",
+  "zh": "背景音乐：下界 - 绯红森林"
+ },
+ "minecraft:music.nether.nether_wastes": {
+  "en": "Music: Nether - Nether Wastes",
+  "zh": "背景音乐：下界 - 下界荒地"
+ },
+ "minecraft:music.nether.soul_sand_valley": {
+  "en": "Music: Nether - Soul Sand Valley",
+  "zh": "背景音乐：下界 - 灵魂沙峡谷"
+ },
+ "minecraft:music.nether.warped_forest": {
+  "en": "Music: Nether - Warped Forest",
+  "zh": "背景音乐：下界 - 诡异森林"
+ },
+ "minecraft:music.overworld.badlands": {
+  "en": "Music: Overworld - Badlands",
+  "zh": "背景音乐：主世界 - 恶地"
+ },
+ "minecraft:music.overworld.bamboo_jungle": {
+  "en": "Music: Overworld - Bamboo Jungle",
+  "zh": "背景音乐：主世界 - 竹林"
+ },
+ "minecraft:music.overworld.cherry_grove": {
+  "en": "Music: Overworld - Cherry Grove",
+  "zh": "背景音乐：主世界 - 樱花树林"
+ },
+ "minecraft:music.overworld.deep_dark": {
+  "en": "Music: Overworld - Deep Dark",
+  "zh": "背景音乐：主世界 - 深暗之域"
+ },
+ "minecraft:music.overworld.desert": {
+  "en": "Music: Overworld - Desert",
+  "zh": "背景音乐：主世界 - 沙漠"
+ },
+ "minecraft:music.overworld.dripstone_caves": {
+  "en": "Music: Overworld - Dripstone Caves",
+  "zh": "背景音乐：主世界 - 溶洞"
+ },
+ "minecraft:music.overworld.flower_forest": {
+  "en": "Music: Overworld - Flower Forest",
+  "zh": "背景音乐：主世界 - 繁花森林"
+ },
+ "minecraft:music.overworld.forest": {
+  "en": "Music: Overworld - Forest",
+  "zh": "背景音乐：主世界 - 森林"
+ },
+ "minecraft:music.overworld.frozen_peaks": {
+  "en": "Music: Overworld - Frozen Peaks",
+  "zh": "背景音乐：主世界 - 冰封山峰"
+ },
+ "minecraft:music.overworld.grove": {
+  "en": "Music: Overworld - Grove",
+  "zh": "背景音乐：主世界 - 雪林"
+ },
+ "minecraft:music.overworld.jagged_peaks": {
+  "en": "Music: Overworld - Jagged Peaks",
+  "zh": "背景音乐：主世界 - 尖峭山峰"
+ },
+ "minecraft:music.overworld.jungle": {
+  "en": "Music: Overworld - Jungle",
+  "zh": "背景音乐：主世界 - 丛林"
+ },
+ "minecraft:music.overworld.lush_caves": {
+  "en": "Music: Overworld - Lush Caves",
+  "zh": "背景音乐：主世界 - 繁茂洞穴"
+ },
+ "minecraft:music.overworld.meadow": {
+  "en": "Music: Overworld - Meadow",
+  "zh": "背景音乐：主世界 - 草甸"
+ },
+ "minecraft:music.overworld.old_growth_taiga": {
+  "zh": "背景音乐：主世界 - 原始针叶林",
+  "en": "Music: Overworld - Old Growth Taiga"
+ },
+ "minecraft:music.overworld.snowy_slopes": {
+  "en": "Music: Overworld - Snowy Slopes",
+  "zh": "背景音乐：主世界 - 积雪山坡"
+ },
+ "minecraft:music.overworld.sparse_jungle": {
+  "en": "Music: Overworld - Sparse Jungle",
+  "zh": "背景音乐：主世界 - 稀疏丛林"
+ },
+ "minecraft:music.overworld.stony_peaks": {
+  "en": "Music: Overworld - Stony Peaks",
+  "zh": "背景音乐：主世界 - 裸岩山峰"
+ },
+ "minecraft:music.overworld.sulfur_caves": {
+  "en": "Music: Overworld - Sulfur Caves",
+  "zh": "背景音乐：主世界 - 硫黄洞穴"
+ },
+ "minecraft:music.overworld.swamp": {
+  "en": "Music: Overworld - Swamp",
+  "zh": "背景音乐：主世界 - 沼泽"
+ },
+ "minecraft:music.under_water": {
+  "en": "Music: Underwater",
+  "zh": "背景音乐：水下"
+ },
+ "minecraft:music_disc.11": {
+  "en": "Music Disc: C418 - 11",
+  "zh": "音乐唱片：C418 - 11"
+ },
+ "minecraft:music_disc.13": {
+  "en": "Music Disc: C418 - 13",
+  "zh": "音乐唱片：C418 - 13"
+ },
+ "minecraft:music_disc.5": {
+  "en": "Music Disc: Samuel Åberg - 5",
+  "zh": "音乐唱片：Samuel Åberg - 5"
+ },
+ "minecraft:music_disc.blocks": {
+  "en": "Music Disc: C418 - blocks",
+  "zh": "音乐唱片：C418 - blocks"
+ },
+ "minecraft:music_disc.bounce": {
+  "en": "Music Disc: fingerspit - Bounce",
+  "zh": "音乐唱片：fingerspit - Bounce"
+ },
+ "minecraft:music_disc.cat": {
+  "en": "Music Disc: C418 - cat",
+  "zh": "音乐唱片：C418 - cat"
+ },
+ "minecraft:music_disc.chirp": {
+  "en": "Music Disc: C418 - chirp",
+  "zh": "音乐唱片：C418 - chirp"
+ },
+ "minecraft:music_disc.creator": {
+  "en": "Music Disc: Lena Raine - Creator",
+  "zh": "音乐唱片：Lena Raine - Creator"
+ },
+ "minecraft:music_disc.creator_music_box": {
+  "en": "Music Disc: Lena Raine - Creator (Music Box)",
+  "zh": "音乐唱片：Lena Raine - Creator（八音盒）"
+ },
+ "minecraft:music_disc.far": {
+  "en": "Music Disc: C418 - far",
+  "zh": "音乐唱片：C418 - far"
+ },
+ "minecraft:music_disc.lava_chicken": {
+  "en": "Music Disc: Hyper Potions - Lava Chicken",
+  "zh": "音乐唱片：Hyper Potions - Lava Chicken"
+ },
+ "minecraft:music_disc.mall": {
+  "en": "Music Disc: C418 - mall",
+  "zh": "音乐唱片：C418 - mall"
+ },
+ "minecraft:music_disc.mellohi": {
+  "en": "Music Disc: C418 - mellohi",
+  "zh": "音乐唱片：C418 - mellohi"
+ },
+ "minecraft:music_disc.otherside": {
+  "en": "Music Disc: Lena Raine - otherside",
+  "zh": "音乐唱片：Lena Raine - otherside"
+ },
+ "minecraft:music_disc.pigstep": {
+  "en": "Music Disc: Lena Raine - Pigstep",
+  "zh": "音乐唱片：Lena Raine - Pigstep"
+ },
+ "minecraft:music_disc.precipice": {
+  "en": "Music Disc: Aaron Cherof - Precipice",
+  "zh": "音乐唱片：Aaron Cherof - Precipice"
+ },
+ "minecraft:music_disc.relic": {
+  "en": "Music Disc: Aaron Cherof - Relic",
+  "zh": "音乐唱片：Aaron Cherof - Relic"
+ },
+ "minecraft:music_disc.stal": {
+  "en": "Music Disc: C418 - stal",
+  "zh": "音乐唱片：C418 - stal"
+ },
+ "minecraft:music_disc.strad": {
+  "en": "Music Disc: C418 - strad",
+  "zh": "音乐唱片：C418 - strad"
+ },
+ "minecraft:music_disc.tears": {
+  "en": "Music Disc: Amos Roddy - Tears",
+  "zh": "音乐唱片：Amos Roddy - Tears"
+ },
+ "minecraft:music_disc.wait": {
+  "en": "Music Disc: C418 - wait",
+  "zh": "音乐唱片：C418 - wait"
+ },
+ "minecraft:music_disc.ward": {
+  "en": "Music Disc: C418 - ward",
+  "zh": "音乐唱片：C418 - ward"
+ },
+ "minecraft:particle.soul_escape": {
+  "en": "Soul escapes",
+  "zh": "灵魂：逸散"
+ },
+ "minecraft:ui.button.click": {
+  "zh": "按钮点击",
+  "en": "Button Click"
+ },
+ "minecraft:ui.cartography_table.take_result": {
+  "en": "Map drawn",
+  "zh": "地图：绘制"
+ },
+ "minecraft:ui.hud.bubble_pop": {
+  "en": "Breath meter dropping",
+  "zh": "氧气值：减少"
+ },
+ "minecraft:ui.loom.select_pattern": {
+  "en": "Loom: Select Pattern",
+  "zh": "织布机：选择图案"
+ },
+ "minecraft:ui.loom.take_result": {
+  "en": "Loom used",
+  "zh": "织布机：使用"
+ },
+ "minecraft:ui.stonecutter.select_recipe": {
+  "en": "Stonecutter: Select Recipe",
+  "zh": "切石机：选择配方"
+ },
+ "minecraft:ui.stonecutter.take_result": {
+  "en": "Stonecutter used",
+  "zh": "切石机：使用"
+ },
+ "minecraft:ui.toast.challenge_complete": {
+  "en": "Challenge Complete",
+  "zh": "进度达成提示音"
+ },
+ "minecraft:ui.toast.in": {
+  "en": "Toast In",
+  "zh": "提示音：进入"
+ },
+ "minecraft:ui.toast.out": {
+  "en": "Toast Out",
+  "zh": "提示音：退出"
+ },
+ "minecraft:weather.end_flash": {
+  "en": "End Flash rumbles",
+  "zh": "末地闪光：轰鸣"
+ },
+ "minecraft:weather.rain": {
+  "en": "Rain falls",
+  "zh": "雨：落下"
+ },
+ "minecraft:weather.rain.above": {
+  "en": "Rain falls",
+  "zh": "雨：落下"
+ }
+}
